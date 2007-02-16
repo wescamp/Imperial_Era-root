@@ -1,0 +1,2120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2007-02-17 00:55+0100\n"
+"PO-Revision-Date: 2007-02-17 00:54+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: Imperial_Era/Imperial_Era.cfg:6
+msgid "Imperial"
+msgstr ""
+
+#: Imperial_Era/Imperial_Era.cfg:17
+msgid "Imperial (unbalanced)"
+msgstr ""
+
+#: Imperial_Era/Imperial_Era.cfg:32
+msgid "Imperial Champions"
+msgstr ""
+
+#: Imperial_Era/Imperial_Era.cfg:43
+msgid "Imperial Champions (unbalanced)"
+msgstr ""
+
+#: Imperial_Era/factions/imper-airiya.cfg:5
+#: Imperial_Era/factions/imper_champs-airiya.cfg:5
+msgid "Airiya"
+msgstr ""
+
+#: Imperial_Era/factions/imper_champs-arendians.cfg:5
+#: Imperial_Era/factions/imper-arendians.cfg:5
+msgid "Arendians"
+msgstr ""
+
+#: Imperial_Era/factions/imper_champs-cavernei.cfg:5
+#: Imperial_Era/factions/imper-cavernei.cfg:5
+msgid "Cavernei"
+msgstr ""
+
+#: Imperial_Era/factions/imper-frost_elves.cfg:5
+#: Imperial_Era/factions/imper_champs-frost_elves.cfg:5
+msgid "Frost Elves"
+msgstr ""
+
+#: Imperial_Era/factions/imper-gentes_orcorum.cfg:5
+#: Imperial_Era/factions/imper_champs-gentes_orcorum.cfg:5
+msgid "Gentes Orcorum"
+msgstr ""
+
+#: Imperial_Era/factions/imper-lavinian_legion.cfg:5
+#: Imperial_Era/factions/imper_champs-lavinian_legion.cfg:5
+msgid "Lavinian Legion"
+msgstr ""
+
+#: Imperial_Era/factions/imper_champs-marauders.cfg:5
+#: Imperial_Era/factions/imper-marauders.cfg:5
+msgid "Marauders"
+msgstr ""
+
+#: Imperial_Era/factions/imper-sidhe.cfg:5
+#: Imperial_Era/factions/imper_champs-sidhe.cfg:5
+msgid "Wild Elves"
+msgstr ""
+
+#: Imperial_Era/scenarios/multiplayer/4p_The_Haunted_Forest.cfg:5
+msgid "4p - The Haunted Forest"
+msgstr ""
+
+#: Imperial_Era/scenarios/multiplayer/4p_The_Haunted_Forest.cfg:6
+msgid ""
+"The depths of the Sidhe forest are known for the ghosts that live therein. "
+"The shades of Sidhe warriors long departed, they reside in the rocky cairns "
+"that mark the landscape. Treasure hunters often attempt to loot their "
+"graves, but they will gain nothing without a fight. Recommended setting of 2 "
+"gold per village."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Archer.cfg:5
+#: Imperial_Era/units/Frost_Elf_Archer.cfg:5
+msgid "Archer"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Archer.cfg:19
+msgid ""
+"Any Arendian clan only supports and upkeeps the best archers out of war "
+"time. Training neww archers is never a priority. This means that any archers "
+"who do join the clan's army in times of need are usually hunters from the "
+"clans or towns, those already familiar with their weapons. They have little "
+"to no armour, and whatever bow they use at their homes, typically a handmade "
+"hunting bow, or a family heirloom. They are also normally expected to hunt "
+"for their own food, and supply their own arrows. \n"
+" But in the end all of this is worth it, for any archers who do get accepted "
+"as regulars are treated well with good pay and food."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Swordsman.cfg:22
+#: Imperial_Era/units/Wild_Elf_Raindancer.cfg:22
+#: Imperial_Era/units/Wild_Elf_Herald.cfg:26
+#: Imperial_Era/units/Wild_Elf_Veiledblade.cfg:22
+#: Imperial_Era/units/Wild_Elf_Warmage.cfg:23
+#: Imperial_Era/units/Arendian_Archer.cfg:23
+#: Imperial_Era/units/Wild_Elf_Whirlwind.cfg:27
+#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:43
+#: Imperial_Era/units/Wild_Elf_Shadowdancer.cfg:23
+#: Imperial_Era/units/Arendian_Hero.cfg:27
+#: Imperial_Era/units/Marauder_Pillager.cfg:21
+#: Imperial_Era/units/Arendian_Bowknight.cfg:22
+#: Imperial_Era/units/Frost_Elf_Ice_Dancer.cfg:32
+#: Imperial_Era/units/Wild_Elf_Wildblade.cfg:26
+#: Imperial_Era/units/Arendian_Bowmaster.cfg:23
+#: Imperial_Era/units/Marauder_Lord.cfg:25
+#: Imperial_Era/units/Marauder_Warrior.cfg:38
+#: Imperial_Era/units/Frost_Elf_Borealis.cfg:40
+#: Imperial_Era/units/Arendian_Chief.cfg:24
+#: Imperial_Era/units/Arendian_Mounted-Marksman.cfg:30
+#: Imperial_Era/units/Wild_Elf_Warrior.cfg:23
+#: Imperial_Era/units/Frost_Elf_Ice_Roamer.cfg:31
+#: Imperial_Era/units/Arendian_Feather_Bow.cfg:29
+#: Imperial_Era/units/Arendian_Boltrider.cfg:21
+#: Imperial_Era/units/Arendian_Horse_Master.cfg:23
+#: Imperial_Era/units/Arendian_Slayer.cfg:24
+#: Imperial_Era/units/Wild_Elf_Warsinger.cfg:27
+#: Imperial_Era/units/Frost_Elf_Archer.cfg:39
+#: Imperial_Era/units/Arendian_Mounted_Warrior.cfg:22
+#: Imperial_Era/units/Wild_Elf_Tempest.cfg:22
+#: Imperial_Era/units/Arendian_Warlord.cfg:25
+#: Imperial_Era/units/Wild_Elf_Wardancer.cfg:24
+#: Imperial_Era/units/Frost_Elf_Bladesman.cfg:29
+#: Imperial_Era/units/Arendian_Arrow_Wind.cfg:23
+#: Imperial_Era/units/Arendian_Wanderer.cfg:26
+#: Imperial_Era/units/Frost_Elf_Gelus.cfg:39
+#: Imperial_Era/units/Wild_Elf_Fury.cfg:26
+#: Imperial_Era/units/Wild_Elf_Windlasher.cfg:22
+#: Imperial_Era/units/Marauder_Scorcher.cfg:22
+#: Imperial_Era/units/Arendian_Horseman.cfg:22
+#: Imperial_Era/units/Wild_Elf_Bladespinner.cfg:23
+#: Imperial_Era/units/Arendian_Bowrider.cfg:22
+#: Imperial_Era/units/Arendian_Hunter.cfg:23
+msgid "sword"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Signifer.cfg:33
+#: Imperial_Era/units/Arendian_Swordsman.cfg:23
+#: Imperial_Era/units/Lavinian_Archuballistarius.cfg:33
+#: Imperial_Era/units/Lavinian_Decurion.cfg:33
+#: Imperial_Era/units/Cavernei_Dragonguard.cfg:26
+#: Imperial_Era/units/Lavinian_Funditor.cfg:30
+#: Imperial_Era/units/Wild_Elf_Raindancer.cfg:23
+#: Imperial_Era/units/Wild_Elf_Herald.cfg:27
+#: Imperial_Era/units/Wild_Elf_Veiledblade.cfg:23
+#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:34
+#: Imperial_Era/units/Wild_Elf_Warmage.cfg:24
+#: Imperial_Era/units/Frost_Elf_Mistral_Glacialist.cfg:32
+#: Imperial_Era/units/Seal.cfg:30 Imperial_Era/units/Arendian_Archer.cfg:24
+#: Imperial_Era/units/Wild_Elf_Whirlwind.cfg:28
+#: Imperial_Era/units/Marauder_Boatsman.cfg:22
+#: Imperial_Era/units/Nemidian_Champion.cfg:55
+#: Imperial_Era/units/Fleet_Seal.cfg:30
+#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:44
+#: Imperial_Era/units/Wild_Elf_Shadowdancer.cfg:24
+#: Imperial_Era/units/Arendian_Hero.cfg:28
+#: Imperial_Era/units/Marauder_Pillager.cfg:22
+#: Imperial_Era/units/Lavinian_Centurion.cfg:34
+#: Imperial_Era/units/Marauder_Sailor.cfg:23
+#: Imperial_Era/units/Arendian_Bowknight.cfg:23
+#: Imperial_Era/units/Lavinian_Slinger.cfg:29
+#: Imperial_Era/units/Frost_Elf_Ice_Dancer.cfg:33
+#: Imperial_Era/units/Wild_Elf_Wildblade.cfg:27
+#: Imperial_Era/units/Cavernei_Eagle_Master.cfg:29
+#: Imperial_Era/units/Arendian_Bowmaster.cfg:24
+#: Imperial_Era/units/Marauder_Woodsman.cfg:23
+#: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:24
+#: Imperial_Era/units/Marauder_Lord.cfg:26
+#: Imperial_Era/units/Marauder_Warrior.cfg:39
+#: Imperial_Era/units/Lavinian_Legionnaire.cfg:30
+#: Imperial_Era/units/Marauder_Mounted_Axeman.cfg:22
+#: Imperial_Era/units/Marauder_Mounted_Axeman.cfg:37
+#: Imperial_Era/units/Frost_Elf_Borealis.cfg:41
+#: Imperial_Era/units/Cavernei_Thunderguard.cfg:26
+#: Imperial_Era/units/Arendian_Chief.cfg:25
+#: Imperial_Era/units/Cavernei_Thunderer.cfg:42
+#: Imperial_Era/units/Marauder_Axeman.cfg:39
+#: Imperial_Era/units/Arendian_Mounted-Marksman.cfg:31
+#: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:31
+#: Imperial_Era/units/Wild_Elf_Warrior.cfg:24
+#: Imperial_Era/units/Cavernei_Steelclad.cfg:30
+#: Imperial_Era/units/Frost_Elf_Ice_Roamer.cfg:32
+#: Imperial_Era/units/Lavinian_Aquilifer.cfg:34
+#: Imperial_Era/units/Arendian_Feather_Bow.cfg:30
+#: Imperial_Era/units/Arendian_Boltrider.cfg:22
+#: Imperial_Era/units/Arendian_Horse_Master.cfg:24
+#: Imperial_Era/units/Arendian_Slayer.cfg:25
+#: Imperial_Era/units/Lavinian_Propugnator.cfg:33
+#: Imperial_Era/units/Wild_Elf_Warsinger.cfg:28
+#: Imperial_Era/units/Frost_Elf_Archer.cfg:40
+#: Imperial_Era/units/Marauder_Sea_Wolf.cfg:24
+#: Imperial_Era/units/Arendian_Mounted_Warrior.cfg:23
+#: Imperial_Era/units/Cavernei_Eagle_Rider.cfg:29
+#: Imperial_Era/units/Wild_Elf_Tempest.cfg:23
+#: Imperial_Era/units/Arendian_Warlord.cfg:26
+#: Imperial_Era/units/Lavinian_Auxiliary.cfg:30
+#: Imperial_Era/units/Wild_Elf_Wardancer.cfg:25
+#: Imperial_Era/units/Frost_Elf_Bladesman.cfg:30
+#: Imperial_Era/units/Arendian_Arrow_Wind.cfg:24
+#: Imperial_Era/units/Arendian_Wanderer.cfg:27
+#: Imperial_Era/units/Frost_Elf_Mistral_Cryomancer.cfg:33
+#: Imperial_Era/units/Frost_Elf_Gelus.cfg:40
+#: Imperial_Era/units/Wild_Elf_Fury.cfg:27
+#: Imperial_Era/units/Wild_Elf_Windlasher.cfg:23
+#: Imperial_Era/units/Cavernei_Fighter.cfg:28
+#: Imperial_Era/units/Marauder_Raider.cfg:23
+#: Imperial_Era/units/Marauder_Scorcher.cfg:23
+#: Imperial_Era/units/Arendian_Horseman.cfg:23
+#: Imperial_Era/units/Wild_Elf_Bladespinner.cfg:24
+#: Imperial_Era/units/Nemidian_Claimant.cfg:54
+#: Imperial_Era/units/Lavinian_Rorarius.cfg:30
+#: Imperial_Era/units/Elder_Seal.cfg:31
+#: Imperial_Era/units/Frost_Elf_Glaivier.cfg:30
+#: Imperial_Era/units/Lavinian_Ballista.cfg:30
+#: Imperial_Era/units/Arendian_Bowrider.cfg:23
+#: Imperial_Era/units/Marauder_Scout.cfg:22
+#: Imperial_Era/units/Cavernei_Lord.cfg:30
+#: Imperial_Era/units/Cavernei_Lord.cfg:107
+#: Imperial_Era/units/Lavinian_Light_Infantry.cfg:29
+#: Imperial_Era/units/Marauder_Hunter.cfg:22
+#: Imperial_Era/units/Arendian_Hunter.cfg:24
+msgid "blade"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Siege_Archer.cfg:32
+#: Imperial_Era/units/Lavinian_Siege_Archer.cfg:72
+#: Imperial_Era/units/Lavinian_Bowman.cfg:36
+#: Imperial_Era/units/Lavinian_Bowman.cfg:73
+#: Imperial_Era/units/Lavinian_Saggitarius.cfg:32
+#: Imperial_Era/units/Lavinian_Saggitarius.cfg:75
+#: Imperial_Era/units/Arendian_Archer.cfg:38
+#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:100
+#: Imperial_Era/units/Arendian_Bowknight.cfg:37
+#: Imperial_Era/units/Arendian_Bowmaster.cfg:38
+#: Imperial_Era/units/Marauder_Woodsman.cfg:48
+#: Imperial_Era/units/Frost_Elf_Borealis.cfg:59
+#: Imperial_Era/units/Marauder_Axeman.cfg:64
+#: Imperial_Era/units/Arendian_Mounted-Marksman.cfg:45
+#: Imperial_Era/units/Arendian_Feather_Bow.cfg:44
+#: Imperial_Era/units/Arendian_Boltrider.cfg:36
+#: Imperial_Era/units/Arendian_Slayer.cfg:39
+#: Imperial_Era/units/Frost_Elf_Archer.cfg:58
+#: Imperial_Era/units/Arendian_Arrow_Wind.cfg:38
+#: Imperial_Era/units/Frost_Elf_Gelus.cfg:58
+#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:80
+#: Imperial_Era/units/Arendian_Bowrider.cfg:37
+#: Imperial_Era/units/Marauder_Hunter.cfg:47
+#: Imperial_Era/units/Arendian_Hunter.cfg:38
+msgid "bow"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Archuballistarius.cfg:79
+#: Imperial_Era/units/Lavinian_Decurion.cfg:59
+#: Imperial_Era/units/Lavinian_Decurion.cfg:88
+#: Imperial_Era/units/Cavernei_Dragonguard.cfg:64
+#: Imperial_Era/units/Lavinian_Siege_Archer.cfg:33
+#: Imperial_Era/units/Lavinian_Bowman.cfg:37
+#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:93
+#: Imperial_Era/units/Cavernei_Stalwart.cfg:37
+#: Imperial_Era/units/Cavernei_Stalwart.cfg:86
+#: Imperial_Era/units/Lavinian_Saggitarius.cfg:33
+#: Imperial_Era/units/Arendian_Archer.cfg:39
+#: Imperial_Era/units/Nemidian_Champion.cfg:38
+#: Imperial_Era/units/Nemidian_Champion.cfg:69
+#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:63
+#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:101
+#: Imperial_Era/units/Arendian_Hero.cfg:43
+#: Imperial_Era/units/Lavinian_Centurion.cfg:60
+#: Imperial_Era/units/Lavinian_Centurion.cfg:89
+#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:65
+#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:88
+#: Imperial_Era/units/Arendian_Bowknight.cfg:38
+#: Imperial_Era/units/Cavernei_Sentinel.cfg:42
+#: Imperial_Era/units/Cavernei_Sentinel.cfg:91
+#: Imperial_Era/units/Arendian_Bowmaster.cfg:39
+#: Imperial_Era/units/Marauder_Woodsman.cfg:49
+#: Imperial_Era/units/Cavernei_Guardsman.cfg:34
+#: Imperial_Era/units/Cavernei_Guardsman.cfg:83
+#: Imperial_Era/units/Lavinian_Legionnaire.cfg:143
+#: Imperial_Era/units/Frost_Elf_Borealis.cfg:60
+#: Imperial_Era/units/Cavernei_Thunderguard.cfg:74
+#: Imperial_Era/units/Cavernei_Thunderer.cfg:90
+#: Imperial_Era/units/Marauder_Axeman.cfg:65
+#: Imperial_Era/units/Lavinian_Velite.cfg:33
+#: Imperial_Era/units/Lavinian_Velite.cfg:78
+#: Imperial_Era/units/Arendian_Mounted-Marksman.cfg:46
+#: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:53
+#: Imperial_Era/units/Nemidian_Horseman.cfg:37
+#: Imperial_Era/units/Nemidian_Horseman.cfg:54
+#: Imperial_Era/units/Arendian_Feather_Bow.cfg:45
+#: Imperial_Era/units/Wild_Elf_Wanderer.cfg:31
+#: Imperial_Era/units/Wild_Elf_Wanderer.cfg:46
+#: Imperial_Era/units/Arendian_Boltrider.cfg:37
+#: Imperial_Era/units/Wild_Elf_Windrunner.cfg:34
+#: Imperial_Era/units/Wild_Elf_Windrunner.cfg:45
+#: Imperial_Era/units/Arendian_Slayer.cfg:40
+#: Imperial_Era/units/Marauder_Valkyrie.cfg:25
+#: Imperial_Era/units/Lavinian_Propugnator.cfg:92
+#: Imperial_Era/units/Frost_Elf_Archer.cfg:59
+#: Imperial_Era/units/Frost_Elf_Bladesman.cfg:49
+#: Imperial_Era/units/Arendian_Arrow_Wind.cfg:39
+#: Imperial_Era/units/Arendian_Wanderer.cfg:42
+#: Imperial_Era/units/Frost_Elf_Gelus.cfg:59
+#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:43
+#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:81
+#: Imperial_Era/units/Lavinian_Skirmisher.cfg:39
+#: Imperial_Era/units/Lavinian_Skirmisher.cfg:136
+#: Imperial_Era/units/Nemidian_Hippopotamus.cfg:38
+#: Imperial_Era/units/Nemidian_River_Horse.cfg:37
+#: Imperial_Era/units/Nemidian_Claimant.cfg:37
+#: Imperial_Era/units/Nemidian_Claimant.cfg:68
+#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:64
+#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:87
+#: Imperial_Era/units/Frost_Elf_Glaivier.cfg:52
+#: Imperial_Era/units/Lavinian_Ballista.cfg:76
+#: Imperial_Era/units/Arendian_Bowrider.cfg:38
+#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:64
+#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:87
+#: Imperial_Era/units/Wild_Elf_Tracker.cfg:33
+#: Imperial_Era/units/Wild_Elf_Tracker.cfg:44
+#: Imperial_Era/units/Marauder_Shieldmaiden.cfg:24
+#: Imperial_Era/units/Marauder_Hunter.cfg:48
+#: Imperial_Era/units/Arendian_Hunter.cfg:39
+msgid "pierce"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Arrow_Wind.cfg:5
+msgid "Arrow Wind"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Arrow_Wind.cfg:19
+msgid ""
+"Arrow winds are the best archers in all of Arendia, able to notch and fire "
+"arrows extremely quickly and with great accuracy. Their name originated from "
+"an old folk tale in which the most skilled archer in all of Arendia, was "
+"challenged to prove his prowess by firing arrows repeatedly in an outline "
+"around his his wife, and yet not kill her. When asked about this later she "
+"likened it to a gentle breeze. Because of this the most skilled archers are "
+"known as arrow winds. Nowadays the appelation has come to refer to the sound "
+"of their arrows. Capable of putting three arrows in the air before the first "
+"has hit the target, the sound of so many arrows in flight is likened to a "
+"rushing wind of death over the battlefield."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Battlear.cfg:5
+msgid "Battlear"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Battlear.cfg:19
+msgid ""
+"A flail is a much more effective weapon than a mace, however it is also "
+"heavier, more clumsy, and harder to use, so only the best and strongest "
+"fighters use them. These fighters are also the only ones given full body "
+"armour, because their flails are so clumsy, and they are so stong by now "
+"anyway, that the reduced mobility and extra weight doesn't matter."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Battlear.cfg:23
+msgid "flail"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Funditor.cfg:56
+#: Imperial_Era/units/Marauder_Crusher.cfg:46
+#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:60
+#: Imperial_Era/units/Frost_Elf_Mistral_Magus.cfg:56
+#: Imperial_Era/units/Frost_Elf_Mistral_Glacialist.cfg:59
+#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:82
+#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:39
+#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Castellan.cfg:60
+#: Imperial_Era/units/Lavinian_Slinger.cfg:55
+#: Imperial_Era/units/Lavinian_Legionnaire.cfg:86
+#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Keeper.cfg:59
+#: Imperial_Era/units/Marauder_Seeress.cfg:24
+#: Imperial_Era/units/Arendian_Warrior.cfg:23
+#: Imperial_Era/units/Arendian_Warlock.cfg:26
+#: Imperial_Era/units/Arendian_Shaman.cfg:25
+#: Imperial_Era/units/Marauder_Fay.cfg:24
+#: Imperial_Era/units/Cavernei_Steelclad.cfg:68
+#: Imperial_Era/units/Cavernei_Runemaster.cfg:24
+#: Imperial_Era/units/Lavinian_Propugnator.cfg:59
+#: Imperial_Era/units/Sidhe_Ancestor.cfg:28
+#: Imperial_Era/units/Frost_Elf_Mistral_Cryomancer.cfg:60
+#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:62
+#: Imperial_Era/units/Cavernei_Fighter.cfg:66
+#: Imperial_Era/units/Marauder_Raider.cfg:38
+#: Imperial_Era/units/Nemidian_Hippopotamus.cfg:24
+#: Imperial_Era/units/Nemidian_River_Horse.cfg:23
+#: Imperial_Era/units/Arendian_Battlear.cfg:24
+#: Imperial_Era/units/Marauder_Mauler.cfg:23
+#: Imperial_Era/units/Sidhe_Forefather.cfg:29
+#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:38
+#: Imperial_Era/units/Marauder_Galdra.cfg:25
+#: Imperial_Era/units/Arendian_Druid.cfg:25
+#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:38
+#: Imperial_Era/units/Nemidian_River_Calf.cfg:23
+#: Imperial_Era/units/Cavernei_Lord.cfg:69
+#: Imperial_Era/units/Sidhe_Warrior_Spirit.cfg:25
+msgid "impact"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Boltrider.cfg:5
+msgid "Boltrider"
+msgstr ""
+
+#: Imperial_Era/units/Fleet_Seal.cfg:26
+#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:40
+#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Castellan.cfg:29
+#: Imperial_Era/units/Frost_Elf_Ice_Dancer.cfg:29
+#: Imperial_Era/units/Frost_Elf_Borealis.cfg:37
+#: Imperial_Era/units/Arendian_Chief.cfg:20
+#: Imperial_Era/units/Arendian_Warlock.cfg:21
+#: Imperial_Era/units/Arendian_Shaman.cfg:20
+#: Imperial_Era/units/Arendian_Mounted-Marksman.cfg:19
+#: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:27
+#: Imperial_Era/units/Arendian_Boltrider.cfg:17
+#: Imperial_Era/units/Arendian_Horse_Master.cfg:19
+#: Imperial_Era/units/Arendian_Mounted_Warrior.cfg:18
+#: Imperial_Era/units/Arendian_Warlord.cfg:21
+#: Imperial_Era/units/Frost_Elf_Mistral_Cryomancer.cfg:29
+#: Imperial_Era/units/Nemidian_Hippopotamus.cfg:19
+#: Imperial_Era/units/Arendian_Horseman.cfg:18
+#: Imperial_Era/units/Nemidian_River_Horse.cfg:18
+#: Imperial_Era/units/Elder_Seal.cfg:27
+#: Imperial_Era/units/Frost_Elf_Glaivier.cfg:26
+#: Imperial_Era/units/Arendian_Druid.cfg:20
+#: Imperial_Era/units/Nemidian_River_Calf.cfg:18
+msgid " "
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Bowknight.cfg:5
+msgid "Bowknight"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Bowknight.cfg:18
+msgid ""
+"Bowknights are usually minor lords in east of Arendia. Here there are huge "
+"trackts of land, but barren land. This has led to huge problem with bandits "
+"in these areas, and so the experienced bowriders, because they are most used "
+"to hunting down bandits, are placed in charge of law an order in the area."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Bowmaster.cfg:5
+msgid "Bowmaster"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Bowmaster.cfg:19
+msgid ""
+"Bowmasters are the lords of eastern Arendia and all the bowknights  answer "
+"to them, and the bowriders to them. This means that a Bowmaster can, at any "
+"one time, have thousands of men at his disposal something which the crown "
+"has been all too aware of ever since the great upriseing. when the bowmaster "
+"rose up because taxes were so intollerably high, men charged with killing "
+"the bandits often joined with them and carried out systematic raids on any "
+"rich settlments."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Bowrider.cfg:5
+msgid "Bowrider"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Bowrider.cfg:18
+msgid ""
+"Bowriders come only from the eastern part of Arendia, here they are hunters, "
+"as a horse is the only thing which can keep up with prey in savanna that "
+"covers the area, this means that they have had huge amounts of practice "
+"fireing bows form horses backs, and form an invaluable part of Arendias "
+"army, using hit and run tactics to weaken the enemy and constantly harry "
+"their flanks."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Chief.cfg:5
+msgid "Chief"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Druid.cfg:5
+msgid "Druid"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Druid.cfg:24
+msgid "Staff"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Druid.cfg:39
+msgid "fireball"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Siege_Archer.cfg:73
+#: Imperial_Era/units/Lavinian_Bowman.cfg:74
+#: Imperial_Era/units/Lavinian_Saggitarius.cfg:76
+#: Imperial_Era/units/Marauder_Pillager.cfg:37
+#: Imperial_Era/units/Arendian_Warlock.cfg:40
+#: Imperial_Era/units/Arendian_Shaman.cfg:39
+#: Imperial_Era/units/Arendian_Slayer.cfg:54
+#: Imperial_Era/units/Cavernei_Runemaster.cfg:65
+#: Imperial_Era/units/Marauder_Scorcher.cfg:38
+#: Imperial_Era/units/Arendian_Druid.cfg:40
+#: Imperial_Era/units/Arendian_Hunter.cfg:54
+msgid "fire"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Feather_Bow.cfg:5
+msgid "Feather Bow"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Feather_Bow.cfg:25
+msgid ""
+"A result of a rigerous selection process, they are, as a result of this, "
+"among the best in all the land. Feather bows have gained their name by the "
+"tassel of feathers tied to the upper and lower parts of their bowstring, a "
+"combination of a badge of office and a silencing device for the bowstring. "
+"It is also said that when they fire, the sound is like that of a feather "
+"falling... until the arrow strikes home. Different clans use feathers "
+"colored with different dyes."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Hero.cfg:5
+msgid "Hero"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Hero.cfg:23
+msgid ""
+"Once a wanderer has regained his honour he has usually done enough for the "
+"good of the people of Arendia that they are regarded as heros by the people "
+"who once scorned them. These men have fought in many a battle and usually "
+"this experience is put to good use by a clan in the area, or as bodyguards "
+"to the royal family.\n"
+"Heros are also regarded as the only people skillful enough to wield double "
+"bladed swords. These fast agile weapons are the most deadly and sharp in all "
+"of arenida, forged by royal smiths in the forges of the capital."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Hero.cfg:42
+#: Imperial_Era/units/Arendian_Wanderer.cfg:41
+msgid "throwing knives"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Horse_Master.cfg:5
+msgid "Horse Master"
+msgstr ""
+
+#: Imperial_Era/units/Nemidian_Horseman.cfg:5
+#: Imperial_Era/units/Arendian_Horseman.cfg:5
+msgid "Horseman"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Hunter.cfg:5
+#: Imperial_Era/units/Arendian_Hunter.cfg:5
+msgid "Hunter"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Hunter.cfg:19
+msgid ""
+"Hunters are an ancient cult in Arendia. These men used to go out, usually "
+"with only the cloaks on their backs for protection, and hunt the dragons "
+"that lived in and around Arendia. They were known as hunters for they had "
+"not yet found their prey. When they did, and had single-handedly killed it, "
+"they became known as slayers. The Arendians have no word for one who has "
+"found a dragon and not slain him, for all such combats were required to be "
+"to the death, but the closest word would be 'fodir', which translates "
+"roughly as 'food.' \n"
+" Of course these days there are only wyverns for them to hunt and kill, and "
+"few enough of them anyway, but the hunter cult lives on as an unofficial "
+"segment of Arendian clan armies. They operate as advance infantry in special "
+"situations. They do not take orders, but must be asked to assist. They are "
+"typically glad to wield their blades in Arendian service."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Slayer.cfg:53
+#: Imperial_Era/units/Arendian_Hunter.cfg:53
+msgid "fire arrow"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Mounted-Marksman.cfg:5
+msgid "Mounted Marksman"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Mounted_Warrior.cfg:5
+msgid "Mounted Warrior"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Shaman.cfg:5
+msgid "Shaman"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Warlock.cfg:25
+#: Imperial_Era/units/Arendian_Shaman.cfg:24
+msgid "staff"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Warlock.cfg:39
+#: Imperial_Era/units/Arendian_Shaman.cfg:38
+msgid "fire ball"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Slayer.cfg:5
+msgid "Slayer"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Slayer.cfg:20
+msgid ""
+"In the days of Dragons, when a hunter fought and single handedly killed a "
+"dragon he became known as a slayer. Any slayer could be recognised as such "
+"by a crimson red cloak, a colour which nobody else could wear, for they "
+"always wore one cut from the dragon's wing as a token of their victory. A "
+"right-handed slayer would take his cloak from the left wing, and a left-"
+"handed slayer would take his from the right wing. The unused wing was "
+"typically made into a tent, or a battle flag. Teeth became arrow-heads. "
+"Horns became daggers or drinking horns. No part of the dragon went unused, "
+"and none but a slayer could own anything crafted from the corpse. \n"
+" Today there is no man in all of Arendia that could match the old Slayers "
+"for skill, simply because there are no true dragons left to practice on, "
+"only wyverns. However, once a hunter is considered to be amongst the most "
+"skilled of his kind, and after rigorous trials and testing, he is awarded a "
+"crimson red cloak; but not a dragon one. For the last one of them is stored "
+"in the palace, and was won by the first king of Arendia, when he killed the "
+"greatest dragon to ever have blackened Arenida's skies."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Swordsman.cfg:5
+msgid "Swordsman"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Swordsman.cfg:18
+msgid ""
+"Swordsmen are used by the arendian clans when terrain is tough and using "
+"cavalry would be difficult, they recive little training and sometimes come "
+"from a clan's guards or enforcers, but mostly this is the job given to any "
+"man strong enough to fight who doesn't own a horse."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Wanderer.cfg:5
+#: Imperial_Era/units/Arendian_Wanderer.cfg:5
+msgid "Wanderer"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Wanderer.cfg:22
+msgid ""
+"Wanderers are outcasts from Arendian society, haveing disgrased either "
+"themselves or their families. They now seek to regain their honour by "
+"wandering the land and killing all who are dishonourable or evil. Often "
+"these include other wanderers who have given up on this quest as these men "
+"are dead to most Arendians because of their crimes and lack of remorse for "
+"them. However, despite this, untill they are considered to have regained "
+"their honour they are scorned and mocked by all, never to their faces, for "
+"they are famous for their short tempers and deadlyness with any blade, but "
+"always behind their backs.\n"
+"Of course, although they, like all Arendians, are obsessed with the honour "
+"tat they are trying to regain, this hasn't stopped them from learning a few "
+"dirty tricks along the way. Wanderers are adept at knife throwing, and have "
+"been known to kill men fifty feet away in one snake like movement and flick "
+"of the wrist."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Warlock.cfg:5
+msgid "Warlock"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Warlord.cfg:5
+msgid "Warlord"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Warrior.cfg:5
+#: Imperial_Era/units/Arendian_Warrior.cfg:5
+#: Imperial_Era/units/Wild_Elf_Warrior.cfg:5
+msgid "Warrior"
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Warrior.cfg:18
+msgid ""
+"After the rise of the Lavinians the clans on the southern edges of the "
+"plains of Arendia had a problem. Most of their fighters used swords or "
+"arrows to fight, as had been their tradition for centuries, however these "
+"Lavinians all wore metal armour. Wearing metal as armour was not an unknown "
+"concept for the arendians, but it was only worn by their close combat "
+"fighters, and their best archers, but it never covered their whole body "
+"because they simply did not have enough, and it got in the way when fighting "
+"because it was so heavy. And so, to adapt to this new threat, these clans "
+"started to train their fighters to use maces instead of swords, because "
+"although maces didn't pierce the armour, it could crush or crumple it, "
+"wounding the wearer."
+msgstr ""
+
+#: Imperial_Era/units/Arendian_Warrior.cfg:22
+msgid "mace"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Dragonguard.cfg:5
+msgid "Dragonguard"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Dragonguard.cfg:19
+msgid ""
+"It is not clear why the Dragonguards are called what they are, a name given "
+"by their dwarven brethren. Some speculate that the name comes from their "
+"weapon of choice, these strange staves that belch fire and death. Others "
+"have surmised that it is because such weapons would be a threat against even "
+"a true Dragon, should such a thing be seen again in the known world. "
+"Whatever the case, it is for these weapons that the guardians of the great "
+"Cavernei citadels are both renowned and feared; weapons that have broken the "
+"mightiest of warriors in a single blow."
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Dragonguard.cfg:24
+#: Imperial_Era/units/Frost_Elf_Mistral_Glacialist.cfg:31
+#: Imperial_Era/units/Cavernei_Thunderguard.cfg:24
+#: Imperial_Era/units/Cavernei_Thunderer.cfg:40
+#: Imperial_Era/units/Frost_Elf_Bladesman.cfg:48
+#: Imperial_Era/units/Frost_Elf_Mistral_Cryomancer.cfg:32
+msgid "dagger"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Dragonguard.cfg:63
+msgid "dragonstaff"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Eagle_Master.cfg:5
+msgid "Eagle Master"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Eagle_Master.cfg:20
+msgid ""
+"Eagle Masters have long experience flying the Eagles, which have become an "
+"extension of themselves. This special relationship makes the heart of the "
+"earth-bound tremble, for these mighty pairs may strike from anywhere."
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Eagle_Master.cfg:27
+#: Imperial_Era/units/Cavernei_Eagle_Rider.cfg:27
+msgid "claws"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Eagle_Rider.cfg:5
+msgid "Eagle Rider"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Eagle_Rider.cfg:20
+msgid ""
+"Only a few are able to bond with the mighty Eagles. Those who do may become "
+"Eagle Riders, and discover the world of the skies upon the backs of these "
+"flying beasts."
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Fighter.cfg:5
+msgid "Fighter"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Fighter.cfg:23
+msgid ""
+"Cavernei Fighters wield mighty battle axes and hammers, which make them "
+"feared opponents in close range combat. They are excellent in mountainous "
+"terrain or underground. Though not swift, their power and endurance more "
+"than compensate."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Boatsman.cfg:21
+#: Imperial_Era/units/Marauder_Sailor.cfg:22
+#: Imperial_Era/units/Marauder_Woodsman.cfg:22
+#: Imperial_Era/units/Marauder_Axeman.cfg:38
+#: Imperial_Era/units/Marauder_Sea_Wolf.cfg:23
+#: Imperial_Era/units/Cavernei_Fighter.cfg:27
+#: Imperial_Era/units/Marauder_Raider.cfg:22
+#: Imperial_Era/units/Marauder_Scout.cfg:21
+#: Imperial_Era/units/Marauder_Hunter.cfg:21
+msgid "axe"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Steelclad.cfg:67
+#: Imperial_Era/units/Cavernei_Fighter.cfg:65
+#: Imperial_Era/units/Cavernei_Lord.cfg:68
+msgid "hammer"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Guardsman.cfg:5
+msgid "Guardsman"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Guardsman.cfg:22
+msgid ""
+"The most resilient dwarves sometimes join the Cavernei army as Guardsmen. "
+"Slow and without a strong attack, they guard the Army's flank, soaking up a "
+"lot of damage, and hurling heavy spears for defense.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Decurion.cfg:58
+#: Imperial_Era/units/Cavernei_Stalwart.cfg:35
+#: Imperial_Era/units/Nemidian_Champion.cfg:37
+#: Imperial_Era/units/Nemidian_Champion.cfg:68
+#: Imperial_Era/units/Lavinian_Centurion.cfg:59
+#: Imperial_Era/units/Cavernei_Sentinel.cfg:40
+#: Imperial_Era/units/Cavernei_Guardsman.cfg:32
+#: Imperial_Era/units/Lavinian_Velite.cfg:32
+#: Imperial_Era/units/Lavinian_Velite.cfg:77
+#: Imperial_Era/units/Nemidian_Horseman.cfg:36
+#: Imperial_Era/units/Nemidian_Horseman.cfg:53
+#: Imperial_Era/units/Wild_Elf_Wanderer.cfg:30
+#: Imperial_Era/units/Wild_Elf_Wanderer.cfg:45
+#: Imperial_Era/units/Wild_Elf_Windrunner.cfg:33
+#: Imperial_Era/units/Wild_Elf_Windrunner.cfg:44
+#: Imperial_Era/units/Marauder_Valkyrie.cfg:24
+#: Imperial_Era/units/Lavinian_Skirmisher.cfg:38
+#: Imperial_Era/units/Lavinian_Skirmisher.cfg:135
+#: Imperial_Era/units/Nemidian_Hippopotamus.cfg:37
+#: Imperial_Era/units/Nemidian_River_Horse.cfg:36
+#: Imperial_Era/units/Nemidian_Claimant.cfg:36
+#: Imperial_Era/units/Nemidian_Claimant.cfg:67
+#: Imperial_Era/units/Wild_Elf_Tracker.cfg:32
+#: Imperial_Era/units/Wild_Elf_Tracker.cfg:43
+#: Imperial_Era/units/Marauder_Shieldmaiden.cfg:23
+msgid "spear"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Stalwart.cfg:84
+#: Imperial_Era/units/Cavernei_Sentinel.cfg:89
+#: Imperial_Era/units/Cavernei_Guardsman.cfg:81
+msgid "javelin"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Lord.cfg:5
+#: Imperial_Era/units/Cavernei_Lord.cfg:5
+msgid "Lord"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Lord.cfg:20
+msgid ""
+"Clad in shining armor, these dwarves look like kings from under the "
+"mountains. They wield axe and hammer with masterful skill, and can hit a "
+"target with a thrown hand axe at several paces. Though slow on their feet, "
+"these dwarves are a testament to the prowess of their kin."
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Steelclad.cfg:28
+#: Imperial_Era/units/Cavernei_Lord.cfg:29
+msgid "battle axe"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Lord.cfg:106
+msgid "hatchet"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Runemaster.cfg:5
+msgid "Runemaster"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Runemaster.cfg:19
+msgid ""
+"Cavernei magic, inasmuch as is known, most often manifests itself by the "
+"inscription of runes in the surface of an object, which by their mere "
+"presence somehow imbue it with power. Though rarely seen in combat, a master "
+"of these runes can put them to terrifying use."
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Runemaster.cfg:23
+msgid "runic hammer"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Runemaster.cfg:63
+msgid "Lightning bolt"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Sentinel.cfg:5
+msgid "Sentinel"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Sentinel.cfg:22
+msgid ""
+"The Sentinel, with his tower shield and great courage, refuses to yield "
+"under even the strongest of enemy attacks.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Stalwart.cfg:5
+msgid "Stalwart"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Stalwart.cfg:21
+msgid ""
+"Stalwarts, after years in battle, have fashioned new shields and strong "
+"armor from the ruins of their enemies. While slow, they are feared for their "
+"resilience and strength.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Steelclad.cfg:5
+msgid "Steelclad"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Steelclad.cfg:19
+msgid ""
+"The more experienced Cavernei Steelclad fighters wear heavy chain mail and "
+"plate armor, for which they are rightly famous."
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Thunderer.cfg:5
+msgid "Thunderer"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Thunderer.cfg:19
+msgid ""
+"When the Marauders first encountered the dwarves, they were mystified by the "
+"power of the Cavernei Thunderers, who were able to hurl death from afar "
+"through the apparatus of these strange ... 'wands' they carried into battle."
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Thunderguard.cfg:73
+#: Imperial_Era/units/Cavernei_Thunderer.cfg:89
+msgid "thunderstick"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Thunderguard.cfg:5
+msgid "Thunderguard"
+msgstr ""
+
+#: Imperial_Era/units/Cavernei_Thunderguard.cfg:20
+msgid ""
+"The Cavernei Thunderguards are famed for their curious weaponry, these "
+"strange staves of wood and iron that make a thunderous noise in their anger. "
+"The machinations behind this weaponry are a mystery, a secret taken to the "
+"grave by the dwarves who wield them, and are assumed to have even forged "
+"them. The most that is known are reports of dwarves pouring a strange black "
+"dust into the mouth of their weapons, which some say is a food to fuel the "
+"beast imprisoned within.\n"
+"\n"
+"Though a single shot from these 'thundersticks' can take several minutes to "
+"prepare, the results are seen by the Dwarves as being well worth the wait."
+msgstr ""
+
+#: Imperial_Era/units/Elder_Seal.cfg:5
+msgid "Elder Seal"
+msgstr ""
+
+#: Imperial_Era/units/Seal.cfg:29 Imperial_Era/units/Fleet_Seal.cfg:29
+#: Imperial_Era/units/Elder_Seal.cfg:30
+msgid "bite"
+msgstr ""
+
+#: Imperial_Era/units/Fleet_Seal.cfg:5
+msgid "Fleet Seal"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:5
+msgid "Alpine Ranger"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:62
+#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:81
+#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:42
+#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:61
+msgid "ice pick"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Archer.cfg:36
+msgid ""
+"Much like their Wood Elf forebears, the Ice Elves highly prize skill at "
+"archery. Those who prove themselves adept at this skill can hope to rise "
+"high, and perhaps even become leaders of their tribes."
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Bladesman.cfg:5
+msgid "Bladesman"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Bladesman.cfg:26
+msgid ""
+"Bladesmen are the rank and file of the military, wielding mighty swords that "
+"they have inherited from their forebears. They will not allow their people "
+"to fall before their enemies."
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Borealis.cfg:5
+msgid "Borealis"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Gelus.cfg:5
+msgid "Gelus"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Gelus.cfg:36
+msgid ""
+"The most skilled of archers are promoted to the rank of gelus, a designation "
+"meant to imply the hail of arrows they are capable of unleashing upon the "
+"unwary foe."
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:5
+msgid "Glaive Master"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:30
+#: Imperial_Era/units/Frost_Elf_Glaivier.cfg:29
+msgid "glaive"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:52
+#: Imperial_Era/units/Frost_Elf_Glaivier.cfg:51
+msgid "azegiz"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Glaivier.cfg:5
+msgid "Glaivier"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Ice_Dancer.cfg:5
+msgid "Ice Dancer"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Ice_Roamer.cfg:5
+msgid "Ice Roamer"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Ice_Roamer.cfg:28
+msgid ""
+"The most elegant of Bladesmen become Ice Roamers, and perfect the skill of "
+"fighting upon frozen water. It does come at a price, however, for their "
+"concentration upon the ice leaves them somewhat less prepared to fight upon "
+"other surfaces. Nonetheless, the abundance of icy surfaces in their homeland "
+"makes the trade worthwhile."
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mistral_Cryomancer.cfg:5
+msgid "female^Mistral Cryomancer"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mistral_Magus.cfg:55
+#: Imperial_Era/units/Frost_Elf_Mistral_Glacialist.cfg:58
+#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Castellan.cfg:59
+#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Keeper.cfg:58
+#: Imperial_Era/units/Frost_Elf_Mistral_Cryomancer.cfg:59
+msgid "wind"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mistral_Glacialist.cfg:5
+msgid "female^Mistral Glacialist"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mistral_Glacialist.cfg:28
+msgid ""
+"Some Mistral Magi choose to hone their combative skills, becoming true "
+"masters of the violent and dangerous winds and frigid temperatures of their "
+"homeland."
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mistral_Magus.cfg:5
+msgid "female^Mistral Magus"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mistral_Magus.cfg:25
+msgid ""
+"Early in their history, certain of the Ice Elves were found to have a unique "
+"bond with the chill winds of their newfound home. They became known as the "
+"Mistral Magi, and passed on their skills to picked apprentices."
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mistral_Magus.cfg:28
+#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Castellan.cfg:32
+#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Keeper.cfg:31
+msgid "wand"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mistral_Magus.cfg:29
+#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Castellan.cfg:33
+#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Keeper.cfg:32
+#: Imperial_Era/units/Marauder_Seeress.cfg:53
+#: Imperial_Era/units/Marauder_Fay.cfg:53
+#: Imperial_Era/units/Marauder_Valkyrie.cfg:54
+#: Imperial_Era/units/Sidhe_Ancestor.cfg:43
+#: Imperial_Era/units/Sidhe_Forefather.cfg:44
+#: Imperial_Era/units/Marauder_Galdra.cfg:54
+#: Imperial_Era/units/Marauder_Shieldmaiden.cfg:53
+msgid "cold"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Castellan.cfg:5
+msgid "female^Mistral Rime Castellan"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Keeper.cfg:5
+msgid "Mistral Rime Keeper"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Keeper.cfg:28
+msgid ""
+"A truly proficient Mistral Mage learns not only the ways of war, but masters "
+"as well the art of healing, and is highly valued for his ability to use the "
+"ice and the gale to restore life, and not just to take it."
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:5
+msgid "Mountaineer"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:39
+msgid ""
+"Those Archers who prove themselves worthy, and demonstrate leadership "
+"ability, are promoted to the ranks of the Mountaineers. Hardy warriors who "
+"can withstand the elements, and perform well in the mountains and hills as "
+"well as in the ice and snow, they will do all they can to help their people "
+"to survive in their harsh environment."
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:6
+msgid "Yak Knight"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:35
+#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:34
+#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:34
+msgid ""
+"Some Ice Elves have tamed wild yaks, which they now use as mounts. Though "
+"other races cannot understand their predilection for these odd beasts, and "
+"cannot imagine riding them, the cavalry is rightly feared for their cold "
+"efficiency."
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:38
+#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:37
+#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:37
+msgid "horns"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:64
+#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:87
+#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:63
+#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:86
+#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:63
+#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:86
+msgid "harpoon"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:6
+msgid "Yak Rider"
+msgstr ""
+
+#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:6
+msgid "Yakmount Margrave"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Aquilifer.cfg:5
+msgid "Aquilifer"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Aquilifer.cfg:19
+msgid ""
+"Having a lion-skin headdress on his head, a golden eagle at the top of his "
+"standard, and the red-and-gold of the Legion on his armor, the Aquilifer "
+"truly is a symbol of the Empire itself. There is only one Aquilifer in each "
+"legion, and he must be a bold, courageous and wise man to hold that post. By "
+"carrying the Legion's Eagle, he makes himself a target for any enemy, and "
+"often must fight, and die, protecting it. The Eagle serves as inspiration "
+"and an object of honor for all of the Legionnaires, and it will give them "
+"strength in the battle even in the dead of night."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Signifer.cfg:32
+#: Imperial_Era/units/Lavinian_Archuballistarius.cfg:32
+#: Imperial_Era/units/Lavinian_Decurion.cfg:32
+#: Imperial_Era/units/Lavinian_Funditor.cfg:29
+#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:33
+#: Imperial_Era/units/Lavinian_Centurion.cfg:33
+#: Imperial_Era/units/Lavinian_Slinger.cfg:28
+#: Imperial_Era/units/Lavinian_Legionnaire.cfg:29
+#: Imperial_Era/units/Lavinian_Aquilifer.cfg:33
+#: Imperial_Era/units/Lavinian_Propugnator.cfg:32
+#: Imperial_Era/units/Lavinian_Auxiliary.cfg:29
+#: Imperial_Era/units/Lavinian_Rorarius.cfg:29
+#: Imperial_Era/units/Lavinian_Ballista.cfg:29
+#: Imperial_Era/units/Lavinian_Light_Infantry.cfg:28
+msgid "gladius"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Archuballistarius.cfg:5
+msgid "Archuballistarius"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Archuballistarius.cfg:21
+msgid ""
+"The Lavinian Legion will often, in its conquests, come across a fortified "
+"town that refuses to surrender. Instead of storming the walls of the city, "
+"they simply wheel out the artillery. The town invariably falls.\n"
+"\n"
+"The Archuballistarius is also effective on the battlefield, although it "
+"moves rather slowly."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Archuballistarius.cfg:78
+#: Imperial_Era/units/Lavinian_Ballista.cfg:75
+msgid "ballista"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Auxiliary.cfg:5
+msgid "Auxiliary"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Auxiliary.cfg:18
+msgid ""
+"Although the Legionnaire makes up the core of the army, there is an equal "
+"number of Auxilia in the Legion's ranks as well. The Auxilia do not have a "
+"shield or much armor, and wield only a broadsword, but their quickness, "
+"adaptability and plentifulness makes up for this. Their one hope is that, by "
+"serving in the Legion for long enough, they will be granted Lavinian "
+"citizenship, and all the privileges that come with that."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Ballista.cfg:5
+msgid "Field Ballista"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Ballista.cfg:25
+msgid ""
+"A Lavinian Field Ballista's primary purpose is attacking the cities that "
+"oppose the Legion's expansion. However, it is also deadly against enemies on "
+"the battlefield. It is small enough that transportation is possible, "
+"although not exactly fast, and the ballista's controller is able to defend "
+"himself with a gladius if the ballista is attacked."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Bowman.cfg:5
+msgid "Bowman"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Bowman.cfg:22
+msgid ""
+"The Lavinian army does not consist only of Legionnaires and Auxilia, "
+"although those are the primary fighters. There are also archers, the "
+"Lavinian Bowman. However, even these have not given up the Lavinian affinity "
+"for heavy protective armor. They have given up some mobility and efficacy in "
+"combat, but have made themselves nearly indestructable.\n"
+"\n"
+"The Bowman does not carry a sword. Although this will leave him vulnerable "
+"to most enemies, it allows him to instead carry around a burning ember, "
+"which he can use to light up his arrows before he sends them.\n"
+"\n"
+"Special Notes: The Lavinian Bowman is so well armored that when he is "
+"defending, he will take reduced damage from physical weapons."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Centurion.cfg:5
+msgid "Centurion"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Centurion.cfg:19
+msgid ""
+"A Centurion, commander of an entire Century, is well knowledged in the "
+"tactics and strategy needed for such a post. He has a large red crest on his "
+"helmet, and unlike a normal Legionnaire carries a large spear along with his "
+"gladius and pila. He is not as formidable a fighter as a Praetorian Guard, "
+"but his knowledge and leadership more than make up for this."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Decurion.cfg:87
+#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:92
+#: Imperial_Era/units/Lavinian_Centurion.cfg:88
+#: Imperial_Era/units/Lavinian_Legionnaire.cfg:142
+#: Imperial_Era/units/Lavinian_Propugnator.cfg:91
+msgid "pilum"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Decurion.cfg:5
+msgid "Decurion"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Decurion.cfg:18
+msgid ""
+"A Decurion commands a group of 10 legionnaires, leading them with expert "
+"precision. The red crest on his helm has been turned sideways, to make him "
+"recognizable to his troops in battle, and his armor is the color of gold for "
+"the same reason. Although he no longer bears the heavy, rectangular shield "
+"of the Legionnaire, he is still a formidible opponent, and the loss of the "
+"shield actually allows him to attack quicker with his gladius."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Funditor.cfg:5
+msgid "Funditor"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Funditor.cfg:18
+msgid ""
+"The Funditor's two weapons are the gladius and the sling. Although skilled "
+"with both of them, he has put most of his effort into practicing with the "
+"sling, firing quick and accurate volleys in every battle. Nonetheless, he "
+"can fight and win in hand-to-hand combat against a rawly recruited "
+"Legionnaire. The Funditor is the closest the Lavinians come to true archers, "
+"for although they know how to make bows, they are unskilled with them, and "
+"prefer to use more familiar weapons."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Funditor.cfg:55
+#: Imperial_Era/units/Lavinian_Slinger.cfg:54
+msgid "sling"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Legionnaire.cfg:5
+msgid "Legionnaire"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Legionnaire.cfg:18
+msgid ""
+"The Legionnaire is the backbone of the Lavinian army. He begins training and "
+"drilling at a very young age, and can serve for up to 25 years. His main "
+"weapons are the gladius, a short stabbing sword, and the pilum, a throwing "
+"spear that sticks into an enemy's shield, weighing him down and often "
+"causing him to trip. Normally the Legionnaires battle in formation, with the "
+"Auxilia protecting the flanks, but on his own a Legionnaire can still fight "
+"bravely."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:59
+#: Imperial_Era/units/Lavinian_Legionnaire.cfg:85
+#: Imperial_Era/units/Lavinian_Propugnator.cfg:58
+msgid "shield"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Light_Infantry.cfg:5
+msgid "Light Infantryman"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Light_Infantry.cfg:17
+msgid ""
+"Having taken a shine to the gladius they were originally equipped with, the "
+"Lavinian Light Infantryman has kept that sword and now wears a light leather "
+"shield. Alone among all members of the Lavinian army, he does not wield any "
+"ranged weapon, but his relative litheness and quick feet allow him to run "
+"back and forth from battle front to battle front. Also, his speed and strong "
+"sword make him perfect for taking out archers after the enemy's front lines "
+"have been decimated."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:5
+msgid "Praetorian Guard"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:19
+msgid ""
+"The Praetorian Guard's task is to protect Caesar and his family - or simply "
+"whomever his employer is. Having been chosen from the rank and file of the "
+"Legion, he now occupies an extremely prestigious position, that of Imperial "
+"Bodyguard. His shield, large enough to protect both him and his charge, he "
+"can also use to stun his opponent, and perhaps kill him. In addition to this "
+"shield, he bears two throwing spears and a short sword."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Propugnator.cfg:5
+msgid "Propugnator"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Propugnator.cfg:18
+msgid ""
+"The Propugnator, a skilled fighter, has chosen not to accept the rank of an "
+"officer, and instead to continue fighting on the front lines. He bears a "
+"very large shield with an embossed oval in the center, which he uses both to "
+"protect himself exceeding well, and to smash his opponent's head with, "
+"temporarily stunning him. Aside from that, his weapons are the same as an "
+"ordinary Legionnaire - a gladius, and two pila."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Rorarius.cfg:5
+msgid "Rorarius"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Rorarius.cfg:25
+msgid ""
+"The Rorarius is as good a melee fighter as almost any member of the Legion "
+"proper, simply because his lightweight shield and lack of armor allows him "
+"to make much stronger stabs with his gladius. However, this offensive "
+"capability comes at a price; although he deals more damage than even a "
+"Praetorian, he takes more in return, and is unable to retaliate at all "
+"against enemy archers. Rorarii are indeed powerful fighters, but they are "
+"only support troops, and without either Legionnaires or other Auxilia they "
+"are ineffective against most armies."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Saggitarius.cfg:5
+msgid "Saggitarius"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Saggitarius.cfg:18
+msgid ""
+"Special Notes: The Lavinian Saggitarius is so well armored that when he is "
+"defending, he will take reduced damage from physical weapons."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Siege_Archer.cfg:5
+msgid "Siege Archer"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Siege_Archer.cfg:18
+msgid ""
+"Special Notes: The Lavinian Siege Archer is so well armored that when he is "
+"defending, he will take reduced damage from physical weapons."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Signifer.cfg:5
+msgid "Signifer"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Signifer.cfg:18
+msgid ""
+"The standardbearer for his Century, the Signifer holds an enviable position. "
+"He does not often engage in melee combat himself, but instead helps and "
+"inspires his fellow Legionnaires, and helps them regroup in case of retreat. "
+"His standard has all of the awards his Century has recieved lined up, and a "
+"large hand at the top, serving as a point of reference for all the fighters."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Skirmisher.cfg:5
+msgid "Skirmisher"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Skirmisher.cfg:31
+msgid ""
+"The Skirmisher has abandoned his original weapon, the sword, in favor of a "
+"spear for both close and long range. He has perfected the art of moving "
+"quickly between enemy lines, and is able to hold his own against opponents "
+"of both the ranged and melee variety. His main task in the Legion is "
+"providing a skirmishing screen for the Legionnaires, and to help funnel "
+"cavalry and archers towards their more heavily armored allies."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Slinger.cfg:5
+msgid "Slinger"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Slinger.cfg:17
+msgid ""
+"Although the bow is often a more dangerous weapon than the sling, many "
+"Lavinian auxiliaries opt for the latter, because of its rapid rate of fire "
+"and the plentifulness of ammunition. Although a swiftly moving stone is not "
+"all that dangerous to a fully equipped Legionnaire, it is often enough to "
+"take down the unarmored barbarians the Legion is usually fighting."
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Velite.cfg:5
+msgid "Velite"
+msgstr ""
+
+#: Imperial_Era/units/Lavinian_Velite.cfg:25
+msgid ""
+"Often a member of one of the barbarian tribes which have allied with the "
+"Empire, a Velite wears the wolf-skin headdress of the northern people, and "
+"is clothed in green and brown; he wields a throwing spear and a small wooden "
+"buckler. Not having been trained in organized combat, but rather in a form "
+"of 'tactics' that the Lavinians view and primitive and chaotic, the Velite "
+"runs around the battlefield, right past his opponents, until he finds "
+"someone he can defeat. Then he attacks."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Axeman.cfg:5
+msgid "Axeman"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Axeman.cfg:17
+msgid ""
+"A Marauder Axeman takes care making sure that the Marauder villages have a "
+"good supply of wood during the cold winters in the Northland. He also excels "
+"at building the resilient wooden walls that protect Marauder encampments. "
+"Although he is not as furious a melee fighter as the Warriors, he knows how "
+"to use a bow, and is often seen giving Warriors some much needed ranged "
+"suppport."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Boatsman.cfg:5
+msgid "Boatsman"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Boatsman.cfg:17
+msgid ""
+"The Marauders subsist on hunted game and fish. The boatsmen among them go "
+"out, on rivers or on the sea, in small coracles, light enough to carry when "
+"on land. Their skills at boating do them well in wartime, when they take up "
+"arms and attack their enemies from the water."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Crusher.cfg:5
+msgid "Crusher"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Crusher.cfg:24
+msgid ""
+"A Marauder Crusher's only weapon is the huge iron maul he carries around. He "
+"has no need for other weapons, for he is a master at the art of berserking, "
+"which requires no finess, only brute strength.He will fight until either him "
+"or his opponent lies dead."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Crusher.cfg:45
+#: Imperial_Era/units/Marauder_Mauler.cfg:22
+msgid "maul"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Fay.cfg:5
+msgid "female^Fay"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Fay.cfg:19
+msgid ""
+"The Marauders and Frost Elves keep the peace between them by an exchange of "
+"hostages. The Frost Elven princes live in Marauder villages for the first "
+"quarter of their lives, and the Marauder noblewomen do the same in Frost "
+"Elven lands. There, they learn the art of magic from the Frost Elves, and "
+"when they return, they prove their worth in battle.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Seeress.cfg:23
+#: Imperial_Era/units/Marauder_Fay.cfg:23
+#: Imperial_Era/units/Marauder_Galdra.cfg:24
+msgid "fist"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Seeress.cfg:52
+#: Imperial_Era/units/Marauder_Fay.cfg:52
+#: Imperial_Era/units/Marauder_Valkyrie.cfg:53
+#: Imperial_Era/units/Marauder_Galdra.cfg:53
+#: Imperial_Era/units/Marauder_Shieldmaiden.cfg:52
+msgid "cold blast"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Galdra.cfg:5
+msgid "female^Galdra"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Galdra.cfg:20
+msgid ""
+"The greatest of the Marauder seers, the Galdra, are misunderstood even by "
+"their own people. The common folk see the Galdra as the warrior wives of "
+"their lords. In truth, the Galdra will use their magic in battle, but their "
+"true place is at the side of a Marauder thain, who will consult them for "
+"advice in the wars against the Lavinians and Sidhe.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Hunter.cfg:17
+msgid ""
+"A Hunter, in addition to providing Marauder villages with wood and shelter, "
+"supplies his people with fresh meat during the cold and harsh winters. He is "
+"more skilled at fighting in the forests than other Maurauders, because it is "
+"there that the game he hunts lives. Hours each day spent hunting and "
+"practicing has allowed him to hone his markmanship, and he is a very able "
+"archer."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Lord.cfg:21
+msgid ""
+"There are few Marauders indeed that are of such skill that they recieve the "
+"title Lord. A Marauder Lord is the strongest amongst his kin, and his "
+"fighting skills are constantly tested as many Marauders challenge him his "
+"status as supreme champion. His numereous heroic deeds and charisma inspires "
+"other Marauders to fight harder for their tribe, and to battle until the "
+"death. Many 'civilized' generals have underestimated the Marauder Lord's "
+"wits and tactics... And paid for their mistake with their lives."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Mauler.cfg:5
+msgid "Mauler"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Mauler.cfg:18
+msgid ""
+"Most Crushers do not survive enough raids to be given the title of Mauler. "
+"He who does, is truly a strong and fearsome opponent. He does not exercise "
+"restraint in battle, but fights until the death - it is because of this that "
+"so many die at a quite early age. Although the 'civilized' fighters think "
+"this fervor is foolhardy and pointless, many a battle has been won because "
+"of the actions of the berserking Maulers."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Mounted_Axeman.cfg:5
+msgid "Mounted Axeman"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Mounted_Axeman.cfg:17
+msgid ""
+"Horses are hard to come by in Marauder culture, and are also hard to take "
+"along on raids over the ocean. Still, any Marauder would leap at the chance "
+"to steal any horse or livestock in the raids, even if only for the journey "
+"back. All of the negative aspects of riding a horse into battle are "
+"forgotten once a Marauder makes the first quick and powerful axe-sweep "
+"cutting down an enemy, especially if he had already stolen the animal from "
+"them in the first place."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Mounted_Axeman.cfg:21
+#: Imperial_Era/units/Marauder_Mounted_Axeman.cfg:36
+msgid "battleaxe"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Pillager.cfg:5
+msgid "Pillager"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Pillager.cfg:17
+msgid ""
+"Marauder Pillagers are stronger and more experienced than normal warriors. "
+"Along with their longswords, they wield burning torches to incinerate their "
+"enemies."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Pillager.cfg:36
+#: Imperial_Era/units/Marauder_Scorcher.cfg:37
+msgid "torch"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Raider.cfg:5
+msgid "Raider"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Raider.cfg:18
+msgid ""
+"Only the best scouts are given the title Raider, meaning one who wreaks "
+"havoc in the enemy lines with his quick and powerful attacks. Raiders are "
+"rumored to catch wild horses singlehandedly... and by foot. These rumors are "
+"not too far from the truth. The Raider's extreme quickness is of great use "
+"in battle, for he can reach the front before the opponent and capture the "
+"good defensive terrain."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Raider.cfg:37
+msgid "net"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Sailor.cfg:5
+msgid "Sailor"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Sailor.cfg:18
+msgid ""
+"Marauder fishermen spend their whole lives around boats - even when on land, "
+"they carry their coracles on their backs with them. They already know all "
+"they can learn about boatsmanship, but they can indeed learn more about "
+"warfare. It takes immense skill for them to wield an axe in a boat as small "
+"as theirs."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Scorcher.cfg:5
+msgid "Scorcher"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Scorcher.cfg:18
+msgid ""
+"Some of the most powerful and experienced Marauders choose not to take on "
+"the responsibilities of being a Marauder Lord, and instead choose to be the "
+"first to land and plunge into battle. They wield a torch in battle, and, as "
+"a symbol of their status in Marauder society, are always given the right to "
+"burn away the first civilized building during raids. Their strength and fury "
+"in battle is a constant source of tales throughtout the land, and even the "
+"most skilled warriors can not stand in their way for long."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Scout.cfg:5
+msgid "Scout"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Scout.cfg:17
+msgid ""
+"All marauder children are evaluated by the clan lords at the age of only "
+"eight winters. All of the ones who seem extremely lithe and agile are "
+"selected to become Scouts, the first to enter every battle and the last to "
+"leave. Marauder chieftains usually use them to stop the enemy from reaching "
+"good defensive positions, and to run around looting villages so quickly the "
+"opponent's warriors cannot keep up."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Sea_Wolf.cfg:5
+msgid "Sea Wolf"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Sea_Wolf.cfg:19
+msgid ""
+"Tales are told in the villages of Arendia of the terrifying Marauder raids. "
+"In the dark of night, boats will float swiftly come downstream, bearing fire "
+"and death. The dreaded Sea Wolves, their ships cloaked in black, will charge "
+"out onto the land, slay their victims, take their plunder, and retreat as "
+"quickly as they came."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Seeress.cfg:5
+msgid "female^Seeress"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Seeress.cfg:19
+msgid ""
+"The art of seid is taught to Marauder noblewomen by the Frost Elves, their "
+"allies, as part of a political agreement between the two peoples. After "
+"returning home from the Frost Elven lands, the Seeress has learned to use "
+"her powers in battle, striking down foes with a wave of her hand.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Shieldmaiden.cfg:5
+msgid "female^Shieldmaiden"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Shieldmaiden.cfg:19
+msgid ""
+"Although their training with the Frost Elves showed them how to use magic "
+"with no aid or magical props, some Marauder noblewomen wish to fight with "
+"true weapons as well. Using their knowledge of seid to their advantage, they "
+"imbue their spears with a fey spirit, and even with no martial training they "
+"can often best warriors at their own game.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Valkyrie.cfg:5
+msgid "female^Valkyrie"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Valkyrie.cfg:20
+msgid ""
+"Tales float about in Lavinia of the Marauder Valkyries. They are, it is "
+"said, spirits from the netherworld come to claim souls for their army. Those "
+"they touch with their spears are destined to fall in battle that day, and be "
+"brought back to fight for good in the final battle at the end of time. It is "
+"an intriguing story, but it is no consolation for the Legionnaires who are "
+"slain at the hands of a Valkyrie, who are in truth not spirits, but Marauder "
+"noblemwomen who have mastered the art of seid, and who have given themselves "
+"the wings of a bird - so great is their power - to better move about the "
+"battlefield.\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Warrior.cfg:17
+msgid ""
+"Warriors are the main fighters in the Marauder army. Very strong and faster "
+"than most troops because of their light armour, they reach the front fast, "
+"and once the enemy is routed they often cannot escape the blade of these "
+"swift and brutal men. The Warriors believe that if they die in battle, they "
+"will live forever, drinking and feasting with the gods; it is this that "
+"gives them their fearlessness when fighting."
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Woodsman.cfg:5
+msgid "Woodsman"
+msgstr ""
+
+#: Imperial_Era/units/Marauder_Woodsman.cfg:18
+msgid ""
+"Woodsmen are well-respected in Marauder society, and their hunting and "
+"forestry skills are unmatched by any man. Amongst the Marauders' numereous "
+"enemies, they are avoided and greatly feared - and for good reason, as their "
+"markmanship with bow and pure strength is amazing. Many of them train by "
+"chopping down trees with a single blow."
+msgstr ""
+
+#: Imperial_Era/units/Nemidian_Champion.cfg:5
+msgid "Champion"
+msgstr ""
+
+#: Imperial_Era/units/Nemidian_Champion.cfg:33
+msgid ""
+"A Nemidian Champion is one of the most skilled horseman ever, both in the "
+"Empire and in his homeland of Nemidia. His spear-charges are feared "
+"throughout the land, as are his scimitar and javelins. He has garbed himself "
+"in the Lavinian fashion, and even takes the red and golden colors of the "
+"Legion. If it were not for the fact that his skin was black - burnt by the "
+"sun, the Lavinians believe - he could be mistaken for a Lavinian general, "
+"commanding his Legionnaires from horseback."
+msgstr ""
+
+#: Imperial_Era/units/Nemidian_Champion.cfg:54
+#: Imperial_Era/units/Nemidian_Claimant.cfg:53
+msgid "scimitar"
+msgstr ""
+
+#: Imperial_Era/units/Nemidian_Claimant.cfg:5
+msgid "Claimant"
+msgstr ""
+
+#: Imperial_Era/units/Nemidian_Claimant.cfg:32
+msgid ""
+"The more skilled the riders of Nemidia grow, the faster they are able to "
+"push their horses to run. A Nemidian Claimant's horse wears light armor, but "
+"it still manages to go faster than that of an untrained cavalryman. In "
+"addition, the Claimant now wields an additional weapon; a scimitar, which he "
+"uses when he does not wish to deal or recieve instant death."
+msgstr ""
+
+#: Imperial_Era/units/Nemidian_Hippopotamus.cfg:5
+msgid "Hippopotamus"
+msgstr ""
+
+#: Imperial_Era/units/Nemidian_Hippopotamus.cfg:23
+#: Imperial_Era/units/Nemidian_River_Horse.cfg:22
+#: Imperial_Era/units/Nemidian_River_Calf.cfg:22
+msgid "head-butt"
+msgstr ""
+
+#: Imperial_Era/units/Nemidian_Horseman.cfg:32
+msgid ""
+"The land of Nemidia governs itself, but it has a strong alliance with the "
+"Lavinian Empire, and often sends warriors to aid in its battles. The country "
+"is renowned for its skilled horsemen - so the Lavinians, instead of fielding "
+"their own, simply send the cavalry of Nemidia into battle. The horseman's "
+"only weapon is his spear, but his skill with it allows him to use it as a "
+"projectile, as well as a melee weapon."
+msgstr ""
+
+#: Imperial_Era/units/Nemidian_River_Calf.cfg:5
+msgid "River Calf"
+msgstr ""
+
+#: Imperial_Era/units/Nemidian_River_Horse.cfg:5
+msgid "River Horse"
+msgstr ""
+
+#: Imperial_Era/units/Seal.cfg:5
+msgid "Seal"
+msgstr ""
+
+#: Imperial_Era/units/Seal.cfg:26
+msgid ""
+"Trained seals are an important part of the military, as they enable these "
+"Elves to control the seas. The use of aquatic allies is also helpful in the "
+"hunt, as it provides the Ice Elves with wider access to the bounty of the "
+"seas."
+msgstr ""
+
+#: Imperial_Era/units/Sidhe_Ancestor.cfg:5
+msgid "Ancestor"
+msgstr ""
+
+#: Imperial_Era/units/Sidhe_Ancestor.cfg:23
+msgid ""
+"Revered warriors of old roam through the woods of the sidhe, visible only "
+"due to their shining silver maces. They are only partially present in the "
+"mortal realm, and wounds close as if they had never existed. Their voice can "
+"whisper in the wind the words that chill the hearts of their ennemies."
+msgstr ""
+
+#: Imperial_Era/units/Sidhe_Ancestor.cfg:27
+#: Imperial_Era/units/Sidhe_Forefather.cfg:28
+#: Imperial_Era/units/Sidhe_Warrior_Spirit.cfg:24
+msgid "ancient mace"
+msgstr ""
+
+#: Imperial_Era/units/Sidhe_Ancestor.cfg:42
+#: Imperial_Era/units/Sidhe_Forefather.cfg:43
+msgid "requiem"
+msgstr ""
+
+#: Imperial_Era/units/Sidhe_Forefather.cfg:5
+msgid "Forefather"
+msgstr ""
+
+#: Imperial_Era/units/Sidhe_Forefather.cfg:24
+msgid ""
+"The greatest warriors of the sidhe are far from gone. When you hear their "
+"death chant, echoing through the trees, know that their silver maces are "
+"also near."
+msgstr ""
+
+#: Imperial_Era/units/Sidhe_Warrior_Spirit.cfg:5
+msgid "Warrior Spirit"
+msgstr ""
+
+#: Imperial_Era/units/Sidhe_Warrior_Spirit.cfg:20
+msgid ""
+"The great sidhe warriors of times past are not quite gone. They roam through "
+"the forests of their former homes, seeking to perform the feats of arms they "
+"did in the past, and death is no obstacle..."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Bladespinner.cfg:5
+msgid "Bladespinner"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Bladespinner.cfg:19
+msgid ""
+"The better warriors of the sidhe are known as bladespinners. They can, it is "
+"said, cut a man in three different places before he will lift his weapon."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Fury.cfg:5
+msgid "Fury"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Fury.cfg:18
+msgid ""
+"The wild elf furies do not wield an extraordinarily powerful weapon, but "
+"they are dangerous nonetheless. Their swiftness allows them to pass enemies "
+"as closely as they like, and their dagger has been felt in the heart of many "
+"a supposedly well-guarded mage."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Herald.cfg:5
+msgid "Herald"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Herald.cfg:22
+msgid ""
+"The Heralds are sidhe who go out onto the battlefield, singing the warrior "
+"chants that drive the others onwards."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Raindancer.cfg:5
+msgid "Raindancer"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Raindancer.cfg:18
+msgid ""
+"The sidhe nobility are powerful mages. They have concentrated their powers "
+"on the calling of lighting from an otherwise clear sky, and their dancing "
+"among the lightning is what gave them their name of raindancers. Alas, the "
+"young and brash noblemen are uninterested in study, and more likely to go "
+"practice their swordplay than their magic."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Raindancer.cfg:37
+#: Imperial_Era/units/Wild_Elf_Warmage.cfg:38
+#: Imperial_Era/units/Wild_Elf_Stormlord.cfg:38
+#: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:41
+#: Imperial_Era/units/Wild_Elf_Tempest.cfg:37
+#: Imperial_Era/units/Wild_Elf_Windlasher.cfg:37
+msgid "lightning"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Raindancer.cfg:38
+#: Imperial_Era/units/Wild_Elf_Warmage.cfg:39
+#: Imperial_Era/units/Wild_Elf_Stormlord.cfg:24
+#: Imperial_Era/units/Wild_Elf_Stormlord.cfg:39
+#: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:42
+#: Imperial_Era/units/Wild_Elf_Tempest.cfg:38
+#: Imperial_Era/units/Wild_Elf_Windlasher.cfg:38
+msgid "energy"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Shadowdancer.cfg:5
+msgid "Shadowdancer"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Shadowdancer.cfg:19
+msgid ""
+"Some may look down upon the shadowdancer's specialty, but they would be well "
+"advised not to do so in his face, lest they wish to have their sword in "
+"their back."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Stormlord.cfg:5
+msgid "Stormlord"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Stormlord.cfg:19
+msgid ""
+"The stormlord has spent his entire life studying magic. He has given up "
+"weapon practice and most physical pursuits for this. Many wild elves "
+"distrust them because of this, but they fear them even more. And if a sidhe "
+"fears someone..."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Stormlord.cfg:23
+msgid "lightning staff"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Tempest.cfg:5
+msgid "Tempest"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Tempest.cfg:18
+msgid ""
+"Elder mages, seen as sages among the sidhe are given the name of tempest. "
+"They call down lightning with ease and use a magic whose raw destructive "
+"power is almost unequaled."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:5
+msgid "Thunderblade"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:19
+msgid ""
+"When the first sidhe lord died in battle, the shards of his mighty sword "
+"were collected and kept preciously by the fines wild elf mages. If a sidhe "
+"shows himself a great warrior and has the magic of the nobleborn, he might "
+"be awarded a thunderblade, a special sword enchanted with a fragment of the "
+"sidhe lord's great weapon."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:23
+msgid "thunderblade"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Tracker.cfg:5
+msgid "Tracker"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Tracker.cfg:25
+msgid ""
+"Among the finest scouts known, wild elf trackers are swift and versatile, "
+"skilled in both hand to hand and ranged combat when using short spears.\n"
+"\n"
+"Special notes: Their primary spear they coat with the sap of a certain "
+"shrub, giving it a poisonout tinge, but they would consider it cowardly to "
+"do this for their javelins as well."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Veiledblade.cfg:5
+msgid "Veiledblade"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Veiledblade.cfg:18
+msgid ""
+"Not all sidhe like to fight up front. The shadowy veiledblades can slip in "
+"through the enemy's defense, and stealthily hit an unexpecting foe, often "
+"mortally so."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Wanderer.cfg:23
+msgid ""
+"The sidhe sometimes have elves more lonesome among them who prefer the "
+"tracking and scouting to actual combat. These, known as wanderers, are armed "
+"with short spears that they use quite ... convincingly, though their real "
+"usefulness is for running ahead."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Wardancer.cfg:5
+msgid "Wardancer"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Wardancer.cfg:20
+msgid ""
+"Wardancers are legends among the sidhe. The skill of a bladespinner may seem "
+"unbelievable, but he is an amateur compared to a mighty wardancer. For a man "
+"will be killed 3 times over before he touches the ground."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Warmage.cfg:5
+msgid "War Mage"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Warmage.cfg:19
+msgid ""
+"Few sidhe are capable of staying away from battle for long. The war mages "
+"are wild elf nobility who, though trained as mages, spend most of their time "
+"sword in hand. Their prowess with the sword are easily those of a warrior "
+"and their magic is a welcome ally."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Warrior.cfg:19
+msgid ""
+"The lithe and strong sidhe warriors are deadly swordsmen, capable of dealing "
+"fast, strong blows and avoiding them just as easily. Their only weakness is "
+"the frailty due to their distaste for armor."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Warsinger.cfg:5
+msgid "Warsinger"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Warsinger.cfg:23
+msgid ""
+"The Warsinger is a master of the songs of combat. A powerful warrior "
+"himself, he can drive his companions into battle frenzies."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Whirlwind.cfg:5
+msgid "Whirlwind"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Whirlwind.cfg:19
+msgid ""
+"Swift of foot and hand, the Whirlwind is not to be trifled with. To be sure, "
+"he cannot face a sword-hacking man in direct combat, but he does not need "
+"to. His skills lie elsewhere."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Wildblade.cfg:5
+msgid "Wildblade"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Wildblade.cfg:18
+msgid ""
+"There are many capable of taking down the wildblade in direct combat, but "
+"the sidhe do not see this as a problem. The swiftness of these warriors "
+"allows them to avoid direct combat, instead going unnoticed through the "
+"battlefront and killing the wounded."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Windlasher.cfg:5
+msgid "Windlasher"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Windlasher.cfg:18
+msgid ""
+"The sidhe who dedicates himself to the windlasher's life will find it a hard "
+"one. He must stop the training in arms and devote himself to the study of "
+"magic. Few choose this path, but it is a worthy one."
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Windrunner.cfg:5
+msgid "Windrunner"
+msgstr ""
+
+#: Imperial_Era/units/Wild_Elf_Windrunner.cfg:26
+msgid ""
+"The windrunners are the finest scouts available to the sidhe. Their speed is "
+"unbelievable, and their prowesses with their spears, whether thrown or in "
+"hand to hand, are amazing.\n"
+"\n"
+"Special notes: Their primary spear they coat with the sap of a certain "
+"shrub, giving it a poisonout tinge, but they would consider it cowardly to "
+"do this for their javelins as well."
+msgstr ""
