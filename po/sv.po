@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-02-17 00:55+0100\n"
-"PO-Revision-Date: 2007-02-17 00:54+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
+"Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
+"DOT com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: Imperial_Era/Imperial_Era.cfg:6
 msgid "Imperial"
@@ -141,8 +143,9 @@ msgstr ""
 #: Imperial_Era/units/Wild_Elf_Bladespinner.cfg:23
 #: Imperial_Era/units/Arendian_Bowrider.cfg:22
 #: Imperial_Era/units/Arendian_Hunter.cfg:23
+#, fuzzy
 msgid "sword"
-msgstr ""
+msgstr "svärd"
 
 #: Imperial_Era/units/Lavinian_Signifer.cfg:33
 #: Imperial_Era/units/Arendian_Swordsman.cfg:23
@@ -229,8 +232,9 @@ msgstr ""
 #: Imperial_Era/units/Lavinian_Light_Infantry.cfg:29
 #: Imperial_Era/units/Marauder_Hunter.cfg:22
 #: Imperial_Era/units/Arendian_Hunter.cfg:24
+#, fuzzy
 msgid "blade"
-msgstr ""
+msgstr "hugg"
 
 #: Imperial_Era/units/Lavinian_Siege_Archer.cfg:32
 #: Imperial_Era/units/Lavinian_Siege_Archer.cfg:72
@@ -256,8 +260,9 @@ msgstr ""
 #: Imperial_Era/units/Arendian_Bowrider.cfg:37
 #: Imperial_Era/units/Marauder_Hunter.cfg:47
 #: Imperial_Era/units/Arendian_Hunter.cfg:38
+#, fuzzy
 msgid "bow"
-msgstr ""
+msgstr "pilbåge"
 
 #: Imperial_Era/units/Lavinian_Archuballistarius.cfg:79
 #: Imperial_Era/units/Lavinian_Decurion.cfg:59
@@ -331,8 +336,9 @@ msgstr ""
 #: Imperial_Era/units/Marauder_Shieldmaiden.cfg:24
 #: Imperial_Era/units/Marauder_Hunter.cfg:48
 #: Imperial_Era/units/Arendian_Hunter.cfg:39
+#, fuzzy
 msgid "pierce"
-msgstr ""
+msgstr "stick"
 
 #: Imperial_Era/units/Arendian_Arrow_Wind.cfg:5
 msgid "Arrow Wind"
@@ -366,8 +372,9 @@ msgid ""
 msgstr ""
 
 #: Imperial_Era/units/Arendian_Battlear.cfg:23
+#, fuzzy
 msgid "flail"
-msgstr ""
+msgstr "stridsgissel"
 
 #: Imperial_Era/units/Lavinian_Funditor.cfg:56
 #: Imperial_Era/units/Marauder_Crusher.cfg:46
@@ -405,8 +412,9 @@ msgstr ""
 #: Imperial_Era/units/Nemidian_River_Calf.cfg:23
 #: Imperial_Era/units/Cavernei_Lord.cfg:69
 #: Imperial_Era/units/Sidhe_Warrior_Spirit.cfg:25
+#, fuzzy
 msgid "impact"
-msgstr ""
+msgstr "kross"
 
 #: Imperial_Era/units/Arendian_Boltrider.cfg:5
 msgid "Boltrider"
@@ -434,8 +442,9 @@ msgstr ""
 #: Imperial_Era/units/Frost_Elf_Glaivier.cfg:26
 #: Imperial_Era/units/Arendian_Druid.cfg:20
 #: Imperial_Era/units/Nemidian_River_Calf.cfg:18
+#, fuzzy
 msgid " "
-msgstr ""
+msgstr " "
 
 #: Imperial_Era/units/Arendian_Bowknight.cfg:5
 msgid "Bowknight"
@@ -491,8 +500,9 @@ msgid "Staff"
 msgstr ""
 
 #: Imperial_Era/units/Arendian_Druid.cfg:39
+#, fuzzy
 msgid "fireball"
-msgstr ""
+msgstr "eldklot"
 
 #: Imperial_Era/units/Lavinian_Siege_Archer.cfg:73
 #: Imperial_Era/units/Lavinian_Bowman.cfg:74
@@ -505,8 +515,9 @@ msgstr ""
 #: Imperial_Era/units/Marauder_Scorcher.cfg:38
 #: Imperial_Era/units/Arendian_Druid.cfg:40
 #: Imperial_Era/units/Arendian_Hunter.cfg:54
+#, fuzzy
 msgid "fire"
-msgstr ""
+msgstr "eld"
 
 #: Imperial_Era/units/Arendian_Feather_Bow.cfg:5
 msgid "Feather Bow"
@@ -524,8 +535,9 @@ msgid ""
 msgstr ""
 
 #: Imperial_Era/units/Arendian_Hero.cfg:5
+#, fuzzy
 msgid "Hero"
-msgstr ""
+msgstr "Hjälte"
 
 #: Imperial_Era/units/Arendian_Hero.cfg:23
 msgid ""
@@ -541,8 +553,9 @@ msgstr ""
 
 #: Imperial_Era/units/Arendian_Hero.cfg:42
 #: Imperial_Era/units/Arendian_Wanderer.cfg:41
+#, fuzzy
 msgid "throwing knives"
-msgstr ""
+msgstr "kastknivar"
 
 #: Imperial_Era/units/Arendian_Horse_Master.cfg:5
 msgid "Horse Master"
@@ -550,8 +563,9 @@ msgstr ""
 
 #: Imperial_Era/units/Nemidian_Horseman.cfg:5
 #: Imperial_Era/units/Arendian_Horseman.cfg:5
+#, fuzzy
 msgid "Horseman"
-msgstr ""
+msgstr "Ryttare"
 
 #: Imperial_Era/units/Marauder_Hunter.cfg:5
 #: Imperial_Era/units/Arendian_Hunter.cfg:5
@@ -585,17 +599,20 @@ msgid "Mounted Marksman"
 msgstr ""
 
 #: Imperial_Era/units/Arendian_Mounted_Warrior.cfg:5
+#, fuzzy
 msgid "Mounted Warrior"
-msgstr ""
+msgstr "Ryttarkrigare"
 
 #: Imperial_Era/units/Arendian_Shaman.cfg:5
+#, fuzzy
 msgid "Shaman"
-msgstr ""
+msgstr "Schaman"
 
 #: Imperial_Era/units/Arendian_Warlock.cfg:25
 #: Imperial_Era/units/Arendian_Shaman.cfg:24
+#, fuzzy
 msgid "staff"
-msgstr ""
+msgstr "stav"
 
 #: Imperial_Era/units/Arendian_Warlock.cfg:39
 #: Imperial_Era/units/Arendian_Shaman.cfg:38
@@ -627,8 +644,9 @@ msgid ""
 msgstr ""
 
 #: Imperial_Era/units/Arendian_Swordsman.cfg:5
+#, fuzzy
 msgid "Swordsman"
-msgstr ""
+msgstr "Svärdssoldat"
 
 #: Imperial_Era/units/Arendian_Swordsman.cfg:18
 msgid ""
@@ -666,14 +684,16 @@ msgid "Warlock"
 msgstr ""
 
 #: Imperial_Era/units/Arendian_Warlord.cfg:5
+#, fuzzy
 msgid "Warlord"
-msgstr ""
+msgstr "Krigsherre"
 
 #: Imperial_Era/units/Marauder_Warrior.cfg:5
 #: Imperial_Era/units/Arendian_Warrior.cfg:5
 #: Imperial_Era/units/Wild_Elf_Warrior.cfg:5
+#, fuzzy
 msgid "Warrior"
-msgstr ""
+msgstr "Krigare"
 
 #: Imperial_Era/units/Arendian_Warrior.cfg:18
 msgid ""
@@ -691,8 +711,9 @@ msgid ""
 msgstr ""
 
 #: Imperial_Era/units/Arendian_Warrior.cfg:22
+#, fuzzy
 msgid "mace"
-msgstr ""
+msgstr "spikklubba"
 
 #: Imperial_Era/units/Cavernei_Dragonguard.cfg:5
 msgid "Dragonguard"
@@ -716,12 +737,14 @@ msgstr ""
 #: Imperial_Era/units/Cavernei_Thunderer.cfg:40
 #: Imperial_Era/units/Frost_Elf_Bladesman.cfg:48
 #: Imperial_Era/units/Frost_Elf_Mistral_Cryomancer.cfg:32
+#, fuzzy
 msgid "dagger"
-msgstr ""
+msgstr "dolk"
 
 #: Imperial_Era/units/Cavernei_Dragonguard.cfg:63
+#, fuzzy
 msgid "dragonstaff"
-msgstr ""
+msgstr "drakstav"
 
 #: Imperial_Era/units/Cavernei_Eagle_Master.cfg:5
 msgid "Eagle Master"
@@ -736,8 +759,9 @@ msgstr ""
 
 #: Imperial_Era/units/Cavernei_Eagle_Master.cfg:27
 #: Imperial_Era/units/Cavernei_Eagle_Rider.cfg:27
+#, fuzzy
 msgid "claws"
-msgstr ""
+msgstr "klor"
 
 #: Imperial_Era/units/Cavernei_Eagle_Rider.cfg:5
 msgid "Eagle Rider"
@@ -751,8 +775,9 @@ msgid ""
 msgstr ""
 
 #: Imperial_Era/units/Cavernei_Fighter.cfg:5
+#, fuzzy
 msgid "Fighter"
-msgstr ""
+msgstr "Krigare"
 
 #: Imperial_Era/units/Cavernei_Fighter.cfg:23
 msgid ""
@@ -771,14 +796,16 @@ msgstr ""
 #: Imperial_Era/units/Marauder_Raider.cfg:22
 #: Imperial_Era/units/Marauder_Scout.cfg:21
 #: Imperial_Era/units/Marauder_Hunter.cfg:21
+#, fuzzy
 msgid "axe"
-msgstr ""
+msgstr "yxa"
 
 #: Imperial_Era/units/Cavernei_Steelclad.cfg:67
 #: Imperial_Era/units/Cavernei_Fighter.cfg:65
 #: Imperial_Era/units/Cavernei_Lord.cfg:68
+#, fuzzy
 msgid "hammer"
-msgstr ""
+msgstr "hammare"
 
 #: Imperial_Era/units/Cavernei_Guardsman.cfg:5
 msgid "Guardsman"
@@ -818,36 +845,46 @@ msgstr ""
 #: Imperial_Era/units/Wild_Elf_Tracker.cfg:32
 #: Imperial_Era/units/Wild_Elf_Tracker.cfg:43
 #: Imperial_Era/units/Marauder_Shieldmaiden.cfg:23
+#, fuzzy
 msgid "spear"
-msgstr ""
+msgstr "spjut"
 
 #: Imperial_Era/units/Cavernei_Stalwart.cfg:84
 #: Imperial_Era/units/Cavernei_Sentinel.cfg:89
 #: Imperial_Era/units/Cavernei_Guardsman.cfg:81
+#, fuzzy
 msgid "javelin"
-msgstr ""
+msgstr "kastspjut"
 
 #: Imperial_Era/units/Marauder_Lord.cfg:5
 #: Imperial_Era/units/Cavernei_Lord.cfg:5
+#, fuzzy
 msgid "Lord"
-msgstr ""
+msgstr "Furste"
 
 #: Imperial_Era/units/Cavernei_Lord.cfg:20
+#, fuzzy
 msgid ""
 "Clad in shining armor, these dwarves look like kings from under the "
 "mountains. They wield axe and hammer with masterful skill, and can hit a "
 "target with a thrown hand axe at several paces. Though slow on their feet, "
 "these dwarves are a testament to the prowess of their kin."
 msgstr ""
+"Klädda i skinande rustningar ser dessa dvärgar ut som bergsalarnas kungar. "
+"De använder yxa och stridshammare med mästerlighet och de kan träffa en "
+"fiende med sin kastyxa på flera stegs håll. Även om de inte är så kvicka så "
+"utgör de levande bevis för sitt släktes framsteg."
 
 #: Imperial_Era/units/Cavernei_Steelclad.cfg:28
 #: Imperial_Era/units/Cavernei_Lord.cfg:29
+#, fuzzy
 msgid "battle axe"
-msgstr ""
+msgstr "stridsyxa"
 
 #: Imperial_Era/units/Cavernei_Lord.cfg:106
+#, fuzzy
 msgid "hatchet"
-msgstr ""
+msgstr "kastyxa"
 
 #: Imperial_Era/units/Cavernei_Runemaster.cfg:5
 msgid "Runemaster"
@@ -862,30 +899,38 @@ msgid ""
 msgstr ""
 
 #: Imperial_Era/units/Cavernei_Runemaster.cfg:23
+#, fuzzy
 msgid "runic hammer"
-msgstr ""
+msgstr "runhammare"
 
 #: Imperial_Era/units/Cavernei_Runemaster.cfg:63
+#, fuzzy
 msgid "Lightning bolt"
-msgstr ""
+msgstr "åskvigg"
 
 #: Imperial_Era/units/Cavernei_Sentinel.cfg:5
 msgid "Sentinel"
 msgstr ""
 
 #: Imperial_Era/units/Cavernei_Sentinel.cfg:22
+#, fuzzy
 msgid ""
 "The Sentinel, with his tower shield and great courage, refuses to yield "
 "under even the strongest of enemy attacks.\n"
 "\n"
 "Special Notes:"
 msgstr ""
+"Hedersvakten, med sin breda sköld och stora mod, vägrar att ge vika även "
+"under de svåraste av attacker.\n"
+"\n"
+"Anmärkning:"
 
 #: Imperial_Era/units/Cavernei_Stalwart.cfg:5
 msgid "Stalwart"
 msgstr ""
 
 #: Imperial_Era/units/Cavernei_Stalwart.cfg:21
+#, fuzzy
 msgid ""
 "Stalwarts, after years in battle, have fashioned new shields and strong "
 "armor from the ruins of their enemies. While slow, they are feared for their "
@@ -893,10 +938,17 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Under år av strider har pansarnävarna inhämtat både inspiration och "
+"råmaterial av sina besegrade fiender och kunnat skapa nya och starkare "
+"sköldar och rustningar. Även om de är långsamma, är de fruktade för sin "
+"uthållighet och styrka.\n"
+"\n"
+"Anmärkning:"
 
 #: Imperial_Era/units/Cavernei_Steelclad.cfg:5
+#, fuzzy
 msgid "Steelclad"
-msgstr ""
+msgstr "Järnnäve"
 
 #: Imperial_Era/units/Cavernei_Steelclad.cfg:19
 msgid ""
@@ -917,8 +969,9 @@ msgstr ""
 
 #: Imperial_Era/units/Cavernei_Thunderguard.cfg:73
 #: Imperial_Era/units/Cavernei_Thunderer.cfg:89
+#, fuzzy
 msgid "thunderstick"
-msgstr ""
+msgstr "åskstav"
 
 #: Imperial_Era/units/Cavernei_Thunderguard.cfg:5
 msgid "Thunderguard"
@@ -944,8 +997,9 @@ msgstr ""
 
 #: Imperial_Era/units/Seal.cfg:29 Imperial_Era/units/Fleet_Seal.cfg:29
 #: Imperial_Era/units/Elder_Seal.cfg:30
+#, fuzzy
 msgid "bite"
-msgstr ""
+msgstr "bett"
 
 #: Imperial_Era/units/Fleet_Seal.cfg:5
 msgid "Fleet Seal"
@@ -1001,8 +1055,9 @@ msgstr ""
 
 #: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:30
 #: Imperial_Era/units/Frost_Elf_Glaivier.cfg:29
+#, fuzzy
 msgid "glaive"
-msgstr ""
+msgstr "glaive"
 
 #: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:52
 #: Imperial_Era/units/Frost_Elf_Glaivier.cfg:51
@@ -1080,8 +1135,9 @@ msgstr ""
 #: Imperial_Era/units/Sidhe_Forefather.cfg:44
 #: Imperial_Era/units/Marauder_Galdra.cfg:54
 #: Imperial_Era/units/Marauder_Shieldmaiden.cfg:53
+#, fuzzy
 msgid "cold"
-msgstr ""
+msgstr "frost"
 
 #: Imperial_Era/units/Frost_Elf_Mistral_Rime_Castellan.cfg:5
 msgid "female^Mistral Rime Castellan"
@@ -1197,8 +1253,9 @@ msgstr ""
 
 #: Imperial_Era/units/Lavinian_Archuballistarius.cfg:78
 #: Imperial_Era/units/Lavinian_Ballista.cfg:75
+#, fuzzy
 msgid "ballista"
-msgstr ""
+msgstr "ballista"
 
 #: Imperial_Era/units/Lavinian_Auxiliary.cfg:5
 msgid "Auxiliary"
@@ -1228,8 +1285,9 @@ msgid ""
 msgstr ""
 
 #: Imperial_Era/units/Lavinian_Bowman.cfg:5
+#, fuzzy
 msgid "Bowman"
-msgstr ""
+msgstr "Bågskytt"
 
 #: Imperial_Era/units/Lavinian_Bowman.cfg:22
 msgid ""
@@ -1299,8 +1357,9 @@ msgstr ""
 
 #: Imperial_Era/units/Lavinian_Funditor.cfg:55
 #: Imperial_Era/units/Lavinian_Slinger.cfg:54
+#, fuzzy
 msgid "sling"
-msgstr ""
+msgstr "slunga"
 
 #: Imperial_Era/units/Lavinian_Legionnaire.cfg:5
 msgid "Legionnaire"
@@ -1320,8 +1379,9 @@ msgstr ""
 #: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:59
 #: Imperial_Era/units/Lavinian_Legionnaire.cfg:85
 #: Imperial_Era/units/Lavinian_Propugnator.cfg:58
+#, fuzzy
 msgid "shield"
-msgstr ""
+msgstr "sköld"
 
 #: Imperial_Era/units/Lavinian_Light_Infantry.cfg:5
 msgid "Light Infantryman"
@@ -1518,8 +1578,9 @@ msgstr ""
 #: Imperial_Era/units/Marauder_Seeress.cfg:23
 #: Imperial_Era/units/Marauder_Fay.cfg:23
 #: Imperial_Era/units/Marauder_Galdra.cfg:24
+#, fuzzy
 msgid "fist"
-msgstr ""
+msgstr "knytnäve"
 
 #: Imperial_Era/units/Marauder_Seeress.cfg:52
 #: Imperial_Era/units/Marauder_Fay.cfg:52
@@ -1612,8 +1673,9 @@ msgstr ""
 
 #: Imperial_Era/units/Marauder_Pillager.cfg:36
 #: Imperial_Era/units/Marauder_Scorcher.cfg:37
+#, fuzzy
 msgid "torch"
-msgstr ""
+msgstr "fackla"
 
 #: Imperial_Era/units/Marauder_Raider.cfg:5
 msgid "Raider"
@@ -1630,8 +1692,9 @@ msgid ""
 msgstr ""
 
 #: Imperial_Era/units/Marauder_Raider.cfg:37
+#, fuzzy
 msgid "net"
-msgstr ""
+msgstr "nät"
 
 #: Imperial_Era/units/Marauder_Sailor.cfg:5
 msgid "Sailor"
@@ -1747,8 +1810,9 @@ msgid ""
 msgstr ""
 
 #: Imperial_Era/units/Marauder_Woodsman.cfg:5
+#, fuzzy
 msgid "Woodsman"
-msgstr ""
+msgstr "Skogsman"
 
 #: Imperial_Era/units/Marauder_Woodsman.cfg:18
 msgid ""
@@ -1760,8 +1824,9 @@ msgid ""
 msgstr ""
 
 #: Imperial_Era/units/Nemidian_Champion.cfg:5
+#, fuzzy
 msgid "Champion"
-msgstr ""
+msgstr "Förkämpe"
 
 #: Imperial_Era/units/Nemidian_Champion.cfg:33
 msgid ""
@@ -1776,8 +1841,9 @@ msgstr ""
 
 #: Imperial_Era/units/Nemidian_Champion.cfg:54
 #: Imperial_Era/units/Nemidian_Claimant.cfg:53
+#, fuzzy
 msgid "scimitar"
-msgstr ""
+msgstr "kroksabel"
 
 #: Imperial_Era/units/Nemidian_Claimant.cfg:5
 msgid "Claimant"
@@ -1928,8 +1994,9 @@ msgstr ""
 #: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:41
 #: Imperial_Era/units/Wild_Elf_Tempest.cfg:37
 #: Imperial_Era/units/Wild_Elf_Windlasher.cfg:37
+#, fuzzy
 msgid "lightning"
-msgstr ""
+msgstr "blixtar"
 
 #: Imperial_Era/units/Wild_Elf_Raindancer.cfg:38
 #: Imperial_Era/units/Wild_Elf_Warmage.cfg:39
