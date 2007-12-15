@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-12-07 00:03+0100\n"
-"PO-Revision-Date: 2007-12-06 21:35+0100\n"
+"PO-Revision-Date: 2007-12-15 13:08+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
-"Language-Team: Italian\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -276,6 +276,20 @@ msgid ""
 "situations. They do not take orders, but must be asked to assist. They are "
 "typically glad to wield their blades in Arendian service."
 msgstr ""
+"I cacciatori sono un antico culto ad Arendia. Questi uomini erano soliti "
+"uscire, normalmente con i loro mantelli sulle spalle per protezione, e "
+"cacciare i draghi che vivevano ad Arendia e dintorni. Erano noti come "
+"cacciatori perché non avevano ancora trovato la loro preda; quando lo "
+"facevano e la uccidevano in uno scontro senza aiuti, venivano chiamati "
+"uccisori. Gli arendiani non hanno una parola per definire chi trova un drago "
+"e non lo uccide dato che questi sono scontri a morte, ma il termine più "
+"vicini è “fodir” che letteralmente si traduce “cibo”.\n"
+" Naturalmente in questi tempi solo rimasti da cacciare e uccidere solo i "
+"serpenti, e comunque ne rimangono pochi, ma il culto dei cacciatori è ancora "
+"vivo come un reparto non ufficiale del'esercito delle tribù di Arendia. "
+"Agiscono come fanteria avanzata in particolari occasioni. NOn prendono "
+"ordini, ma devono dare assistenza. Di solito sono lieti di maneggiare le "
+"loro spade al servizio di Arendia."
 
 #: Imperial_Era/units/Arendian_Mounted-Marksman.cfg:5
 msgid "Mounted Marksman"
@@ -726,12 +740,22 @@ msgid ""
 "and an object of honor for all of the Legionnaires, and it will give them "
 "strength in the battle even in the dead of night."
 msgstr ""
+"L'aquilifero, con il copricapo di pelle di leone sulla testa, l'aquila "
+"dorata sull apunta del suo vessillo e il rosso e oro delle legione sulla sua "
+"armatura, è proprio il simbolo dell'impero stesso. C'è un solo aquilfero per "
+"ogni legione e deve essere un uomo forte, coraggioso e saggio ad occupare "
+"questo posto. Siccome porta l'aquila della legione, è il bersaglio di ogni "
+"nemico e spesso deve combattere o morire per proteggerla. L'aquila serve "
+"come ispirazione e simbolo dell'onore di tutti i legionari e dà loro forza "
+"in battaglia e persino nell'ora della morte."
 
 #: Imperial_Era/units/Lavinian_Archuballistarius.cfg:5
+#, fuzzy
 msgid "Archuballistarius"
-msgstr ""
+msgstr "Arcibalistario"
 
 #: Imperial_Era/units/Lavinian_Archuballistarius.cfg:21
+#, fuzzy
 msgid ""
 "The Lavinian Legion will often, in its conquests, come across a fortified "
 "town that refuses to surrender. Instead of storming the walls of the city, "
@@ -740,6 +764,13 @@ msgid ""
 "The Archuballistarius is also effective on the battlefield, although it "
 "moves rather slowly."
 msgstr ""
+"La legione di Lavinio, nelle sue conquiste, spesso incontra una città "
+"fortificata che rifiuta di arrendersi. Invece di prendere d'assalto le mura "
+"della città, semplicemente tirano fuori l'artiglieria. La città "
+"immancabilmente cade.\n"
+"\n"
+"L'arcibalistario è anche efficace sul campo di battaglia, anche se si muove "
+"piuttosto lentamente."
 
 #: Imperial_Era/units/Lavinian_Auxiliary.cfg:5
 msgid "Auxiliary"
@@ -754,6 +785,12 @@ msgid ""
 "serving in the Legion for long enough, they will be granted Lavinian "
 "citizenship, and all the privileges that come with that."
 msgstr ""
+"Anche se i legionari costituiscono il cuore della legione, c'è un numero "
+"pari di ausiliari nei ranghi della legione. Gli ausiliari non portano scudo "
+"né armatura e maneggiano solo una spada larga, ma ciò viene compensato con "
+"la loro velocità, adattabilità e abbondanza. La loro unica speranza è che, "
+"servendo abbastanza a lungo nella legione, ottengano la cittadinanza "
+"laviniana e relativi privilegi."
 
 #: Imperial_Era/units/Lavinian_Ballista.cfg:5
 #, fuzzy
@@ -804,7 +841,7 @@ msgstr ""
 
 #: Imperial_Era/units/Lavinian_Centurion.cfg:5
 msgid "Centurion"
-msgstr "Centurion"
+msgstr "Centurione"
 
 #: Imperial_Era/units/Lavinian_Centurion.cfg:19
 msgid ""
@@ -817,7 +854,7 @@ msgstr ""
 
 #: Imperial_Era/units/Lavinian_Decurion.cfg:5
 msgid "Decurion"
-msgstr "Decurion"
+msgstr "Decurione"
 
 #: Imperial_Era/units/Lavinian_Decurion.cfg:18
 msgid ""
@@ -887,10 +924,17 @@ msgid ""
 "can also use to stun his opponent, and perhaps kill him. In addition to this "
 "shield, he bears two throwing spears and a short sword."
 msgstr ""
+"Compito del pretoriano è quello di proteggere il cesare e la sua famiglia - "
+"o semplicemente chiunque lo assumi. Scelto tra i ranghi e le fila della "
+"legione, ora occupa una posizione di estremo prestigio, quella di guardia "
+"del corpo dell'imperatore. Il suo scudo, grande abbastanza da proteggere lui "
+"e il suo carico, può anche essere usato per stordire il suo avverario e "
+"forse per ucciderlo. Oltre a questo scudo, porta due giavellotti e una spada "
+"corta."
 
 #: Imperial_Era/units/Lavinian_Propugnator.cfg:5
 msgid "Propugnator"
-msgstr ""
+msgstr "Propugnatore"
 
 #: Imperial_Era/units/Lavinian_Propugnator.cfg:18
 msgid ""
@@ -901,6 +945,12 @@ msgid ""
 "temporarily stunning him. Aside from that, his weapons are the same as an "
 "ordinary Legionnaire - a gladius, and two pila."
 msgstr ""
+"Il propugnatore, combattente esperto, ha scelto di non accettare il grado di "
+"ufficiale e piuttosto di continuare a combattere in prima linea. Porta uno "
+"scudo molto grosso con un ovale in rilievo che usa sia per proteggersi molto "
+"bene sia per colpire la testa dei suoi avversari stordendoli "
+"temporaneamente. A parte ciò, le sua armi sono le stesse di un normale "
+"legionario  - un gladio e due picche."
 
 #: Imperial_Era/units/Lavinian_Rorarius.cfg:5
 msgid "Rorarius"
@@ -920,13 +970,15 @@ msgstr ""
 
 #: Imperial_Era/units/Lavinian_Saggitarius.cfg:5
 msgid "Saggitarius"
-msgstr ""
+msgstr "Sagittario"
 
 #: Imperial_Era/units/Lavinian_Saggitarius.cfg:18
 msgid ""
 "Special Notes: The Lavinian Saggitarius is so well armored that when he is "
 "defending, he will take reduced damage from physical weapons."
 msgstr ""
+"Note speciali: Il sagittario di Lavinio è così ben corazzato che quando si "
+"difende, subisce danni ridotti dalle armi fisiche."
 
 #: Imperial_Era/units/Lavinian_Siege_Archer.cfg:5
 msgid "Siege Archer"
@@ -937,6 +989,8 @@ msgid ""
 "Special Notes: The Lavinian Siege Archer is so well armored that when he is "
 "defending, he will take reduced damage from physical weapons."
 msgstr ""
+"Note speciali: L'arciere d'assedio di Lavinio è così ben corazzato che "
+"quando si difende, subisce danni ridotti dalle armi fisiche."
 
 #: Imperial_Era/units/Lavinian_Signifer.cfg:5
 msgid "Signifer"
@@ -1427,6 +1481,9 @@ msgid ""
 "advised not to do so in his face, lest they wish to have their sword in "
 "their back."
 msgstr ""
+"Qualcuno potrebbe disprezzare la specilità dei danzatori delle ombre, ma è "
+"un buon consiglio non farlo di fronte a loro a meno che non vogliano avere "
+"la loro spada nella schiena."
 
 #: Imperial_Era/units/Wild_Elf_Stormlord.cfg:5
 msgid "Stormlord"
@@ -1450,6 +1507,9 @@ msgid ""
 "They call down lightning with ease and use a magic whose raw destructive "
 "power is almost unequaled."
 msgstr ""
+"Ai maghi anziani, considerati saggi tra i sidhe, viene dato il nome di "
+"tempesta. Invocano con facilità il fulmine e utilizzano una magia dal grezzo "
+"potere distruttivo quasi ineguagliato."
 
 #: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:5
 msgid "Thunderblade"
@@ -1507,6 +1567,10 @@ msgid ""
 "unbelievable, but he is an amateur compared to a mighty wardancer. For a man "
 "will be killed 3 times over before he touches the ground."
 msgstr ""
+"I danzatori di guerra sono leggende tra i sidhe. L'abilità di una lama "
+"roteante può sembrare incredibile, ma in confronto con un potente danzatore "
+"di guerra è un dilettante, dato che può uccidere un uomo tre volte prima che "
+"di toccare il terreno."
 
 #: Imperial_Era/units/Wild_Elf_Warmage.cfg:5
 msgid "War Mage"
@@ -1519,6 +1583,11 @@ msgid ""
 "sword in hand. Their prowess with the sword are easily those of a warrior "
 "and their magic is a welcome ally."
 msgstr ""
+"Pochi sidhe sono ingrado di stare lontano dal campo di battaglia a lungo. I "
+"maghi delal guerra sono la nobiltà degli elfi selvaggi che, anche se "
+"addestrati da maghi, impiegano la maggior parte del tempo con una spada in "
+"mano. La loro prodezza con la spada è quasi pari a quella di un guerrierio e "
+"la loro magia un apprezzato alleato."
 
 #: Imperial_Era/units/Wild_Elf_Warrior.cfg:19
 msgid ""
@@ -1526,6 +1595,9 @@ msgid ""
 "fast, strong blows and avoiding them just as easily. Their only weakness is "
 "the frailty due to their distaste for armor."
 msgstr ""
+"Gli agili e potenti guerrieri sidhe sono spadaccini mortali, capaci di "
+"portare rapidi e potenti stoccate e evitarle altrttanto facilmente. L'unica "
+"loro debolezza è la fragilità a causa del loro disprezzo per l'armatura."
 
 #: Imperial_Era/units/Wild_Elf_Warsinger.cfg:5
 msgid "Warsinger"
@@ -1536,6 +1608,9 @@ msgid ""
 "The Warsinger is a master of the songs of combat. A powerful warrior "
 "himself, he can drive his companions into battle frenzies."
 msgstr ""
+"Il bardo guerrierio è il maestro dei canti di combattimento. Egli stesso è "
+"un potente guerrierio che può trascinare i suoi compagni nella frenesia "
+"delal battaglia."
 
 #: Imperial_Era/units/Wild_Elf_Whirlwind.cfg:5
 msgid "Whirlwind"
@@ -1547,6 +1622,9 @@ msgid ""
 "he cannot face a sword-hacking man in direct combat, but he does not need "
 "to. His skills lie elsewhere."
 msgstr ""
+"Rapidi di piede e di mano, non bisogna scherzare il tornado. Per essere "
+"chiari, non è in grado di affrontare un uomo armati spada in uno scontro "
+"diretto, ma non ha bisogno di farlo. Le sue abilità sono altre."
 
 #: Imperial_Era/units/Wild_Elf_Wildblade.cfg:5
 msgid "Wildblade"
@@ -1559,6 +1637,10 @@ msgid ""
 "allows them to avoid direct combat, instead going unnoticed through the "
 "battlefront and killing the wounded."
 msgstr ""
+"Parecchi sono in grado di abbattere la lamafolle in uno scontro diretto, ma "
+"i sidhe non pensano che sia un problema. La rapidità di questi guerrieri "
+"permette loro di evitare gli scontri diretti, per aggirarsi non visti lungo "
+"la linea della battaglia e uccidere i feriti."
 
 #: Imperial_Era/units/Wild_Elf_Windlasher.cfg:5
 msgid "Windlasher"
@@ -1570,6 +1652,9 @@ msgid ""
 "one. He must stop the training in arms and devote himself to the study of "
 "magic. Few choose this path, but it is a worthy one."
 msgstr ""
+"La vita dei sidhe che si decidono di fare i flagellatori è dura. Devono "
+"smettere con l'addestramento con le armi e devono votarsi allo studio della "
+"magia. Pochi scelgono questa strada, ma ne vale la pena."
 
 #: Imperial_Era/units/Wild_Elf_Windrunner.cfg:5
 msgid "Windrunner"
@@ -1585,6 +1670,13 @@ msgid ""
 "shrub, giving it a poisonout tinge, but they would consider it cowardly to "
 "do this for their javelins as well."
 msgstr ""
+"I corridori del vento sono igli esploratori più abili tra i sidhe. La loro "
+"velocità è incredibile e la loro prodezza con la loro lancia, sia lanciata "
+"sia nel corpo a corpo, è stupefacente.\n"
+"\n"
+"Note speciali: Rivestono la loro lancia principale con la linfa di un certo "
+"arbusto ottenendo una punta avvelenata, ma considererebbero una codardia "
+"fare altrettanto con i loro giavellotti."
 
 #~ msgid "sword"
 #~ msgstr "spada"
