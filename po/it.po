@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-12-07 00:03+0100\n"
-"PO-Revision-Date: 2007-12-23 17:43+0100\n"
+"PO-Revision-Date: 2007-12-31 17:20+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -106,9 +106,8 @@ msgid ""
 msgstr ""
 
 #: Imperial_Era/units/Arendian_Arrow_Wind.cfg:5
-#, fuzzy
 msgid "Arrow Wind"
-msgstr "Freccia del vento"
+msgstr ""
 
 #: Imperial_Era/units/Arendian_Arrow_Wind.cfg:19
 msgid ""
@@ -463,7 +462,7 @@ msgstr ""
 
 #: Imperial_Era/units/Cavernei_Guardsman.cfg:5
 msgid "Guardsman"
-msgstr ""
+msgstr "Guardiano"
 
 #: Imperial_Era/units/Cavernei_Guardsman.cfg:22
 msgid ""
@@ -518,7 +517,7 @@ msgstr ""
 
 #: Imperial_Era/units/Cavernei_Stalwart.cfg:5
 msgid "Stalwart"
-msgstr ""
+msgstr "Nano vigoroso"
 
 #: Imperial_Era/units/Cavernei_Stalwart.cfg:21
 msgid ""
@@ -538,6 +537,8 @@ msgid ""
 "The more experienced Cavernei Steelclad fighters wear heavy chain mail and "
 "plate armor, for which they are rightly famous."
 msgstr ""
+"I più esperti caverniani d'acciaio indossano pesanti cotte di maglia e "
+"armature a piastre, per questo sono giustamente famosi."
 
 #: Imperial_Era/units/Cavernei_Thunderer.cfg:5
 msgid "Thunderer"
@@ -692,7 +693,7 @@ msgstr ""
 
 #: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:5
 msgid "Mountaineer"
-msgstr ""
+msgstr "Montanaro"
 
 #: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:39
 msgid ""
@@ -702,6 +703,11 @@ msgid ""
 "well as in the ice and snow, they will do all they can to help their people "
 "to survive in their harsh environment."
 msgstr ""
+"Gli arcieri che provano il loro valore e dimostrano capacità di comando "
+"vengono promossi al grado di montanari. Duri guerrieri che possono resisere "
+"agli elementi e muoversi bene tra motagne e colline così come tra ghiaccio e "
+"neve, faranno tutto quello che possono per aiutare la loro gente a "
+"sopravvivere nel loro duro ambiente."
 
 #: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:6
 msgid "Yak Knight"
@@ -716,6 +722,10 @@ msgid ""
 "cannot imagine riding them, the cavalry is rightly feared for their cold "
 "efficiency."
 msgstr ""
+"Alcuni elfi del ghiaccio hanno addomesticato degli yak selvatici che adesso "
+"usano come cavalcature. Per quanto le altre razze non possano capire la loro "
+"predilezione per queste strabe bestie che non riescono nemmeno a pensare di "
+"cavalcarle, la cavalleria è giustamente temuta per la sua fredda efficienza."
 
 #: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:6
 msgid "Yak Rider"
@@ -793,7 +803,6 @@ msgstr ""
 "laviniana e relativi privilegi."
 
 #: Imperial_Era/units/Lavinian_Ballista.cfg:5
-#, fuzzy
 msgid "Field Ballista"
 msgstr "Balista da campo"
 
@@ -1192,7 +1201,7 @@ msgstr ""
 
 #: Imperial_Era/units/Marauder_Sailor.cfg:5
 msgid "Sailor"
-msgstr ""
+msgstr "Marinaio"
 
 #: Imperial_Era/units/Marauder_Sailor.cfg:18
 msgid ""
@@ -1247,7 +1256,7 @@ msgstr ""
 
 #: Imperial_Era/units/Marauder_Seeress.cfg:5
 msgid "female^Seeress"
-msgstr ""
+msgstr "Profetessa"
 
 #: Imperial_Era/units/Marauder_Seeress.cfg:19
 msgid ""
@@ -1261,7 +1270,7 @@ msgstr ""
 
 #: Imperial_Era/units/Marauder_Shieldmaiden.cfg:5
 msgid "female^Shieldmaiden"
-msgstr ""
+msgstr "Scudiera"
 
 #: Imperial_Era/units/Marauder_Shieldmaiden.cfg:19
 msgid ""
@@ -1393,6 +1402,11 @@ msgid ""
 "mortal realm, and wounds close as if they had never existed. Their voice can "
 "whisper in the wind the words that chill the hearts of their ennemies."
 msgstr ""
+"Un tempo rispettati guerrieri ora vagano per i boschi dei sidhe, visibili "
+"solo per lo scintillio argenteo delle loro spade. Solo in parte appartengono "
+"al regno mortale e le ferite si chiudono come se non fossero mai esistite. "
+"La loro voce può sussurrare nel vento parole che fanno rabbrividire il cuore "
+"dei loro nemici."
 
 #: Imperial_Era/units/Sidhe_Forefather.cfg:5
 msgid "Forefather"
@@ -1404,6 +1418,9 @@ msgid ""
 "death chant, echoing through the trees, know that their silver maces are "
 "also near."
 msgstr ""
+"I più grandi guerrieri dei sidhe non sono affatto scomparsi. Quando si sente "
+"il loro canto di morte riecheggiare tra gli alberi, vuol dire che anche le "
+"loro mazze argentee sono vicine."
 
 #: Imperial_Era/units/Sidhe_Warrior_Spirit.cfg:5
 msgid "Warrior Spirit"
@@ -1415,6 +1432,9 @@ msgid ""
 "the forests of their former homes, seeking to perform the feats of arms they "
 "did in the past, and death is no obstacle..."
 msgstr ""
+"I grandi guerrieri sidhe del passato non sono del tutto scomparsi. Vagano "
+"nelle foreste delle loro case cercando di compiere le gesta d'armi che "
+"fecero in passato e la morte non è un ostacolo..."
 
 #: Imperial_Era/units/Wild_Elf_Bladespinner.cfg:5
 msgid "Bladespinner"
@@ -1440,6 +1460,10 @@ msgid ""
 "as closely as they like, and their dagger has been felt in the heart of many "
 "a supposedly well-guarded mage."
 msgstr ""
+"Le furie degli elfi selvaggi non maneggiano un'arma straordinariamente "
+"potente, ma sono comunque pericolosi. La loro agilità permette loro di "
+"passare vicino ai nemici quanto vogliono e il loro pugnale ha già colpito al "
+"cuore numerosi maghi che si pensava ben protetti."
 
 #: Imperial_Era/units/Wild_Elf_Herald.cfg:5
 msgid "Herald"
@@ -1450,7 +1474,7 @@ msgid ""
 "The Heralds are sidhe who go out onto the battlefield, singing the warrior "
 "chants that drive the others onwards."
 msgstr ""
-"Gli araldi sono i Sidhe che percorrono tutto il campo di battaglia intonando "
+"Gli araldi sono i sidhe che percorrono tutto il campo di battaglia intonando "
 "canzoni di guerra che trascinano in avanti gli altri."
 
 #: Imperial_Era/units/Wild_Elf_Raindancer.cfg:5
@@ -1496,6 +1520,10 @@ msgid ""
 "distrust them because of this, but they fear them even more. And if a sidhe "
 "fears someone..."
 msgstr ""
+"Il signore delle tempeste ha trascorso tutta la sua vita a studiare la "
+"magia. Per essa ha lasciato la pratica con le armi e la maggior parte delle "
+"attività fisiche. Molti elfi selvaggi li disprezzano per questo motivo, "
+"ancora di più li temono. E se i sidhe temono qualcuno..."
 
 #: Imperial_Era/units/Wild_Elf_Tempest.cfg:5
 msgid "Tempest"
@@ -1523,10 +1551,15 @@ msgid ""
 "be awarded a thunderblade, a special sword enchanted with a fragment of the "
 "sidhe lord's great weapon."
 msgstr ""
+"Quando il primo signore sidhe morì in battaglia, i frammenti della sua "
+"possente spada furono raccolti e conservati con cura dai maghi migliori. Se "
+"un sidhe si dimostra un grande guerrierio e ha la magia di nobili origini, "
+"potrebbe essere ricompensato con una spada del tuono, una speciale spada "
+"incantata con un frammento della grande arma del signore sidhe."
 
 #: Imperial_Era/units/Wild_Elf_Tracker.cfg:5
 msgid "Tracker"
-msgstr "Tracciatore"
+msgstr "Cacciatore"
 
 #: Imperial_Era/units/Wild_Elf_Tracker.cfg:25
 msgid ""
@@ -1537,6 +1570,13 @@ msgid ""
 "shrub, giving it a poisonout tinge, but they would consider it cowardly to "
 "do this for their javelins as well."
 msgstr ""
+"Gli elfi selvaggi cacciatori sono tra gli esploratori migliori che si "
+"conoscano, sono agili e versatili, esperti sia nel combattimento ravvicinato "
+"sia in quello a distanza quando impiegano lance corte.\n"
+"\n"
+"Note speciali: Rivestono la loro lancia principale con la linfa di un certo "
+"arbusto ottenendo una punta avvelenata, ma considererebbero una codardia "
+"fare altrettanto con i loro giavellotti."
 
 #: Imperial_Era/units/Wild_Elf_Veiledblade.cfg:5
 msgid "Veiledblade"
@@ -1548,6 +1588,9 @@ msgid ""
 "through the enemy's defense, and stealthily hit an unexpecting foe, often "
 "mortally so."
 msgstr ""
+"Non a tutti i sidhe piace lo scontro frontale. Queste oscure lame traditrici "
+"possono infiltrarsi tra le difese nemiche e colpire in maniera furtiva un "
+"avversario impreparato, spesso mortalmente."
 
 #: Imperial_Era/units/Wild_Elf_Wanderer.cfg:23
 msgid ""
@@ -1556,6 +1599,10 @@ msgid ""
 "with short spears that they use quite ... convincingly, though their real "
 "usefulness is for running ahead."
 msgstr ""
+"A volte tra i sidhe ci sono elfi più solitari che preferiscono la caccia e "
+"l'esplorazione al combattimento vero e proprio. Costoro, noti come "
+"vagabondi, prediligono con convinzione della lance corte la cui reale "
+"utilità tuttavia è nella corsa."
 
 #: Imperial_Era/units/Wild_Elf_Wardancer.cfg:5
 msgid "Wardancer"
@@ -1583,10 +1630,10 @@ msgid ""
 "sword in hand. Their prowess with the sword are easily those of a warrior "
 "and their magic is a welcome ally."
 msgstr ""
-"Pochi sidhe sono ingrado di stare lontano dal campo di battaglia a lungo. I "
-"maghi delal guerra sono la nobiltà degli elfi selvaggi che, anche se "
+"Pochi sidhe sono in grado di stare lontano dal campo di battaglia a lungo. I "
+"maghi della guerra sono la nobiltà degli elfi selvaggi che, anche se "
 "addestrati da maghi, impiegano la maggior parte del tempo con una spada in "
-"mano. La loro prodezza con la spada è quasi pari a quella di un guerrierio e "
+"mano. La loro prodezza con la spada è senza dubbio quella di un guerriero e "
 "la loro magia un apprezzato alleato."
 
 #: Imperial_Era/units/Wild_Elf_Warrior.cfg:19
@@ -1595,9 +1642,9 @@ msgid ""
 "fast, strong blows and avoiding them just as easily. Their only weakness is "
 "the frailty due to their distaste for armor."
 msgstr ""
-"Gli agili e potenti guerrieri sidhe sono spadaccini mortali, capaci di "
-"portare rapidi e potenti stoccate e evitarle altrttanto facilmente. L'unica "
-"loro debolezza è la fragilità a causa del loro disprezzo per l'armatura."
+"Gli agili e potenti guerrieri sidhe sono mortali armigeri, capaci di portare "
+"rapidi e potenti stoccate e evitarle altrettanto facilmente. L'unica loro "
+"debolezza è la fragilità a causa del loro disprezzo per l'armatura."
 
 #: Imperial_Era/units/Wild_Elf_Warsinger.cfg:5
 msgid "Warsinger"
@@ -1610,7 +1657,7 @@ msgid ""
 msgstr ""
 "Il bardo guerrierio è il maestro dei canti di combattimento. Egli stesso è "
 "un potente guerrierio che può trascinare i suoi compagni nella frenesia "
-"delal battaglia."
+"della battaglia."
 
 #: Imperial_Era/units/Wild_Elf_Whirlwind.cfg:5
 msgid "Whirlwind"
@@ -1670,163 +1717,10 @@ msgid ""
 "shrub, giving it a poisonout tinge, but they would consider it cowardly to "
 "do this for their javelins as well."
 msgstr ""
-"I corridori del vento sono igli esploratori più abili tra i sidhe. La loro "
+"I corridori del vento sono gli esploratori più abili tra i sidhe. La loro "
 "velocità è incredibile e la loro prodezza con la loro lancia, sia lanciata "
 "sia nel corpo a corpo, è stupefacente.\n"
 "\n"
 "Note speciali: Rivestono la loro lancia principale con la linfa di un certo "
 "arbusto ottenendo una punta avvelenata, ma considererebbero una codardia "
 "fare altrettanto con i loro giavellotti."
-
-#~ msgid "sword"
-#~ msgstr "spada"
-
-#~ msgid "blade"
-#~ msgstr "lama"
-
-#~ msgid "bow"
-#~ msgstr "arco"
-
-#~ msgid "pierce"
-#~ msgstr "perfora"
-
-#~ msgid "flail"
-#~ msgstr "flagello"
-
-#~ msgid "impact"
-#~ msgstr "impatto"
-
-#~ msgid "Staff"
-#~ msgstr "Bastone"
-
-#~ msgid "fireball"
-#~ msgstr "palla di fuoco"
-
-#~ msgid "fire"
-#~ msgstr "fuoco"
-
-#~ msgid "throwing knives"
-#~ msgstr "coltelli da lancio"
-
-#~ msgid "fire arrow"
-#~ msgstr "freccia incendiaria"
-
-#~ msgid "staff"
-#~ msgstr "bastone"
-
-#~ msgid "fire ball"
-#~ msgstr "palla di fuoco"
-
-#~ msgid "mace"
-#~ msgstr "mazza"
-
-#~ msgid "dagger"
-#~ msgstr "pugnale"
-
-#~ msgid "dragonstaff"
-#~ msgstr "bastone del drago"
-
-#~ msgid "claws"
-#~ msgstr "artigli"
-
-#~ msgid "axe"
-#~ msgstr "ascia"
-
-#~ msgid "hammer"
-#~ msgstr "martello"
-
-#~ msgid "spear"
-#~ msgstr "lancia"
-
-#~ msgid "javelin"
-#~ msgstr "giavellotto"
-
-#~ msgid "battle axe"
-#~ msgstr "ascia da battaglia"
-
-#~ msgid "hatchet"
-#~ msgstr "accetta"
-
-#~ msgid "runic hammer"
-#~ msgstr "martello runico"
-
-#~ msgid "Lightning bolt"
-#~ msgstr "Fulmine"
-
-#~ msgid "thunderstick"
-#~ msgstr "bastone tonante"
-
-#~ msgid "bite"
-#~ msgstr "morso"
-
-#~ msgid "ice pick"
-#~ msgstr "picozza da ghiaccio"
-
-#~ msgid "glaive"
-#~ msgstr "alabarda"
-
-#~ msgid "wind"
-#~ msgstr "vento"
-
-#~ msgid "wand"
-#~ msgstr "bacchetta"
-
-#~ msgid "cold"
-#~ msgstr "freddo"
-
-#~ msgid "harpoon"
-#~ msgstr "arpione"
-
-#~ msgid "gladius"
-#~ msgstr "gladio"
-
-#~ msgid "ballista"
-#~ msgstr "balista"
-
-#~ msgid "pilum"
-#~ msgstr "pilum"
-
-#~ msgid "sling"
-#~ msgstr "fionda"
-
-#~ msgid "shield"
-#~ msgstr "scudo"
-
-#~ msgid "maul"
-#~ msgstr "maglio"
-
-#~ msgid "fist"
-#~ msgstr "pugno"
-
-#~ msgid "cold blast"
-#~ msgstr "soffio gelido"
-
-#~ msgid "battleaxe"
-#~ msgstr "ascia da battaglia"
-
-#~ msgid "torch"
-#~ msgstr "torcia"
-
-#~ msgid "net"
-#~ msgstr "rete"
-
-#~ msgid "scimitar"
-#~ msgstr "scimitarra"
-
-#~ msgid "ancient mace"
-#~ msgstr "mazza ancestrale"
-
-#~ msgid "requiem"
-#~ msgstr "requiem"
-
-#~ msgid "lightning"
-#~ msgstr "fulmine"
-
-#~ msgid "energy"
-#~ msgstr "energia"
-
-#~ msgid "lightning staff"
-#~ msgstr "bastone del lampo"
-
-#~ msgid "thunderblade"
-#~ msgstr "spada del tuono"
