@@ -1,74 +1,82 @@
+#
+# Catalan translations for Battle for Wesnoth package.
+# Copyright (C) 2007 Wesnoth development team
+# This file is distributed under the same license as the Battle for
+# Wesnoth package.
+#
+# Jose Gordillo <kilder@hotmail.com>, 2008.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: wescamp-i18n-ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-02-17 00:55+0100\n"
-"PO-Revision-Date: 2007-02-17 00:54+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2007-12-07 00:03+0100\n"
+"PO-Revision-Date: 2008-02-04 19:38+0100\n"
+"Last-Translator: Jose Gordillo <kilder@hotmail.com>\n"
+"Language-Team: Catalan <wesnoth-ca@ettin.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: Imperial_Era/Imperial_Era.cfg:6
 msgid "Imperial"
-msgstr ""
+msgstr "Era dels imperis"
 
 #: Imperial_Era/Imperial_Era.cfg:17
 msgid "Imperial (unbalanced)"
-msgstr ""
+msgstr "Era dels imperis(descompensada)"
 
 #: Imperial_Era/Imperial_Era.cfg:32
 msgid "Imperial Champions"
-msgstr ""
+msgstr "Era dels imperis- Campions"
 
 #: Imperial_Era/Imperial_Era.cfg:43
 msgid "Imperial Champions (unbalanced)"
-msgstr ""
+msgstr "Era dels imperis- Campions (descompensada)"
 
 #: Imperial_Era/factions/imper-airiya.cfg:5
 #: Imperial_Era/factions/imper_champs-airiya.cfg:5
 msgid "Airiya"
-msgstr ""
+msgstr "Airiya"
 
 #: Imperial_Era/factions/imper_champs-arendians.cfg:5
 #: Imperial_Era/factions/imper-arendians.cfg:5
 msgid "Arendians"
-msgstr ""
+msgstr "Arendians"
 
 #: Imperial_Era/factions/imper_champs-cavernei.cfg:5
 #: Imperial_Era/factions/imper-cavernei.cfg:5
 msgid "Cavernei"
-msgstr ""
+msgstr "Cavernei"
 
 #: Imperial_Era/factions/imper-frost_elves.cfg:5
 #: Imperial_Era/factions/imper_champs-frost_elves.cfg:5
 msgid "Frost Elves"
-msgstr ""
+msgstr "Elfs del gel"
 
 #: Imperial_Era/factions/imper-gentes_orcorum.cfg:5
 #: Imperial_Era/factions/imper_champs-gentes_orcorum.cfg:5
 msgid "Gentes Orcorum"
-msgstr ""
+msgstr "Gentes Orcorum"
 
 #: Imperial_Era/factions/imper-lavinian_legion.cfg:5
 #: Imperial_Era/factions/imper_champs-lavinian_legion.cfg:5
 msgid "Lavinian Legion"
-msgstr ""
+msgstr "Legió lavinia"
 
 #: Imperial_Era/factions/imper_champs-marauders.cfg:5
 #: Imperial_Era/factions/imper-marauders.cfg:5
 msgid "Marauders"
-msgstr ""
+msgstr "Vàndals"
 
 #: Imperial_Era/factions/imper-sidhe.cfg:5
 #: Imperial_Era/factions/imper_champs-sidhe.cfg:5
 msgid "Wild Elves"
-msgstr ""
+msgstr "Elfs salvatges"
 
 #: Imperial_Era/scenarios/multiplayer/4p_The_Haunted_Forest.cfg:5
 msgid "4p - The Haunted Forest"
-msgstr ""
+msgstr "4j - El bosc encantat"
 
 #: Imperial_Era/scenarios/multiplayer/4p_The_Haunted_Forest.cfg:6
 msgid ""
@@ -78,11 +86,15 @@ msgid ""
 "graves, but they will gain nothing without a fight. Recommended setting of 2 "
 "gold per village."
 msgstr ""
+"Les profunditats del boscos dels sidhe són famosos pels fantasmes d'antics "
+"guerrers ja morts que habiten allí entre els talaiots. Els caçadors de "
+"fantasmes intenten molt a sovint saquejar les seues tombes, però no es "
+"portaran res sense lluitar. Recomanem 2 monedes d'or per llogaret."
 
 #: Imperial_Era/units/Arendian_Archer.cfg:5
 #: Imperial_Era/units/Frost_Elf_Archer.cfg:5
 msgid "Archer"
-msgstr ""
+msgstr "Arquer"
 
 #: Imperial_Era/units/Arendian_Archer.cfg:19
 msgid ""
@@ -96,246 +108,19 @@ msgid ""
 " But in the end all of this is worth it, for any archers who do get accepted "
 "as regulars are treated well with good pay and food."
 msgstr ""
-
-#: Imperial_Era/units/Arendian_Swordsman.cfg:22
-#: Imperial_Era/units/Wild_Elf_Raindancer.cfg:22
-#: Imperial_Era/units/Wild_Elf_Herald.cfg:26
-#: Imperial_Era/units/Wild_Elf_Veiledblade.cfg:22
-#: Imperial_Era/units/Wild_Elf_Warmage.cfg:23
-#: Imperial_Era/units/Arendian_Archer.cfg:23
-#: Imperial_Era/units/Wild_Elf_Whirlwind.cfg:27
-#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:43
-#: Imperial_Era/units/Wild_Elf_Shadowdancer.cfg:23
-#: Imperial_Era/units/Arendian_Hero.cfg:27
-#: Imperial_Era/units/Marauder_Pillager.cfg:21
-#: Imperial_Era/units/Arendian_Bowknight.cfg:22
-#: Imperial_Era/units/Frost_Elf_Ice_Dancer.cfg:32
-#: Imperial_Era/units/Wild_Elf_Wildblade.cfg:26
-#: Imperial_Era/units/Arendian_Bowmaster.cfg:23
-#: Imperial_Era/units/Marauder_Lord.cfg:25
-#: Imperial_Era/units/Marauder_Warrior.cfg:38
-#: Imperial_Era/units/Frost_Elf_Borealis.cfg:40
-#: Imperial_Era/units/Arendian_Chief.cfg:24
-#: Imperial_Era/units/Arendian_Mounted-Marksman.cfg:30
-#: Imperial_Era/units/Wild_Elf_Warrior.cfg:23
-#: Imperial_Era/units/Frost_Elf_Ice_Roamer.cfg:31
-#: Imperial_Era/units/Arendian_Feather_Bow.cfg:29
-#: Imperial_Era/units/Arendian_Boltrider.cfg:21
-#: Imperial_Era/units/Arendian_Horse_Master.cfg:23
-#: Imperial_Era/units/Arendian_Slayer.cfg:24
-#: Imperial_Era/units/Wild_Elf_Warsinger.cfg:27
-#: Imperial_Era/units/Frost_Elf_Archer.cfg:39
-#: Imperial_Era/units/Arendian_Mounted_Warrior.cfg:22
-#: Imperial_Era/units/Wild_Elf_Tempest.cfg:22
-#: Imperial_Era/units/Arendian_Warlord.cfg:25
-#: Imperial_Era/units/Wild_Elf_Wardancer.cfg:24
-#: Imperial_Era/units/Frost_Elf_Bladesman.cfg:29
-#: Imperial_Era/units/Arendian_Arrow_Wind.cfg:23
-#: Imperial_Era/units/Arendian_Wanderer.cfg:26
-#: Imperial_Era/units/Frost_Elf_Gelus.cfg:39
-#: Imperial_Era/units/Wild_Elf_Fury.cfg:26
-#: Imperial_Era/units/Wild_Elf_Windlasher.cfg:22
-#: Imperial_Era/units/Marauder_Scorcher.cfg:22
-#: Imperial_Era/units/Arendian_Horseman.cfg:22
-#: Imperial_Era/units/Wild_Elf_Bladespinner.cfg:23
-#: Imperial_Era/units/Arendian_Bowrider.cfg:22
-#: Imperial_Era/units/Arendian_Hunter.cfg:23
-msgid "sword"
-msgstr ""
-
-#: Imperial_Era/units/Lavinian_Signifer.cfg:33
-#: Imperial_Era/units/Arendian_Swordsman.cfg:23
-#: Imperial_Era/units/Lavinian_Archuballistarius.cfg:33
-#: Imperial_Era/units/Lavinian_Decurion.cfg:33
-#: Imperial_Era/units/Cavernei_Dragonguard.cfg:26
-#: Imperial_Era/units/Lavinian_Funditor.cfg:30
-#: Imperial_Era/units/Wild_Elf_Raindancer.cfg:23
-#: Imperial_Era/units/Wild_Elf_Herald.cfg:27
-#: Imperial_Era/units/Wild_Elf_Veiledblade.cfg:23
-#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:34
-#: Imperial_Era/units/Wild_Elf_Warmage.cfg:24
-#: Imperial_Era/units/Frost_Elf_Mistral_Glacialist.cfg:32
-#: Imperial_Era/units/Seal.cfg:30 Imperial_Era/units/Arendian_Archer.cfg:24
-#: Imperial_Era/units/Wild_Elf_Whirlwind.cfg:28
-#: Imperial_Era/units/Marauder_Boatsman.cfg:22
-#: Imperial_Era/units/Nemidian_Champion.cfg:55
-#: Imperial_Era/units/Fleet_Seal.cfg:30
-#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:44
-#: Imperial_Era/units/Wild_Elf_Shadowdancer.cfg:24
-#: Imperial_Era/units/Arendian_Hero.cfg:28
-#: Imperial_Era/units/Marauder_Pillager.cfg:22
-#: Imperial_Era/units/Lavinian_Centurion.cfg:34
-#: Imperial_Era/units/Marauder_Sailor.cfg:23
-#: Imperial_Era/units/Arendian_Bowknight.cfg:23
-#: Imperial_Era/units/Lavinian_Slinger.cfg:29
-#: Imperial_Era/units/Frost_Elf_Ice_Dancer.cfg:33
-#: Imperial_Era/units/Wild_Elf_Wildblade.cfg:27
-#: Imperial_Era/units/Cavernei_Eagle_Master.cfg:29
-#: Imperial_Era/units/Arendian_Bowmaster.cfg:24
-#: Imperial_Era/units/Marauder_Woodsman.cfg:23
-#: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:24
-#: Imperial_Era/units/Marauder_Lord.cfg:26
-#: Imperial_Era/units/Marauder_Warrior.cfg:39
-#: Imperial_Era/units/Lavinian_Legionnaire.cfg:30
-#: Imperial_Era/units/Marauder_Mounted_Axeman.cfg:22
-#: Imperial_Era/units/Marauder_Mounted_Axeman.cfg:37
-#: Imperial_Era/units/Frost_Elf_Borealis.cfg:41
-#: Imperial_Era/units/Cavernei_Thunderguard.cfg:26
-#: Imperial_Era/units/Arendian_Chief.cfg:25
-#: Imperial_Era/units/Cavernei_Thunderer.cfg:42
-#: Imperial_Era/units/Marauder_Axeman.cfg:39
-#: Imperial_Era/units/Arendian_Mounted-Marksman.cfg:31
-#: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:31
-#: Imperial_Era/units/Wild_Elf_Warrior.cfg:24
-#: Imperial_Era/units/Cavernei_Steelclad.cfg:30
-#: Imperial_Era/units/Frost_Elf_Ice_Roamer.cfg:32
-#: Imperial_Era/units/Lavinian_Aquilifer.cfg:34
-#: Imperial_Era/units/Arendian_Feather_Bow.cfg:30
-#: Imperial_Era/units/Arendian_Boltrider.cfg:22
-#: Imperial_Era/units/Arendian_Horse_Master.cfg:24
-#: Imperial_Era/units/Arendian_Slayer.cfg:25
-#: Imperial_Era/units/Lavinian_Propugnator.cfg:33
-#: Imperial_Era/units/Wild_Elf_Warsinger.cfg:28
-#: Imperial_Era/units/Frost_Elf_Archer.cfg:40
-#: Imperial_Era/units/Marauder_Sea_Wolf.cfg:24
-#: Imperial_Era/units/Arendian_Mounted_Warrior.cfg:23
-#: Imperial_Era/units/Cavernei_Eagle_Rider.cfg:29
-#: Imperial_Era/units/Wild_Elf_Tempest.cfg:23
-#: Imperial_Era/units/Arendian_Warlord.cfg:26
-#: Imperial_Era/units/Lavinian_Auxiliary.cfg:30
-#: Imperial_Era/units/Wild_Elf_Wardancer.cfg:25
-#: Imperial_Era/units/Frost_Elf_Bladesman.cfg:30
-#: Imperial_Era/units/Arendian_Arrow_Wind.cfg:24
-#: Imperial_Era/units/Arendian_Wanderer.cfg:27
-#: Imperial_Era/units/Frost_Elf_Mistral_Cryomancer.cfg:33
-#: Imperial_Era/units/Frost_Elf_Gelus.cfg:40
-#: Imperial_Era/units/Wild_Elf_Fury.cfg:27
-#: Imperial_Era/units/Wild_Elf_Windlasher.cfg:23
-#: Imperial_Era/units/Cavernei_Fighter.cfg:28
-#: Imperial_Era/units/Marauder_Raider.cfg:23
-#: Imperial_Era/units/Marauder_Scorcher.cfg:23
-#: Imperial_Era/units/Arendian_Horseman.cfg:23
-#: Imperial_Era/units/Wild_Elf_Bladespinner.cfg:24
-#: Imperial_Era/units/Nemidian_Claimant.cfg:54
-#: Imperial_Era/units/Lavinian_Rorarius.cfg:30
-#: Imperial_Era/units/Elder_Seal.cfg:31
-#: Imperial_Era/units/Frost_Elf_Glaivier.cfg:30
-#: Imperial_Era/units/Lavinian_Ballista.cfg:30
-#: Imperial_Era/units/Arendian_Bowrider.cfg:23
-#: Imperial_Era/units/Marauder_Scout.cfg:22
-#: Imperial_Era/units/Cavernei_Lord.cfg:30
-#: Imperial_Era/units/Cavernei_Lord.cfg:107
-#: Imperial_Era/units/Lavinian_Light_Infantry.cfg:29
-#: Imperial_Era/units/Marauder_Hunter.cfg:22
-#: Imperial_Era/units/Arendian_Hunter.cfg:24
-msgid "blade"
-msgstr ""
-
-#: Imperial_Era/units/Lavinian_Siege_Archer.cfg:32
-#: Imperial_Era/units/Lavinian_Siege_Archer.cfg:72
-#: Imperial_Era/units/Lavinian_Bowman.cfg:36
-#: Imperial_Era/units/Lavinian_Bowman.cfg:73
-#: Imperial_Era/units/Lavinian_Saggitarius.cfg:32
-#: Imperial_Era/units/Lavinian_Saggitarius.cfg:75
-#: Imperial_Era/units/Arendian_Archer.cfg:38
-#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:100
-#: Imperial_Era/units/Arendian_Bowknight.cfg:37
-#: Imperial_Era/units/Arendian_Bowmaster.cfg:38
-#: Imperial_Era/units/Marauder_Woodsman.cfg:48
-#: Imperial_Era/units/Frost_Elf_Borealis.cfg:59
-#: Imperial_Era/units/Marauder_Axeman.cfg:64
-#: Imperial_Era/units/Arendian_Mounted-Marksman.cfg:45
-#: Imperial_Era/units/Arendian_Feather_Bow.cfg:44
-#: Imperial_Era/units/Arendian_Boltrider.cfg:36
-#: Imperial_Era/units/Arendian_Slayer.cfg:39
-#: Imperial_Era/units/Frost_Elf_Archer.cfg:58
-#: Imperial_Era/units/Arendian_Arrow_Wind.cfg:38
-#: Imperial_Era/units/Frost_Elf_Gelus.cfg:58
-#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:80
-#: Imperial_Era/units/Arendian_Bowrider.cfg:37
-#: Imperial_Era/units/Marauder_Hunter.cfg:47
-#: Imperial_Era/units/Arendian_Hunter.cfg:38
-msgid "bow"
-msgstr ""
-
-#: Imperial_Era/units/Lavinian_Archuballistarius.cfg:79
-#: Imperial_Era/units/Lavinian_Decurion.cfg:59
-#: Imperial_Era/units/Lavinian_Decurion.cfg:88
-#: Imperial_Era/units/Cavernei_Dragonguard.cfg:64
-#: Imperial_Era/units/Lavinian_Siege_Archer.cfg:33
-#: Imperial_Era/units/Lavinian_Bowman.cfg:37
-#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:93
-#: Imperial_Era/units/Cavernei_Stalwart.cfg:37
-#: Imperial_Era/units/Cavernei_Stalwart.cfg:86
-#: Imperial_Era/units/Lavinian_Saggitarius.cfg:33
-#: Imperial_Era/units/Arendian_Archer.cfg:39
-#: Imperial_Era/units/Nemidian_Champion.cfg:38
-#: Imperial_Era/units/Nemidian_Champion.cfg:69
-#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:63
-#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:101
-#: Imperial_Era/units/Arendian_Hero.cfg:43
-#: Imperial_Era/units/Lavinian_Centurion.cfg:60
-#: Imperial_Era/units/Lavinian_Centurion.cfg:89
-#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:65
-#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:88
-#: Imperial_Era/units/Arendian_Bowknight.cfg:38
-#: Imperial_Era/units/Cavernei_Sentinel.cfg:42
-#: Imperial_Era/units/Cavernei_Sentinel.cfg:91
-#: Imperial_Era/units/Arendian_Bowmaster.cfg:39
-#: Imperial_Era/units/Marauder_Woodsman.cfg:49
-#: Imperial_Era/units/Cavernei_Guardsman.cfg:34
-#: Imperial_Era/units/Cavernei_Guardsman.cfg:83
-#: Imperial_Era/units/Lavinian_Legionnaire.cfg:143
-#: Imperial_Era/units/Frost_Elf_Borealis.cfg:60
-#: Imperial_Era/units/Cavernei_Thunderguard.cfg:74
-#: Imperial_Era/units/Cavernei_Thunderer.cfg:90
-#: Imperial_Era/units/Marauder_Axeman.cfg:65
-#: Imperial_Era/units/Lavinian_Velite.cfg:33
-#: Imperial_Era/units/Lavinian_Velite.cfg:78
-#: Imperial_Era/units/Arendian_Mounted-Marksman.cfg:46
-#: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:53
-#: Imperial_Era/units/Nemidian_Horseman.cfg:37
-#: Imperial_Era/units/Nemidian_Horseman.cfg:54
-#: Imperial_Era/units/Arendian_Feather_Bow.cfg:45
-#: Imperial_Era/units/Wild_Elf_Wanderer.cfg:31
-#: Imperial_Era/units/Wild_Elf_Wanderer.cfg:46
-#: Imperial_Era/units/Arendian_Boltrider.cfg:37
-#: Imperial_Era/units/Wild_Elf_Windrunner.cfg:34
-#: Imperial_Era/units/Wild_Elf_Windrunner.cfg:45
-#: Imperial_Era/units/Arendian_Slayer.cfg:40
-#: Imperial_Era/units/Marauder_Valkyrie.cfg:25
-#: Imperial_Era/units/Lavinian_Propugnator.cfg:92
-#: Imperial_Era/units/Frost_Elf_Archer.cfg:59
-#: Imperial_Era/units/Frost_Elf_Bladesman.cfg:49
-#: Imperial_Era/units/Arendian_Arrow_Wind.cfg:39
-#: Imperial_Era/units/Arendian_Wanderer.cfg:42
-#: Imperial_Era/units/Frost_Elf_Gelus.cfg:59
-#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:43
-#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:81
-#: Imperial_Era/units/Lavinian_Skirmisher.cfg:39
-#: Imperial_Era/units/Lavinian_Skirmisher.cfg:136
-#: Imperial_Era/units/Nemidian_Hippopotamus.cfg:38
-#: Imperial_Era/units/Nemidian_River_Horse.cfg:37
-#: Imperial_Era/units/Nemidian_Claimant.cfg:37
-#: Imperial_Era/units/Nemidian_Claimant.cfg:68
-#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:64
-#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:87
-#: Imperial_Era/units/Frost_Elf_Glaivier.cfg:52
-#: Imperial_Era/units/Lavinian_Ballista.cfg:76
-#: Imperial_Era/units/Arendian_Bowrider.cfg:38
-#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:64
-#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:87
-#: Imperial_Era/units/Wild_Elf_Tracker.cfg:33
-#: Imperial_Era/units/Wild_Elf_Tracker.cfg:44
-#: Imperial_Era/units/Marauder_Shieldmaiden.cfg:24
-#: Imperial_Era/units/Marauder_Hunter.cfg:48
-#: Imperial_Era/units/Arendian_Hunter.cfg:39
-msgid "pierce"
-msgstr ""
+"Qualsevol clan arendià només manté els millors arquers en temps de pau, i "
+"entrenar de nous no mai és una prioritat. Açò significa que els arquers que "
+"s'unisquen l'exèrcit del clan en temps de necessitat solen ser caçadors dels "
+"mateixos clans o de les ciutats, ja familiaritzats amb les seues armes. "
+"Tenen poca o ninguna protecció y l'arc que gasten a la seua vida comú, "
+"habitualment un arc de caça fet a mà o una herència familiar. També s'espera "
+"que cacen el seu propi menjar i que proporcionen les fletxes.\n"
+" Al cap i a la fi, tot açò val la pena, perquè aquells arquers que són "
+"acceptats com a tropes regulares reben un bon tracte amb bona paga i menjar."
 
 #: Imperial_Era/units/Arendian_Arrow_Wind.cfg:5
 msgid "Arrow Wind"
-msgstr ""
+msgstr "Fletxer del vent"
 
 #: Imperial_Era/units/Arendian_Arrow_Wind.cfg:19
 msgid ""
@@ -350,10 +135,21 @@ msgid ""
 "has hit the target, the sound of so many arrows in flight is likened to a "
 "rushing wind of death over the battlefield."
 msgstr ""
+"Els fletxers del vent són els millors arquers d'Arèndia, capaços de "
+"col·locar-se les fletxes i disparar-les extremadament ràpides i encertades. "
+"El seu nom té origen en una vella rondalla en la qual l'arquer més hàbil de "
+"tot Arèndia va ser desafiat a demostrar la seua capacitat disparant "
+"repetides vegades fletxes al voltant de la seua dona, dibuixant la seua "
+"silueta, sense matar-la. Quan li van preguntar a la dona què va sentir, va "
+"comparar-lo amb una tendra brisa, i és per açò pel que reben aquest nom. En "
+"temps actuals, aquest apel·latiu ha acabat referint-se al soroll de llurs "
+"fletxes, ja que, sent capaços de disparar tres fletxes abans que la primera "
+"impacte el seu objectiu, el soroll de tantes fletxes volant s'equipara al "
+"fort vent de la mort sobre el camp de batalla."
 
 #: Imperial_Era/units/Arendian_Battlear.cfg:5
 msgid "Battlear"
-msgstr ""
+msgstr "Batallador"
 
 #: Imperial_Era/units/Arendian_Battlear.cfg:19
 msgid ""
@@ -363,53 +159,15 @@ msgid ""
 "armour, because their flails are so clumsy, and they are so stong by now "
 "anyway, that the reduced mobility and extra weight doesn't matter."
 msgstr ""
-
-#: Imperial_Era/units/Arendian_Battlear.cfg:23
-msgid "flail"
-msgstr ""
-
-#: Imperial_Era/units/Lavinian_Funditor.cfg:56
-#: Imperial_Era/units/Marauder_Crusher.cfg:46
-#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:60
-#: Imperial_Era/units/Frost_Elf_Mistral_Magus.cfg:56
-#: Imperial_Era/units/Frost_Elf_Mistral_Glacialist.cfg:59
-#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:82
-#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:39
-#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Castellan.cfg:60
-#: Imperial_Era/units/Lavinian_Slinger.cfg:55
-#: Imperial_Era/units/Lavinian_Legionnaire.cfg:86
-#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Keeper.cfg:59
-#: Imperial_Era/units/Marauder_Seeress.cfg:24
-#: Imperial_Era/units/Arendian_Warrior.cfg:23
-#: Imperial_Era/units/Arendian_Warlock.cfg:26
-#: Imperial_Era/units/Arendian_Shaman.cfg:25
-#: Imperial_Era/units/Marauder_Fay.cfg:24
-#: Imperial_Era/units/Cavernei_Steelclad.cfg:68
-#: Imperial_Era/units/Cavernei_Runemaster.cfg:24
-#: Imperial_Era/units/Lavinian_Propugnator.cfg:59
-#: Imperial_Era/units/Sidhe_Ancestor.cfg:28
-#: Imperial_Era/units/Frost_Elf_Mistral_Cryomancer.cfg:60
-#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:62
-#: Imperial_Era/units/Cavernei_Fighter.cfg:66
-#: Imperial_Era/units/Marauder_Raider.cfg:38
-#: Imperial_Era/units/Nemidian_Hippopotamus.cfg:24
-#: Imperial_Era/units/Nemidian_River_Horse.cfg:23
-#: Imperial_Era/units/Arendian_Battlear.cfg:24
-#: Imperial_Era/units/Marauder_Mauler.cfg:23
-#: Imperial_Era/units/Sidhe_Forefather.cfg:29
-#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:38
-#: Imperial_Era/units/Marauder_Galdra.cfg:25
-#: Imperial_Era/units/Arendian_Druid.cfg:25
-#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:38
-#: Imperial_Era/units/Nemidian_River_Calf.cfg:23
-#: Imperial_Era/units/Cavernei_Lord.cfg:69
-#: Imperial_Era/units/Sidhe_Warrior_Spirit.cfg:25
-msgid "impact"
-msgstr ""
+"Un flagel és un arma molt més efectiva que una maça; no obstant això, també "
+"és més pesat, més incòmode i més difícil d'emprar, de tal manera que només "
+"els lluitadors més experimentats els gasten. Aquestos lluitadors són els "
+"únics en rebre armadura, ja que els seus flagels ja són tan pesats, i són "
+"tan forts, que un poc més de pes i una reduïda mobilitat no importa."
 
 #: Imperial_Era/units/Arendian_Boltrider.cfg:5
 msgid "Boltrider"
-msgstr ""
+msgstr "Genet fletxa"
 
 #: Imperial_Era/units/Fleet_Seal.cfg:26
 #: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:40
@@ -434,11 +192,11 @@ msgstr ""
 #: Imperial_Era/units/Arendian_Druid.cfg:20
 #: Imperial_Era/units/Nemidian_River_Calf.cfg:18
 msgid " "
-msgstr ""
+msgstr " "
 
 #: Imperial_Era/units/Arendian_Bowknight.cfg:5
 msgid "Bowknight"
-msgstr ""
+msgstr "Cavaller arquer"
 
 #: Imperial_Era/units/Arendian_Bowknight.cfg:18
 msgid ""
@@ -447,10 +205,14 @@ msgid ""
 "in these areas, and so the experienced bowriders, because they are most used "
 "to hunting down bandits, are placed in charge of law an order in the area."
 msgstr ""
+"Els cavallers arquers són senyor menors a l'est d'Arèndia, on hi ha grans "
+"planícies desolades. Açò ha comportat greus problemes amb els bandits, i "
+"aleshores, els arquers a cavall, els més usats alhora d'acaçar els bandits "
+"reben l'encàrrec de custodiar la llei d'aquella àrea."
 
 #: Imperial_Era/units/Arendian_Bowmaster.cfg:5
 msgid "Bowmaster"
-msgstr ""
+msgstr "Mestre arquer"
 
 #: Imperial_Era/units/Arendian_Bowmaster.cfg:19
 msgid ""
@@ -462,10 +224,18 @@ msgid ""
 "the bandits often joined with them and carried out systematic raids on any "
 "rich settlments."
 msgstr ""
+"Els mestres arquers són els senyors d'Arèndia oriental i, a la seua ordre, "
+"responen tots els cavallers arquers, i a la d'aquestos, tots els arquers a "
+"cavall. Açò vol dir que un mestre arquer pot tindre, en qualsevol moment, "
+"milers d'hòmens a la seua disposició, fet que la corona sempre ha tingut en "
+"compte des de'l gran alçament Quan els mestres arquers van alçar-se perquè "
+"els impostos eren intolerablement alts, hòmens abans encarregats de "
+"perseguir els bandits sovint es van unir a ells i van portar a terme ràtzies "
+"sistemàtiques sobre qualsevol assentament ric."
 
 #: Imperial_Era/units/Arendian_Bowrider.cfg:5
 msgid "Bowrider"
-msgstr ""
+msgstr "Arquer a cavall"
 
 #: Imperial_Era/units/Arendian_Bowrider.cfg:18
 msgid ""
@@ -476,40 +246,24 @@ msgid ""
 "army, using hit and run tactics to weaken the enemy and constantly harry "
 "their flanks."
 msgstr ""
+"Els arquers a cavall provenen d'Arèndia oriental, on són caçadors, ja que un "
+"cavall és l'única cosa que pot mantindre el ritme de les presses en la "
+"sabana que cobreix l'àrea. Açò implica que ja tenen molta pràctica en "
+"disparar l'arc a cavall, i formen una part inestimable de l'exèrcit arendià, "
+"usant flexibles tàctiques que debiliten l'enemic i constantment amenacen els "
+"seus flancs."
 
 #: Imperial_Era/units/Arendian_Chief.cfg:5
 msgid "Chief"
-msgstr ""
+msgstr "Cap"
 
 #: Imperial_Era/units/Arendian_Druid.cfg:5
 msgid "Druid"
-msgstr ""
-
-#: Imperial_Era/units/Arendian_Druid.cfg:24
-msgid "Staff"
-msgstr ""
-
-#: Imperial_Era/units/Arendian_Druid.cfg:39
-msgid "fireball"
-msgstr ""
-
-#: Imperial_Era/units/Lavinian_Siege_Archer.cfg:73
-#: Imperial_Era/units/Lavinian_Bowman.cfg:74
-#: Imperial_Era/units/Lavinian_Saggitarius.cfg:76
-#: Imperial_Era/units/Marauder_Pillager.cfg:37
-#: Imperial_Era/units/Arendian_Warlock.cfg:40
-#: Imperial_Era/units/Arendian_Shaman.cfg:39
-#: Imperial_Era/units/Arendian_Slayer.cfg:54
-#: Imperial_Era/units/Cavernei_Runemaster.cfg:65
-#: Imperial_Era/units/Marauder_Scorcher.cfg:38
-#: Imperial_Era/units/Arendian_Druid.cfg:40
-#: Imperial_Era/units/Arendian_Hunter.cfg:54
-msgid "fire"
-msgstr ""
+msgstr "Druida"
 
 #: Imperial_Era/units/Arendian_Feather_Bow.cfg:5
 msgid "Feather Bow"
-msgstr ""
+msgstr "Arc de plomes"
 
 #: Imperial_Era/units/Arendian_Feather_Bow.cfg:25
 msgid ""
@@ -521,10 +275,17 @@ msgid ""
 "falling... until the arrow strikes home. Different clans use feathers "
 "colored with different dyes."
 msgstr ""
+"Els arcs de plomes són el resultat d'un rigorós procés de selecció del qual "
+"només ixen elegits els millors, i han guanyat el seu nom per el conjunt de "
+"plomes que tenen nugades als extrems de la corda del seu arc, una combinació "
+"d'insígnia de rang i una mena de silenciador per a l'arc. Es diu que quan "
+"disparen, el soroll es paregut al d'una ploma caient... fins que la fletxa "
+"arriba a l'objectiu. Cada clan empra unes plomes tenyides amb diferents "
+"colors."
 
 #: Imperial_Era/units/Arendian_Hero.cfg:5
 msgid "Hero"
-msgstr ""
+msgstr "Heroi"
 
 #: Imperial_Era/units/Arendian_Hero.cfg:23
 msgid ""
@@ -537,25 +298,29 @@ msgid ""
 "bladed swords. These fast agile weapons are the most deadly and sharp in all "
 "of arenida, forged by royal smiths in the forges of the capital."
 msgstr ""
-
-#: Imperial_Era/units/Arendian_Hero.cfg:42
-#: Imperial_Era/units/Arendian_Wanderer.cfg:41
-msgid "throwing knives"
-msgstr ""
+"Una vegada un caminant ha reivindicat el seu honor, generalment ha fet tant "
+"pel bé d'Arèndia que són considerats herois fins i tot pels que els van "
+"menysprear abans. Aquestos hòmens han combatut en més d'una batalla, i "
+"habitualment algun clan de la zona aprofita aquesta experiència, o bé "
+"arriben a ser guardaespatlles de la família reial.\n"
+"Els herois són considerats les úniques persones prou hàbils i experimentades "
+"com per a poder empunyar unes espases amb doble fulla. Aquestes àgils armes "
+"són les més afilades i mortíferes d'Arèndia, forjades només pels ferrers "
+"reials a les forges de la capital."
 
 #: Imperial_Era/units/Arendian_Horse_Master.cfg:5
 msgid "Horse Master"
-msgstr ""
+msgstr "Mestre genet"
 
 #: Imperial_Era/units/Nemidian_Horseman.cfg:5
 #: Imperial_Era/units/Arendian_Horseman.cfg:5
 msgid "Horseman"
-msgstr ""
+msgstr "Genet"
 
 #: Imperial_Era/units/Marauder_Hunter.cfg:5
 #: Imperial_Era/units/Arendian_Hunter.cfg:5
 msgid "Hunter"
-msgstr ""
+msgstr "Caçador"
 
 #: Imperial_Era/units/Arendian_Hunter.cfg:19
 msgid ""
@@ -573,37 +338,36 @@ msgid ""
 "situations. They do not take orders, but must be asked to assist. They are "
 "typically glad to wield their blades in Arendian service."
 msgstr ""
-
-#: Imperial_Era/units/Arendian_Slayer.cfg:53
-#: Imperial_Era/units/Arendian_Hunter.cfg:53
-msgid "fire arrow"
-msgstr ""
+"Els caçadors són un antic culte en Arèndia. Aquestos hòmens solien eixir, "
+"amb només les capes a la seua esquena com a protecció, a caçar els dragons "
+"que vivien per Arèndia. Se'ls coneixia com a caçadors perquè encara no "
+"havien trobat la seua pressa. Quan l'havien trobada i l'havien morta a "
+"soles, se'ls coneixia com a matadors. Els arendians no tenen cap paraula per "
+"qui s'ha trobat amb un dragó i no l'ha mort, ja que tots eixos combats eren "
+"a mort, però la paraula més pròxima seria 'fodir', que es tradueix "
+"aproximadament com a 'menjar'.\n"
+" Per suposat, hui en dia, només els queden wyverns per caçar, i molt "
+"poquets, de tota manera; no obstant això, el culte dels caçadors perviu en "
+"un segment de l'exèrcit arendià. Actuen com una mena d'infanteria avançada "
+"en situacions especials, i no mai reben ordres, sinó que se'ls ha de demanar "
+"que ajuden. Típicament, estan més que complaguts d'empunyar les seues armes "
+"al servei d'Arèndia."
 
 #: Imperial_Era/units/Arendian_Mounted-Marksman.cfg:5
 msgid "Mounted Marksman"
-msgstr ""
+msgstr "Tirador a cavall"
 
 #: Imperial_Era/units/Arendian_Mounted_Warrior.cfg:5
 msgid "Mounted Warrior"
-msgstr ""
+msgstr "Guerrer a cavall"
 
 #: Imperial_Era/units/Arendian_Shaman.cfg:5
 msgid "Shaman"
-msgstr ""
-
-#: Imperial_Era/units/Arendian_Warlock.cfg:25
-#: Imperial_Era/units/Arendian_Shaman.cfg:24
-msgid "staff"
-msgstr ""
-
-#: Imperial_Era/units/Arendian_Warlock.cfg:39
-#: Imperial_Era/units/Arendian_Shaman.cfg:38
-msgid "fire ball"
-msgstr ""
+msgstr "Xaman"
 
 #: Imperial_Era/units/Arendian_Slayer.cfg:5
 msgid "Slayer"
-msgstr ""
+msgstr "Matador"
 
 #: Imperial_Era/units/Arendian_Slayer.cfg:20
 msgid ""
@@ -624,10 +388,27 @@ msgid ""
 "in the palace, and was won by the first king of Arendia, when he killed the "
 "greatest dragon to ever have blackened Arenida's skies."
 msgstr ""
+"En l'època dels dragons, quan un caçador, lluitava i ell a soles matava un "
+"dragó, se'l coneixia com a matador. Qualsevol matador podia ser reconegut "
+"com a tal per una capa roja brillant, un color que cap altre podia portar, "
+"ja que la feien a partir d'un tall de l'ala del dragó com a prova de la "
+"victòria. Un matador destre se la faria a partir de l'ala esquerra, mentre "
+"que un esquerrà se la faria amb l'ala de la dreta. Amb l'ala no usada solien "
+"fer-se una tenda o una insígnia de batalla, i les dens feien unes "
+"excel·lents puntes de fletxa, mentre que els ullals esdevenien dagues o "
+"corns on beure. Cap part del dragó es balafiava, i cap altre que no fora un "
+"matador podia posseir alguna cosa feta a partir d'un dragó.\n"
+"Hui en dia, cap home d'Arèndia pot igualar als antics matadors en habilitat, "
+"bàsicament perquè no queden autèntics dragons amb els que practicar, només "
+"wyverns. Tanmateix, una vegada un caçador ha assolit un nivell de "
+"preeminència entre els seus, després d'unes rigoroses proves, rep una capa "
+"de color roig brillant, però no de dragó, ja que l'última que es conserva es "
+"guarda al palau i va ser portada pel primer rei d'Arèndia quan va matar el "
+"més gran dragó que mai havia tapat el sol sobre Arèndia."
 
 #: Imperial_Era/units/Arendian_Swordsman.cfg:5
 msgid "Swordsman"
-msgstr ""
+msgstr "Espadatxí"
 
 #: Imperial_Era/units/Arendian_Swordsman.cfg:18
 msgid ""
@@ -636,11 +417,15 @@ msgid ""
 "from a clan's guards or enforcers, but mostly this is the job given to any "
 "man strong enough to fight who doesn't own a horse."
 msgstr ""
+"Els clans arendians es serveixen dels espadatxins quan el terreny és dur i "
+"usar la cavalleria seria difícil. A vegades provenen de la guàrdia del clan "
+"o de les patrulles, però habitualment són hòmens prou forts com per a "
+"lluitar però que no tenen un cavall i no han rebut gairebé cap entrenament."
 
 #: Imperial_Era/units/Wild_Elf_Wanderer.cfg:5
 #: Imperial_Era/units/Arendian_Wanderer.cfg:5
 msgid "Wanderer"
-msgstr ""
+msgstr "Caminant"
 
 #: Imperial_Era/units/Arendian_Wanderer.cfg:22
 msgid ""
@@ -659,20 +444,33 @@ msgid ""
 "been known to kill men fifty feet away in one snake like movement and flick "
 "of the wrist."
 msgstr ""
+"Els caminants són uns marginats dins a societat arendiana, ja que han comés "
+"algun acte que els deshonra bé a ells, bé a la seua família, i ara busquen "
+"reivindicar la seua deshonra errant per Arendia i matant tots aquells que "
+"siguen deshonorables o malvats. Sovint això inclou altres errants que han "
+"abandonat aquesta missió ja que aquestos hòmens són rebutjats per tots els "
+"arendians pel seus crims i la falta de remordiments. Tanmateix, fins que no "
+"recuperen el seu honor, són menyspreats i ridiculitzats per tots, encara que "
+"no mai a la seua cara, ja que el seu temperament i la seua habilitat amb "
+"qualsevol arma són reconegudes.\n"
+"Per suposat, encara que, com tots els arendians, estan obsessionats amb "
+"l'idea d'honor, això no ha impedit que hagen aprés alguns truquets pel camí, "
+"com ara el llançament de ganivets, amb el qual es diu que alguns han arribat "
+"a matar un home a 50 passos de distància amb un moviment serpentí."
 
 #: Imperial_Era/units/Arendian_Warlock.cfg:5
 msgid "Warlock"
-msgstr ""
+msgstr "Bruixot"
 
 #: Imperial_Era/units/Arendian_Warlord.cfg:5
 msgid "Warlord"
-msgstr ""
+msgstr "Senyor de la guerra"
 
 #: Imperial_Era/units/Marauder_Warrior.cfg:5
 #: Imperial_Era/units/Arendian_Warrior.cfg:5
 #: Imperial_Era/units/Wild_Elf_Warrior.cfg:5
 msgid "Warrior"
-msgstr ""
+msgstr "Guerrer"
 
 #: Imperial_Era/units/Arendian_Warrior.cfg:18
 msgid ""
@@ -688,14 +486,21 @@ msgid ""
 "although maces didn't pierce the armour, it could crush or crumple it, "
 "wounding the wearer."
 msgstr ""
-
-#: Imperial_Era/units/Arendian_Warrior.cfg:22
-msgid "mace"
-msgstr ""
+"Amb el creixement dels lavinians, els clans dels extrems meridionals "
+"d'Arèndia van trobar-se amb un greu problema entre mans: la majoria dels "
+"seus lluitadors emprava espases o arcs per lluitar, com havia estat el seu "
+"costum des de feia segles, però tots els lavinians portaven armadura de "
+"metal. El fet de portar armadura de metal no era desconegut als arendians, "
+"però només els millors lluitadors i els millors arquers en portaven, però no "
+"mai cobria tot el seu cos, ja que no en tenien prou i resultava molesta "
+"alhora de lluitar pel seu pes. Així que per fer front a aquest nou perill, "
+"aquestos clans van començar a entrenar els seus lluitadors amb maces en lloc "
+"d'espases, perquè les maces, encara que no perforaren l'armadura, podrien "
+"fer l'usuari."
 
 #: Imperial_Era/units/Cavernei_Dragonguard.cfg:5
 msgid "Dragonguard"
-msgstr ""
+msgstr "Guàrdia del drac"
 
 #: Imperial_Era/units/Cavernei_Dragonguard.cfg:19
 msgid ""
@@ -708,23 +513,18 @@ msgid ""
 "Cavernei citadels are both renowned and feared; weapons that have broken the "
 "mightiest of warriors in a single blow."
 msgstr ""
-
-#: Imperial_Era/units/Cavernei_Dragonguard.cfg:24
-#: Imperial_Era/units/Frost_Elf_Mistral_Glacialist.cfg:31
-#: Imperial_Era/units/Cavernei_Thunderguard.cfg:24
-#: Imperial_Era/units/Cavernei_Thunderer.cfg:40
-#: Imperial_Era/units/Frost_Elf_Bladesman.cfg:48
-#: Imperial_Era/units/Frost_Elf_Mistral_Cryomancer.cfg:32
-msgid "dagger"
-msgstr ""
-
-#: Imperial_Era/units/Cavernei_Dragonguard.cfg:63
-msgid "dragonstaff"
-msgstr ""
+"No està clar per quin motiu s'anomena així a la Guàrdia del drac, un nom "
+"donat pels seus germans nans. Alguns especulen que el seu orígen és la seva "
+"arma preferida, un estrany bastó que llança foc i mort. Altres han arribat a "
+"la conclusió que aquestes armes serien una amenaça fins i tot contra els "
+"autèntics dracs, si se'n tornerssin a veure volant sobre la terra. Sigui "
+"quin sigui el cas, és per aquestes armes que els guardians de les grans "
+"ciutadelles dels cavernei són conegudes i temudes. Armes que han vençut als "
+"guerrers més poderosos d'un sol cop."
 
 #: Imperial_Era/units/Cavernei_Eagle_Master.cfg:5
 msgid "Eagle Master"
-msgstr ""
+msgstr "Mestre d'àguiles"
 
 #: Imperial_Era/units/Cavernei_Eagle_Master.cfg:20
 msgid ""
@@ -732,15 +532,14 @@ msgid ""
 "extension of themselves. This special relationship makes the heart of the "
 "earth-bound tremble, for these mighty pairs may strike from anywhere."
 msgstr ""
-
-#: Imperial_Era/units/Cavernei_Eagle_Master.cfg:27
-#: Imperial_Era/units/Cavernei_Eagle_Rider.cfg:27
-msgid "claws"
-msgstr ""
+"Els mestres d'àguiles tenen una llarga experiència volant amb aquestes "
+"criatures, fins al punt que s'han convertit en una extensió d'ells mateixos. "
+"Aquesta relació tan especial espanta a qualsevol ésser terrestre, ja que "
+"aquesta poderosa parella pot atacar des de pràcticament qualsevol lloc."
 
 #: Imperial_Era/units/Cavernei_Eagle_Rider.cfg:5
 msgid "Eagle Rider"
-msgstr ""
+msgstr "Genet d'àguila"
 
 #: Imperial_Era/units/Cavernei_Eagle_Rider.cfg:20
 msgid ""
@@ -748,10 +547,13 @@ msgid ""
 "Eagle Riders, and discover the world of the skies upon the backs of these "
 "flying beasts."
 msgstr ""
+"Només uns pocs éssers vius establir vincles d'amistat amb les poderoses "
+"àguiles. Aquells que ho poden fer, esdevenen genets d'àguiles i descobreixen "
+"un nou món al cel."
 
 #: Imperial_Era/units/Cavernei_Fighter.cfg:5
 msgid "Fighter"
-msgstr ""
+msgstr "Lluitador"
 
 #: Imperial_Era/units/Cavernei_Fighter.cfg:23
 msgid ""
@@ -760,28 +562,14 @@ msgid ""
 "terrain or underground. Though not swift, their power and endurance more "
 "than compensate."
 msgstr ""
-
-#: Imperial_Era/units/Marauder_Boatsman.cfg:21
-#: Imperial_Era/units/Marauder_Sailor.cfg:22
-#: Imperial_Era/units/Marauder_Woodsman.cfg:22
-#: Imperial_Era/units/Marauder_Axeman.cfg:38
-#: Imperial_Era/units/Marauder_Sea_Wolf.cfg:23
-#: Imperial_Era/units/Cavernei_Fighter.cfg:27
-#: Imperial_Era/units/Marauder_Raider.cfg:22
-#: Imperial_Era/units/Marauder_Scout.cfg:21
-#: Imperial_Era/units/Marauder_Hunter.cfg:21
-msgid "axe"
-msgstr ""
-
-#: Imperial_Era/units/Cavernei_Steelclad.cfg:67
-#: Imperial_Era/units/Cavernei_Fighter.cfg:65
-#: Imperial_Era/units/Cavernei_Lord.cfg:68
-msgid "hammer"
-msgstr ""
+"Els lluitadors dels cavernei són uns formidables enemics que empunyen "
+"imponents destrals i martells, que els fan uns enemics temibles, "
+"particularment en terrenys muntanyosos o sota terra. Són lents, això sí, "
+"però la seva força i resistència ho compensa amb escreix."
 
 #: Imperial_Era/units/Cavernei_Guardsman.cfg:5
 msgid "Guardsman"
-msgstr ""
+msgstr "Guàrdia"
 
 #: Imperial_Era/units/Cavernei_Guardsman.cfg:22
 msgid ""
@@ -791,45 +579,17 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
-
-#: Imperial_Era/units/Lavinian_Decurion.cfg:58
-#: Imperial_Era/units/Cavernei_Stalwart.cfg:35
-#: Imperial_Era/units/Nemidian_Champion.cfg:37
-#: Imperial_Era/units/Nemidian_Champion.cfg:68
-#: Imperial_Era/units/Lavinian_Centurion.cfg:59
-#: Imperial_Era/units/Cavernei_Sentinel.cfg:40
-#: Imperial_Era/units/Cavernei_Guardsman.cfg:32
-#: Imperial_Era/units/Lavinian_Velite.cfg:32
-#: Imperial_Era/units/Lavinian_Velite.cfg:77
-#: Imperial_Era/units/Nemidian_Horseman.cfg:36
-#: Imperial_Era/units/Nemidian_Horseman.cfg:53
-#: Imperial_Era/units/Wild_Elf_Wanderer.cfg:30
-#: Imperial_Era/units/Wild_Elf_Wanderer.cfg:45
-#: Imperial_Era/units/Wild_Elf_Windrunner.cfg:33
-#: Imperial_Era/units/Wild_Elf_Windrunner.cfg:44
-#: Imperial_Era/units/Marauder_Valkyrie.cfg:24
-#: Imperial_Era/units/Lavinian_Skirmisher.cfg:38
-#: Imperial_Era/units/Lavinian_Skirmisher.cfg:135
-#: Imperial_Era/units/Nemidian_Hippopotamus.cfg:37
-#: Imperial_Era/units/Nemidian_River_Horse.cfg:36
-#: Imperial_Era/units/Nemidian_Claimant.cfg:36
-#: Imperial_Era/units/Nemidian_Claimant.cfg:67
-#: Imperial_Era/units/Wild_Elf_Tracker.cfg:32
-#: Imperial_Era/units/Wild_Elf_Tracker.cfg:43
-#: Imperial_Era/units/Marauder_Shieldmaiden.cfg:23
-msgid "spear"
-msgstr ""
-
-#: Imperial_Era/units/Cavernei_Stalwart.cfg:84
-#: Imperial_Era/units/Cavernei_Sentinel.cfg:89
-#: Imperial_Era/units/Cavernei_Guardsman.cfg:81
-msgid "javelin"
-msgstr ""
+"Els nans més resistents sovint s'uneixen a l'exèrcit dels cavernei com a "
+"guàrdies. Encara que no tenen un fort atac, guarden els flancs de l'exèrcit, "
+"absorbint quantitats enormes de dany i empunyant unes pesades llances amb "
+"les quals es defenen.\n"
+"\n"
+"Notes especials:"
 
 #: Imperial_Era/units/Marauder_Lord.cfg:5
 #: Imperial_Era/units/Cavernei_Lord.cfg:5
 msgid "Lord"
-msgstr ""
+msgstr "Senyor"
 
 #: Imperial_Era/units/Cavernei_Lord.cfg:20
 msgid ""
@@ -838,19 +598,15 @@ msgid ""
 "target with a thrown hand axe at several paces. Though slow on their feet, "
 "these dwarves are a testament to the prowess of their kin."
 msgstr ""
-
-#: Imperial_Era/units/Cavernei_Steelclad.cfg:28
-#: Imperial_Era/units/Cavernei_Lord.cfg:29
-msgid "battle axe"
-msgstr ""
-
-#: Imperial_Era/units/Cavernei_Lord.cfg:106
-msgid "hatchet"
-msgstr ""
+"Protegits amb unes lluentes armadures, aquests nans semblen autèntics reis "
+"de sota de les muntanyes. Empunyen l'atxa i el martell com mestres, i poden "
+"colpejar un objectiu des de la distància amb les seues destrals llancívoles. "
+"Tot i que són lents a l'hora de marxar, aquests nans són tot un exemple del "
+"valor dels de la seva raça."
 
 #: Imperial_Era/units/Cavernei_Runemaster.cfg:5
 msgid "Runemaster"
-msgstr ""
+msgstr "Mestre rúnic"
 
 #: Imperial_Era/units/Cavernei_Runemaster.cfg:19
 msgid ""
@@ -859,18 +615,14 @@ msgid ""
 "presence somehow imbue it with power. Though rarely seen in combat, a master "
 "of these runes can put them to terrifying use."
 msgstr ""
-
-#: Imperial_Era/units/Cavernei_Runemaster.cfg:23
-msgid "runic hammer"
-msgstr ""
-
-#: Imperial_Era/units/Cavernei_Runemaster.cfg:63
-msgid "Lightning bolt"
-msgstr ""
+"La màgia cavernei, pel que se sap, habitualment es manifesta sota la forma "
+"d'unes runes inscrites sobre la superfície d'un objecte, el qual, amb la "
+"seua mera presència, rep el seu poder. Encara que no solen ser vists en "
+"combat, un mestre rúnic pot emprar-les amb resultats temibles."
 
 #: Imperial_Era/units/Cavernei_Sentinel.cfg:5
 msgid "Sentinel"
-msgstr ""
+msgstr "Sentinella"
 
 #: Imperial_Era/units/Cavernei_Sentinel.cfg:22
 msgid ""
@@ -879,10 +631,14 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"El sentinella, amb el seu escut de cos complet i un gran coratge, rebutja "
+"rendir-se fins i tot sota els atacs més forts.\n"
+"\n"
+"Notes especials:"
 
 #: Imperial_Era/units/Cavernei_Stalwart.cfg:5
 msgid "Stalwart"
-msgstr ""
+msgstr "Defensor"
 
 #: Imperial_Era/units/Cavernei_Stalwart.cfg:21
 msgid ""
@@ -892,20 +648,27 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Els defensors, després d'anys de batalla, han aconseguit, d'entre els cossos "
+"dels seus enemics, uns nous escuts i una armadura més resistent. Encara que "
+"són lents, se'ls tem per la seua força i resistència.\n"
+"\n"
+"Notes especials:"
 
 #: Imperial_Era/units/Cavernei_Steelclad.cfg:5
 msgid "Steelclad"
-msgstr ""
+msgstr "Guàrdia d'acer"
 
 #: Imperial_Era/units/Cavernei_Steelclad.cfg:19
 msgid ""
 "The more experienced Cavernei Steelclad fighters wear heavy chain mail and "
 "plate armor, for which they are rightly famous."
 msgstr ""
+"Els guerrers cavernei més veterans usen cotes de malla i armadures de "
+"plaques. Aquests guerrers són coneguts sota el nom de guàrdies d'acer."
 
 #: Imperial_Era/units/Cavernei_Thunderer.cfg:5
 msgid "Thunderer"
-msgstr ""
+msgstr "Arcabusser"
 
 #: Imperial_Era/units/Cavernei_Thunderer.cfg:19
 msgid ""
@@ -913,15 +676,14 @@ msgid ""
 "power of the Cavernei Thunderers, who were able to hurl death from afar "
 "through the apparatus of these strange ... 'wands' they carried into battle."
 msgstr ""
-
-#: Imperial_Era/units/Cavernei_Thunderguard.cfg:73
-#: Imperial_Era/units/Cavernei_Thunderer.cfg:89
-msgid "thunderstick"
-msgstr ""
+"Quan els marauders van trobar-se per primera vegada amb els nans, es van "
+"quedar molt impressionats amb el poder dels arcabussers dels cavernei, "
+"capaços de disparar mort a través dels mecanismes d'aquests estranys... "
+"'bastons' que portaven en batalla."
 
 #: Imperial_Era/units/Cavernei_Thunderguard.cfg:5
 msgid "Thunderguard"
-msgstr ""
+msgstr "Guàrdia del tro"
 
 #: Imperial_Era/units/Cavernei_Thunderguard.cfg:20
 msgid ""
@@ -936,30 +698,27 @@ msgid ""
 "Though a single shot from these 'thundersticks' can take several minutes to "
 "prepare, the results are seen by the Dwarves as being well worth the wait."
 msgstr ""
+"La Guàrdia del tro és coneguda per les seves curioses armes, uns estranys "
+"bastons de fusta i ferro que fan un soroll ensordidor. Les intrigues al "
+"darrera d'aquesta arma són tot un misteri, un secret que els nans de Knalga "
+"porten a la tomba. L'únic que es coneix és que sembla que introdueixen una "
+"mena de pols negra per la boca de l'arma. Alguns asumeixen que aquest és "
+"l'aliment que dona força a les bèsties que s'amaguen al seu interior.\n"
+"\n"
+"Encara que un sol tret pot requerir minuts de preparació, els resultats "
+"obtinguts s'ho valen."
 
 #: Imperial_Era/units/Elder_Seal.cfg:5
 msgid "Elder Seal"
-msgstr ""
-
-#: Imperial_Era/units/Seal.cfg:29 Imperial_Era/units/Fleet_Seal.cfg:29
-#: Imperial_Era/units/Elder_Seal.cfg:30
-msgid "bite"
-msgstr ""
+msgstr "Foca ensinistrada"
 
 #: Imperial_Era/units/Fleet_Seal.cfg:5
 msgid "Fleet Seal"
-msgstr ""
+msgstr "Foca"
 
 #: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:5
 msgid "Alpine Ranger"
-msgstr ""
-
-#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:62
-#: Imperial_Era/units/Frost_Elf_Alpine_Ranger.cfg:81
-#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:42
-#: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:61
-msgid "ice pick"
-msgstr ""
+msgstr "Vigilant alpí"
 
 #: Imperial_Era/units/Frost_Elf_Archer.cfg:36
 msgid ""
@@ -967,10 +726,14 @@ msgid ""
 "archery. Those who prove themselves adept at this skill can hope to rise "
 "high, and perhaps even become leaders of their tribes."
 msgstr ""
+"Els elfs del gel, de la mateixa manera que els elfs dels boscos, tenen una "
+"alta estima a l'art del tir amb arc. Aquells que demostren la seua habilitat "
+"poden esperar pujar en la consideració social, fins i tot arribant a ser "
+"líders de la seua tribu."
 
 #: Imperial_Era/units/Frost_Elf_Bladesman.cfg:5
 msgid "Bladesman"
-msgstr ""
+msgstr "Espaser"
 
 #: Imperial_Era/units/Frost_Elf_Bladesman.cfg:26
 msgid ""
@@ -978,14 +741,18 @@ msgid ""
 "they have inherited from their forebears. They will not allow their people "
 "to fall before their enemies."
 msgstr ""
+"Els espasers formen la major part de l'exèrcit dels elfs dels gels i van a "
+"la batalla empunyant unes imponents espases que han heredat dels seus "
+"avantpassats. Tenen ben segur que no permetran que la seua gent caiga davant "
+"els seus enemics."
 
 #: Imperial_Era/units/Frost_Elf_Borealis.cfg:5
 msgid "Borealis"
-msgstr ""
+msgstr "Borealis"
 
 #: Imperial_Era/units/Frost_Elf_Gelus.cfg:5
 msgid "Gelus"
-msgstr ""
+msgstr "Gelus"
 
 #: Imperial_Era/units/Frost_Elf_Gelus.cfg:36
 msgid ""
@@ -993,32 +760,25 @@ msgid ""
 "meant to imply the hail of arrows they are capable of unleashing upon the "
 "unwary foe."
 msgstr ""
+"Els arquers més capacitats solen rebre la promoció a gelus, un rang que "
+"només implica la llúvia de fletxes que poden desatar sobre els enemics "
+"incautes."
 
 #: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:5
 msgid "Glaive Master"
-msgstr ""
-
-#: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:30
-#: Imperial_Era/units/Frost_Elf_Glaivier.cfg:29
-msgid "glaive"
-msgstr ""
-
-#: Imperial_Era/units/Frost_Elf_Glaive_Master.cfg:52
-#: Imperial_Era/units/Frost_Elf_Glaivier.cfg:51
-msgid "azegiz"
-msgstr ""
+msgstr "Mestre llancer"
 
 #: Imperial_Era/units/Frost_Elf_Glaivier.cfg:5
 msgid "Glaivier"
-msgstr ""
+msgstr "Llancer"
 
 #: Imperial_Era/units/Frost_Elf_Ice_Dancer.cfg:5
 msgid "Ice Dancer"
-msgstr ""
+msgstr "Dansarí del gel"
 
 #: Imperial_Era/units/Frost_Elf_Ice_Roamer.cfg:5
 msgid "Ice Roamer"
-msgstr ""
+msgstr "Caminant del gel"
 
 #: Imperial_Era/units/Frost_Elf_Ice_Roamer.cfg:28
 msgid ""
@@ -1028,22 +788,19 @@ msgid ""
 "other surfaces. Nonetheless, the abundance of icy surfaces in their homeland "
 "makes the trade worthwhile."
 msgstr ""
+"Els més elegants espasers esdevenen habitualment caminants del gel, i "
+"perfeccionen l'habilitat de la lluita sobre l'aigua gelada. Això comporta un "
+"preu: el seu focus en el gel els deixa un poc menys preparats per a lluitar "
+"sobre altres superfícies. Tanmateix, donada l'abundància de gel a sa pàtria, "
+"el canvi pareix beneficiós."
 
 #: Imperial_Era/units/Frost_Elf_Mistral_Cryomancer.cfg:5
 msgid "female^Mistral Cryomancer"
-msgstr ""
-
-#: Imperial_Era/units/Frost_Elf_Mistral_Magus.cfg:55
-#: Imperial_Era/units/Frost_Elf_Mistral_Glacialist.cfg:58
-#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Castellan.cfg:59
-#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Keeper.cfg:58
-#: Imperial_Era/units/Frost_Elf_Mistral_Cryomancer.cfg:59
-msgid "wind"
-msgstr ""
+msgstr "Criomant mestral"
 
 #: Imperial_Era/units/Frost_Elf_Mistral_Glacialist.cfg:5
 msgid "female^Mistral Glacialist"
-msgstr ""
+msgstr "Glacialista mestral"
 
 #: Imperial_Era/units/Frost_Elf_Mistral_Glacialist.cfg:28
 msgid ""
@@ -1051,10 +808,13 @@ msgid ""
 "masters of the violent and dangerous winds and frigid temperatures of their "
 "homeland."
 msgstr ""
+"Algunes magues mestrals han preferit millorar les seues habilitats de "
+"combat, esdevenint mestresses dels violents vents i les frígides "
+"temperatures de sa pàtria."
 
 #: Imperial_Era/units/Frost_Elf_Mistral_Magus.cfg:5
 msgid "female^Mistral Magus"
-msgstr ""
+msgstr "Maga mestral"
 
 #: Imperial_Era/units/Frost_Elf_Mistral_Magus.cfg:25
 msgid ""
@@ -1062,33 +822,18 @@ msgid ""
 "bond with the chill winds of their newfound home. They became known as the "
 "Mistral Magi, and passed on their skills to picked apprentices."
 msgstr ""
-
-#: Imperial_Era/units/Frost_Elf_Mistral_Magus.cfg:28
-#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Castellan.cfg:32
-#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Keeper.cfg:31
-msgid "wand"
-msgstr ""
-
-#: Imperial_Era/units/Frost_Elf_Mistral_Magus.cfg:29
-#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Castellan.cfg:33
-#: Imperial_Era/units/Frost_Elf_Mistral_Rime_Keeper.cfg:32
-#: Imperial_Era/units/Marauder_Seeress.cfg:53
-#: Imperial_Era/units/Marauder_Fay.cfg:53
-#: Imperial_Era/units/Marauder_Valkyrie.cfg:54
-#: Imperial_Era/units/Sidhe_Ancestor.cfg:43
-#: Imperial_Era/units/Sidhe_Forefather.cfg:44
-#: Imperial_Era/units/Marauder_Galdra.cfg:54
-#: Imperial_Era/units/Marauder_Shieldmaiden.cfg:53
-msgid "cold"
-msgstr ""
+"Ja des de'l començament de la seua història, alguns elfs del gel van trobar "
+"que tenien un llaç particular amb els vents gelats de sa nova pàtria. Van "
+"rebre el nom de mags mestrals, i van ensenyar les seues habilitats a certs "
+"selectes seguidors."
 
 #: Imperial_Era/units/Frost_Elf_Mistral_Rime_Castellan.cfg:5
 msgid "female^Mistral Rime Castellan"
-msgstr ""
+msgstr "Castellana de la rima"
 
 #: Imperial_Era/units/Frost_Elf_Mistral_Rime_Keeper.cfg:5
 msgid "Mistral Rime Keeper"
-msgstr ""
+msgstr "Guardiana de la rima"
 
 #: Imperial_Era/units/Frost_Elf_Mistral_Rime_Keeper.cfg:28
 msgid ""
@@ -1096,10 +841,13 @@ msgid ""
 "as well the art of healing, and is highly valued for his ability to use the "
 "ice and the gale to restore life, and not just to take it."
 msgstr ""
+"Una maga mestral realment hàbil aprèn no sols els camins de la guerra sinó "
+"també els de la curació, i és molt estimada per la seua habilitat d'usar el "
+"gel i el vent per a recuperar vides i no només llevar-les."
 
 #: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:5
 msgid "Mountaineer"
-msgstr ""
+msgstr "Muntanyer"
 
 #: Imperial_Era/units/Frost_Elf_Mountaineer.cfg:39
 msgid ""
@@ -1109,10 +857,15 @@ msgid ""
 "well as in the ice and snow, they will do all they can to help their people "
 "to survive in their harsh environment."
 msgstr ""
+"Aquells arquers que demostren la seua valia i també capacitats de lideratge "
+"reben la promoció a muntanyers. Aquestos guerrers han aprés a resistir els "
+"elements i lluiten bé tant en muntanyes i colls com entre la gel i la neu, i "
+"sempre faran tot allò que estiga en la seua mà per ajudar a la seua gent a "
+"sobreviure en un ambient tan inhòspit."
 
 #: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:6
 msgid "Yak Knight"
-msgstr ""
+msgstr "Cavaller iac"
 
 #: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:35
 #: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:34
@@ -1123,33 +876,23 @@ msgid ""
 "cannot imagine riding them, the cavalry is rightly feared for their cold "
 "efficiency."
 msgstr ""
-
-#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:38
-#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:37
-#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:37
-msgid "horns"
-msgstr ""
-
-#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:64
-#: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:87
-#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:63
-#: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:86
-#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:63
-#: Imperial_Era/units/Frost_Elf_Yak_Knight.cfg:86
-msgid "harpoon"
-msgstr ""
+"Alguns elfs del gels han criat uns iacs salvatges i els gasten com a "
+"cavalcadura, encara que la resta de races no poden entendre la seua "
+"predilecció per aquestes bèsties i no poden imaginar-se muntant-los. No "
+"obstant això, senten un més que merescut respecte per aquesta cavalleria, "
+"molt eficient en una clima gèlid."
 
 #: Imperial_Era/units/Frost_Elf_Yak_Rider.cfg:6
 msgid "Yak Rider"
-msgstr ""
+msgstr "Genet iac"
 
 #: Imperial_Era/units/Frost_Elf_Yakmount_Margrave.cfg:6
 msgid "Yakmount Margrave"
-msgstr ""
+msgstr "Príncep iac"
 
 #: Imperial_Era/units/Lavinian_Aquilifer.cfg:5
 msgid "Aquilifer"
-msgstr ""
+msgstr "Aquilifer"
 
 #: Imperial_Era/units/Lavinian_Aquilifer.cfg:19
 msgid ""
@@ -1162,27 +905,19 @@ msgid ""
 "and an object of honor for all of the Legionnaires, and it will give them "
 "strength in the battle even in the dead of night."
 msgstr ""
-
-#: Imperial_Era/units/Lavinian_Signifer.cfg:32
-#: Imperial_Era/units/Lavinian_Archuballistarius.cfg:32
-#: Imperial_Era/units/Lavinian_Decurion.cfg:32
-#: Imperial_Era/units/Lavinian_Funditor.cfg:29
-#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:33
-#: Imperial_Era/units/Lavinian_Centurion.cfg:33
-#: Imperial_Era/units/Lavinian_Slinger.cfg:28
-#: Imperial_Era/units/Lavinian_Legionnaire.cfg:29
-#: Imperial_Era/units/Lavinian_Aquilifer.cfg:33
-#: Imperial_Era/units/Lavinian_Propugnator.cfg:32
-#: Imperial_Era/units/Lavinian_Auxiliary.cfg:29
-#: Imperial_Era/units/Lavinian_Rorarius.cfg:29
-#: Imperial_Era/units/Lavinian_Ballista.cfg:29
-#: Imperial_Era/units/Lavinian_Light_Infantry.cfg:28
-msgid "gladius"
-msgstr ""
+"Un aquilifer, amb la seua pell de lleó sobre el seu cap i esquena, una "
+"àguila daurada sobre el seu estendard i els color roig i daurat de la legió "
+"sobre la seua armadura, és un símbol de l'imperi mateix. Només hi ha un "
+"aquilifer per legió, i ha de ser un home valent, coratjós i savi per poder "
+"accedir a tal dignitat, ja que, al portar l'àguila de la legió, es "
+"converteix en un blanc automàtic per a qualsevol enemic, i sovint ha de "
+"lluitar, i morir, defenent-la. L'àguila serveix d'inspiració i és un objecte "
+"d'honra per a tots els legionaris, i els donarà forces per a la batalla fins "
+"i tot en la més fosca nit."
 
 #: Imperial_Era/units/Lavinian_Archuballistarius.cfg:5
 msgid "Archuballistarius"
-msgstr ""
+msgstr "Archyballistarius"
 
 #: Imperial_Era/units/Lavinian_Archuballistarius.cfg:21
 msgid ""
@@ -1193,15 +928,16 @@ msgid ""
 "The Archuballistarius is also effective on the battlefield, although it "
 "moves rather slowly."
 msgstr ""
-
-#: Imperial_Era/units/Lavinian_Archuballistarius.cfg:78
-#: Imperial_Era/units/Lavinian_Ballista.cfg:75
-msgid "ballista"
-msgstr ""
+"La legió lavinia sol trobar-se, durant les seues conquestes, amb ciutats "
+"fortificades que no volen rendir-se. En lloc d'assaltar els murs de la "
+"ciutat, senzillament criden l'artilleria. La ciutat invariablement cau.\n"
+"\n"
+"L'archyballistarius també és efectiu en el camp de batalla, però és mou prou "
+"lentament."
 
 #: Imperial_Era/units/Lavinian_Auxiliary.cfg:5
 msgid "Auxiliary"
-msgstr ""
+msgstr "Auxiliar"
 
 #: Imperial_Era/units/Lavinian_Auxiliary.cfg:18
 msgid ""
@@ -1212,10 +948,16 @@ msgid ""
 "serving in the Legion for long enough, they will be granted Lavinian "
 "citizenship, and all the privileges that come with that."
 msgstr ""
+"Encara que els legionaris composen el nucli de l'exèrcit, hi ha un nombre "
+"igual d'auxilia dins d'una legió. Els auxilia no tenen un escut o molta "
+"armadura sinó que només empunyen una espasa, però la seua velocitat, "
+"adaptabilitat i nombre compensa aquests defectes. La seua esperança és que, "
+"servint en la legió prou de temps, se'ls concedisca la ciutadania lavínia, i "
+"tots els privilegis que això comporta."
 
 #: Imperial_Era/units/Lavinian_Ballista.cfg:5
 msgid "Field Ballista"
-msgstr ""
+msgstr "Balista"
 
 #: Imperial_Era/units/Lavinian_Ballista.cfg:25
 msgid ""
@@ -1225,10 +967,15 @@ msgid ""
 "although not exactly fast, and the ballista's controller is able to defend "
 "himself with a gladius if the ballista is attacked."
 msgstr ""
+"El propòsit fonamental d'una balista de l'exèrcit lavinià és atacar les "
+"ciutat que s'oposen a l'expansió de la legió. Tanmateix, també es mortífera "
+"contra els enemics al camp de batalla. Es prou menuda com per a fer possible "
+"el transport, encara que no particularment ràpid, i el controlador és capaç "
+"de defendre's si la balista rep cap atac."
 
 #: Imperial_Era/units/Lavinian_Bowman.cfg:5
 msgid "Bowman"
-msgstr ""
+msgstr "Arquer"
 
 #: Imperial_Era/units/Lavinian_Bowman.cfg:22
 msgid ""
@@ -1245,10 +992,22 @@ msgid ""
 "Special Notes: The Lavinian Bowman is so well armored that when he is "
 "defending, he will take reduced damage from physical weapons."
 msgstr ""
+"L'exèrcit lavinià no sols consisteix de legionaris i auxilia, encara que "
+"aquests són majoria, sinó que també compta amb arquers, que no han deixat de "
+"banda la natural afinitat lavínia per l'armadura pesada. Amb ella perden una "
+"certa mobilitat i eficàcia en combat, però es converteixen en tropes quasi "
+"indestructibles.\n"
+"\n"
+"Encara que això els deixa vulnerables front a la majoria d'enemics, els "
+"arquers no porten espases, cosa que els permet carregar amb un braser que "
+"pot emprar per encendre llurs fletxes abans de llançar-les.\n"
+"\n"
+"Notes especials: L'arquer lavinià està tan ben protegit que, quan defèn, les "
+"armes físiques li causen menys dany."
 
 #: Imperial_Era/units/Lavinian_Centurion.cfg:5
 msgid "Centurion"
-msgstr ""
+msgstr "Centurió"
 
 #: Imperial_Era/units/Lavinian_Centurion.cfg:19
 msgid ""
@@ -1258,18 +1017,16 @@ msgid ""
 "gladius and pila. He is not as formidable a fighter as a Praetorian Guard, "
 "but his knowledge and leadership more than make up for this."
 msgstr ""
-
-#: Imperial_Era/units/Lavinian_Decurion.cfg:87
-#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:92
-#: Imperial_Era/units/Lavinian_Centurion.cfg:88
-#: Imperial_Era/units/Lavinian_Legionnaire.cfg:142
-#: Imperial_Era/units/Lavinian_Propugnator.cfg:91
-msgid "pilum"
-msgstr ""
+"Un centurió, comandant d'una centúria sencera, necessita d'un coneixement "
+"ampli de les tàctiques i estratègies més adients per al seu rang. Porta "
+"damunt del casc una cresta roja que l'identifica i empunya, al contrari que "
+"els legionaris normals, una llarga llança juntament amb el gladius i els "
+"pila. No és un lluitador tan formidable com un guàrdia pretorià, però els "
+"seus coneixements i lideratge ho compensen més que de sobra."
 
 #: Imperial_Era/units/Lavinian_Decurion.cfg:5
 msgid "Decurion"
-msgstr ""
+msgstr "Decurió"
 
 #: Imperial_Era/units/Lavinian_Decurion.cfg:18
 msgid ""
@@ -1280,10 +1037,16 @@ msgid ""
 "of the Legionnaire, he is still a formidible opponent, and the loss of the "
 "shield actually allows him to attack quicker with his gladius."
 msgstr ""
+"Un decurió dirigeix un grup de 10 legionaris, guiant-los amb la precisió "
+"pròpia dels experts, i per ser més fàcilment reconegut pels seus soldats "
+"enmig del combat, porta la cresta roja del casc girada i la seua armadura de "
+"color d'or. Encara que ja no porta el pesat i rectangular escut dels "
+"legionaris, és encara un adversari formidable, a més que sense l'escut pot "
+"atacar fins i tot més ràpidament amb el seu gladius."
 
 #: Imperial_Era/units/Lavinian_Funditor.cfg:5
 msgid "Funditor"
-msgstr ""
+msgstr "Funditor"
 
 #: Imperial_Era/units/Lavinian_Funditor.cfg:18
 msgid ""
@@ -1295,15 +1058,17 @@ msgid ""
 "for although they know how to make bows, they are unskilled with them, and "
 "prefer to use more familiar weapons."
 msgstr ""
-
-#: Imperial_Era/units/Lavinian_Funditor.cfg:55
-#: Imperial_Era/units/Lavinian_Slinger.cfg:54
-msgid "sling"
-msgstr ""
+"Les dos armes del funditor són el gladius i la fona. Encara que és hàbil amb "
+"totes dos, ha dedicat la major part del seu entrenament a practicar amb la "
+"fona i es capaç de disparar ràpides i precises ràfegues en batalla. No "
+"obstant això, pot lluitar i guanyar en melé un nou legionari. Els funditores "
+"són la tropa més semblant a uns arquers de veritat que tenen els lavinians, "
+"ja que, encara que saben cóm fer arcs, no són gens hàbils amb ells i "
+"prefereixen emprar armes més familiars."
 
 #: Imperial_Era/units/Lavinian_Legionnaire.cfg:5
 msgid "Legionnaire"
-msgstr ""
+msgstr "Legionari"
 
 #: Imperial_Era/units/Lavinian_Legionnaire.cfg:18
 msgid ""
@@ -1315,16 +1080,17 @@ msgid ""
 "Auxilia protecting the flanks, but on his own a Legionnaire can still fight "
 "bravely."
 msgstr ""
-
-#: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:59
-#: Imperial_Era/units/Lavinian_Legionnaire.cfg:85
-#: Imperial_Era/units/Lavinian_Propugnator.cfg:58
-msgid "shield"
-msgstr ""
+"Els legionaris formen la columna vertebral de l'exèrcit lavinià. Comença a "
+"entrenar-se molt jove, i pot arribar a servir fins a 25 anys. Les seues "
+"armes són el gladius, una espasa curta, i el pilum, una mena d'atzagaia que "
+"es clava a l'escut de l'enemic, desequilibrant-lo amb el seu pes i fent "
+"entropessar al seu usuari. Generalment els legionaris combaten en formació, "
+"amb els auxilia protegint els flancs, però a soles un legionari també pot "
+"combatre braument."
 
 #: Imperial_Era/units/Lavinian_Light_Infantry.cfg:5
 msgid "Light Infantryman"
-msgstr ""
+msgstr "Infant lleuger"
 
 #: Imperial_Era/units/Lavinian_Light_Infantry.cfg:17
 msgid ""
@@ -1336,10 +1102,18 @@ msgid ""
 "sword make him perfect for taking out archers after the enemy's front lines "
 "have been decimated."
 msgstr ""
+"Després d'haver-se familiaritzat amb els gladii que portaven des d'un "
+"principi, l'infant lleuger lavinià ha mantingut eixa espada i a més li suma "
+"un lleuger escut de cuir. És l'únic membre de tot l'exèrcit lavinià que no "
+"porta cap armament a distància, però la seua relativa lleugeresa i rapidesa "
+"li permeten anar corrent d'un front de batalla a un altre. A més, la seua "
+"combinació de velocitat i esgrima el fan una elecció molt adient alhora "
+"d'eliminar els arquers darrere de les línies enemigues, una vegada que "
+"aquestes han estat delmades pels legionaris."
 
 #: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:5
 msgid "Praetorian Guard"
-msgstr ""
+msgstr "Guardià pretorià"
 
 #: Imperial_Era/units/Lavinian_Praetorian_Guard.cfg:19
 msgid ""
@@ -1350,10 +1124,16 @@ msgid ""
 "can also use to stun his opponent, and perhaps kill him. In addition to this "
 "shield, he bears two throwing spears and a short sword."
 msgstr ""
+"La tasca del guardià pretorià consisteix en protegir el Cèsar i la seua "
+"família - o qui siga el seu patró. Ara, després d'haver sobreeixit entre els "
+"seus companys, ocupa una posició extremadament prestigiosa: Guarda Imperial. "
+"El seu escut, prou gran com per a protegir-se ell mateix a més del seu "
+"patró, també és utilitzat en combat per atabalar el seu enemic, i potser "
+"matar-lo. A més d'aquest escut, porta la seua espasa curta i dos venables."
 
 #: Imperial_Era/units/Lavinian_Propugnator.cfg:5
 msgid "Propugnator"
-msgstr ""
+msgstr "Propugnator"
 
 #: Imperial_Era/units/Lavinian_Propugnator.cfg:18
 msgid ""
@@ -1364,10 +1144,16 @@ msgid ""
 "temporarily stunning him. Aside from that, his weapons are the same as an "
 "ordinary Legionnaire - a gladius, and two pila."
 msgstr ""
+"Només els combatents experimentats poden arribar al rang de propugnator, si "
+"s'estimen més no ser oficials i prefereixen combatre en primer línia. Porta "
+"una gran escut amb un oval de ferro en el centro, que empra tant per "
+"protegir-se més que bé i també per colpejar la cara del seu adversari, "
+"atordint-lo temporalment. A més d'aquest escut, les seues armes són les "
+"mateixes que un legionari: un gladius i dos pila."
 
 #: Imperial_Era/units/Lavinian_Rorarius.cfg:5
 msgid "Rorarius"
-msgstr ""
+msgstr "Rorarius"
 
 #: Imperial_Era/units/Lavinian_Rorarius.cfg:25
 msgid ""
@@ -1380,30 +1166,43 @@ msgid ""
 "only support troops, and without either Legionnaires or other Auxilia they "
 "are ineffective against most armies."
 msgstr ""
+"El rorarius és un lluitador de cos a cos tan bo com qualsevol altre membre "
+"de les legions, senzillament perquè el seu lleuger escut i la mancança "
+"d'armadura li permeten colpejar molt més fort amb el seu gladius. Tanmateix, "
+"aquesta capacitat ofensiva té un preu; encara que pot atacar més fortament "
+"que fins i tot un pretorià, també rep més dany en el contraatac, i no pot "
+"contestar als atacs a distància. Els rorarii són, clarament, uns lluitador "
+"magnífics, però no són més que tropes de recolzament, encara que sense "
+"elles, tant els legionaris com altres auxilia són poc efectius contra la "
+"majoria d'exèrcits."
 
 #: Imperial_Era/units/Lavinian_Saggitarius.cfg:5
 msgid "Saggitarius"
-msgstr ""
+msgstr "Saggitarius"
 
 #: Imperial_Era/units/Lavinian_Saggitarius.cfg:18
 msgid ""
 "Special Notes: The Lavinian Saggitarius is so well armored that when he is "
 "defending, he will take reduced damage from physical weapons."
 msgstr ""
+"Notes especials: El saggitarius lavinià està tan ben protegit que, quan "
+"defèn, les armes físiques li causen menys dany."
 
 #: Imperial_Era/units/Lavinian_Siege_Archer.cfg:5
 msgid "Siege Archer"
-msgstr ""
+msgstr "Arquer de setge"
 
 #: Imperial_Era/units/Lavinian_Siege_Archer.cfg:18
 msgid ""
 "Special Notes: The Lavinian Siege Archer is so well armored that when he is "
 "defending, he will take reduced damage from physical weapons."
 msgstr ""
+"Notes especials: L'arquer de setge lavinià està tan ben protegit que, quan "
+"defèn, les armes físiques li causen menys dany."
 
 #: Imperial_Era/units/Lavinian_Signifer.cfg:5
 msgid "Signifer"
-msgstr ""
+msgstr "Signifer"
 
 #: Imperial_Era/units/Lavinian_Signifer.cfg:18
 msgid ""
@@ -1413,10 +1212,16 @@ msgid ""
 "His standard has all of the awards his Century has recieved lined up, and a "
 "large hand at the top, serving as a point of reference for all the fighters."
 msgstr ""
+"Com a portaestendard de la seua centúria, el signifer gosa d'una posició "
+"envejable. No sol entrar en combat, sinó que més aviat inspira i i ajuda els "
+"seus company, i els dona un punt de referència on agrupar-se en cas de "
+"retirada. El seu estendard mostra tots els gallardons que la centúria ha "
+"rebut, i una gran mà al seu extrem que serveix de punt de referència per a "
+"tots els combatents."
 
 #: Imperial_Era/units/Lavinian_Skirmisher.cfg:5
 msgid "Skirmisher"
-msgstr ""
+msgstr "Fustigador"
 
 #: Imperial_Era/units/Lavinian_Skirmisher.cfg:31
 msgid ""
@@ -1427,10 +1232,17 @@ msgid ""
 "providing a skirmishing screen for the Legionnaires, and to help funnel "
 "cavalry and archers towards their more heavily armored allies."
 msgstr ""
+"El fustigador ha abandonat la seua arma originària, l'espasa, per una llança "
+"que empra tant a curta com a llarga distància. Ha perfeccionat l'art de "
+"moure's ràpidament entre línies, i pot defendre's contra tot tipus "
+"d'adversaris, tant a llarga com a curta distància. La seua tasca fonamental "
+"a la legió és la de donar una pantalla de protecció als legionaris, i "
+"d'ajudar a canalitzar la cavalleria i els arquers cap als seus companys més "
+"ben protegits."
 
 #: Imperial_Era/units/Lavinian_Slinger.cfg:5
 msgid "Slinger"
-msgstr ""
+msgstr "Fonder"
 
 #: Imperial_Era/units/Lavinian_Slinger.cfg:17
 msgid ""
@@ -1440,10 +1252,15 @@ msgid ""
 "all that dangerous to a fully equipped Legionnaire, it is often enough to "
 "take down the unarmored barbarians the Legion is usually fighting."
 msgstr ""
+"Encara que l'arc sol ser una arma més perillosa que la fona, molts auxiliars "
+"lavinians prefereixen aquesta última, per la seua cadència de tir i "
+"l'abundància de la munició. Encara que una ràpida pedra no és molt perillosa "
+"per a un legionari ben protegit, moltes vegades és més que suficient per "
+"tombar els bàrbars desprotegits amb els que solen combatre les legions."
 
 #: Imperial_Era/units/Lavinian_Velite.cfg:5
 msgid "Velite"
-msgstr ""
+msgstr "Veles"
 
 #: Imperial_Era/units/Lavinian_Velite.cfg:25
 msgid ""
@@ -1455,10 +1272,17 @@ msgid ""
 "runs around the battlefield, right past his opponents, until he finds "
 "someone he can defeat. Then he attacks."
 msgstr ""
+"Sovint un membre de les tribus bàrbares que s'han aliat amb l'imperi, el "
+"veles es cobreix el cap amb una pell de llop i vesteix amb robes verdes i "
+"marrons, i les seues armes consisteixen en uns venables i un xicotet escut "
+"de fusta. Els vélites, al mancar de l'entrenament en tàctiques habitual per "
+"als legionaris, lluiten d'una manera més aviat caòtica: corren d'una banda "
+"del camp de batalla a l'altra fins que troben algú que poden derrotar. "
+"Aleshores ataquen."
 
 #: Imperial_Era/units/Marauder_Axeman.cfg:5
 msgid "Axeman"
-msgstr ""
+msgstr "Llenyater"
 
 #: Imperial_Era/units/Marauder_Axeman.cfg:17
 msgid ""
@@ -1469,10 +1293,16 @@ msgid ""
 "to use a bow, and is often seen giving Warriors some much needed ranged "
 "suppport."
 msgstr ""
+"Els llenyaters dels vàndals vigilen que les seues aldees tinguen una bona "
+"reserva de llenya per als gelats hiverns de les terres del nord. També és "
+"molt hàbil alhora de construir les fortes empallissades que defenen els seus "
+"campaments. Encara que no és un lluitador tan llançat com el guerrer, sap "
+"com utilitzar l'arc, i moltes vegades apareix donant un recolzament a "
+"distància que tanta falta els fa als guerrers."
 
 #: Imperial_Era/units/Marauder_Boatsman.cfg:5
 msgid "Boatsman"
-msgstr ""
+msgstr "Barquer"
 
 #: Imperial_Era/units/Marauder_Boatsman.cfg:17
 msgid ""
@@ -1481,10 +1311,15 @@ msgid ""
 "on land. Their skills at boating do them well in wartime, when they take up "
 "arms and attack their enemies from the water."
 msgstr ""
+"La dieta dels vàndals consisteix en carn de caça i peix. Els barquers, amb "
+"les seues precàries embarcacions, es dediquen a la pesca en els rius i "
+"oceans, i la lleugeresa de les seues embarcacions els permet portar-les quan "
+"van per terra. Aquestes qualitats els fan molt útils en temps de guerra, ja "
+"que poden atacar els seus enemics des de l'aigua."
 
 #: Imperial_Era/units/Marauder_Crusher.cfg:5
 msgid "Crusher"
-msgstr ""
+msgstr "Esclafador"
 
 #: Imperial_Era/units/Marauder_Crusher.cfg:24
 msgid ""
@@ -1493,15 +1328,14 @@ msgid ""
 "which requires no finess, only brute strength.He will fight until either him "
 "or his opponent lies dead."
 msgstr ""
-
-#: Imperial_Era/units/Marauder_Crusher.cfg:45
-#: Imperial_Era/units/Marauder_Mauler.cfg:22
-msgid "maul"
-msgstr ""
+"L'única arma dels esclafadors és una gran maça de ferro, i no els cal cap "
+"altra arma, ja que són mestres de l'art dels berserkers, que no requereix "
+"cap habilitat particular, només pura força. Lluitaran fins que bé ells "
+"mateixos bé el seu adversari siga mort."
 
 #: Imperial_Era/units/Marauder_Fay.cfg:5
 msgid "female^Fay"
-msgstr ""
+msgstr "Bruixa"
 
 #: Imperial_Era/units/Marauder_Fay.cfg:19
 msgid ""
@@ -1513,24 +1347,17 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
-
-#: Imperial_Era/units/Marauder_Seeress.cfg:23
-#: Imperial_Era/units/Marauder_Fay.cfg:23
-#: Imperial_Era/units/Marauder_Galdra.cfg:24
-msgid "fist"
-msgstr ""
-
-#: Imperial_Era/units/Marauder_Seeress.cfg:52
-#: Imperial_Era/units/Marauder_Fay.cfg:52
-#: Imperial_Era/units/Marauder_Valkyrie.cfg:53
-#: Imperial_Era/units/Marauder_Galdra.cfg:53
-#: Imperial_Era/units/Marauder_Shieldmaiden.cfg:52
-msgid "cold blast"
-msgstr ""
+"Els vàndals i els elfs del gel mantenen la pau entre ells mitjançant "
+"l'intercanvi d'ostatges. Les princeses viuen a les aldees vàndales durant el "
+"primer quart de ses vides, i les nobles vàndales fan el mateix a terres dels "
+"elfs del gel. Allí, aprenen l'art de la màgia a mans dels elfs del gel, i, "
+"quan tornen, demostren la seua valia.\n"
+"\n"
+"Notes especials:"
 
 #: Imperial_Era/units/Marauder_Galdra.cfg:5
 msgid "female^Galdra"
-msgstr ""
+msgstr "Galdra"
 
 #: Imperial_Era/units/Marauder_Galdra.cfg:20
 msgid ""
@@ -1542,6 +1369,14 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Fins i tot els vàndals no comprenen el paper de les més grans bruixes dels "
+"vàndals, les galdra. Solen veure-les com a les dones guerreres dels seus "
+"senyors. En veritat, les gladra poden emprar (i ho faran) els seus poders "
+"màgics en el camp de batalla, però el seu autèntic lloc és el costat d'un "
+"thain vàndal, que les consultarà en busca de consell en les guerres contra "
+"els lavinians i els sidhe.\n"
+"\n"
+"Notes especials:"
 
 #: Imperial_Era/units/Marauder_Hunter.cfg:17
 msgid ""
@@ -1552,6 +1387,12 @@ msgid ""
 "practicing has allowed him to hone his markmanship, and he is a very able "
 "archer."
 msgstr ""
+"El caçador, a més de proveir les aldees dels vàndals amb fusta i protecció, "
+"els subministra carn fresca durant els llargs i durs hiverns. És més hàbil "
+"alhora de lluitar en els boscos que els altres vàndals, fonamentalment "
+"perquè és allà on sol viure la seua caça. Tantes hores practicant amb l'arc "
+"de caça l'han convertit en un arquer molt respectable, amb un molt encertada "
+"punteria."
 
 #: Imperial_Era/units/Marauder_Lord.cfg:21
 msgid ""
@@ -1563,10 +1404,17 @@ msgid ""
 "death. Many 'civilized' generals have underestimated the Marauder Lord's "
 "wits and tactics... And paid for their mistake with their lives."
 msgstr ""
+"Hi ha pocs vàndals que puguen arribar a tindre tal habilitat que reben el "
+"títol de senyor. Un senyor vàndal és el més fort entre els seus germans, i "
+"constantment aquestos germans desafien les seues habilitats i la posició de "
+"millor lluitador en la tribu. Les seues fites quasi heroiques i carisma "
+"inspiren altres vàndals a lluitar amb més força per la seua tribu i a mort. "
+"Molts generals 'civilitzats' han subestimat la intel·ligència i les "
+"tàctiques d'un senyor vàndal... i han pagat la seua errada amb ses vides."
 
 #: Imperial_Era/units/Marauder_Mauler.cfg:5
 msgid "Mauler"
-msgstr ""
+msgstr "Aniquilador"
 
 #: Imperial_Era/units/Marauder_Mauler.cfg:18
 msgid ""
@@ -1577,10 +1425,17 @@ msgid ""
 "this fervor is foolhardy and pointless, many a battle has been won because "
 "of the actions of the berserking Maulers."
 msgstr ""
+"La majoria d'esclafadors no sobreviuen a prou batalles com per a rebre el "
+"títol d'aniquilador. Aquell que ho fa, tanmateix, és sense cap dubte un "
+"enemic temible i imponent. Ataca sense cap consideració i lluita fins que "
+"arribe la mort a cap dels dos combatents - és per això que molts moren "
+"jóvens. Encara que els lluitadors 'civilitzats' consideren que aquest fervor "
+"és estúpid i inútil, més d'una batalla ha acabat en una victòria per les "
+"accions dels aniquiliadors berserkers."
 
 #: Imperial_Era/units/Marauder_Mounted_Axeman.cfg:5
 msgid "Mounted Axeman"
-msgstr ""
+msgstr "Genet"
 
 #: Imperial_Era/units/Marauder_Mounted_Axeman.cfg:17
 msgid ""
@@ -1592,15 +1447,17 @@ msgid ""
 "cutting down an enemy, especially if he had already stolen the animal from "
 "them in the first place."
 msgstr ""
-
-#: Imperial_Era/units/Marauder_Mounted_Axeman.cfg:21
-#: Imperial_Era/units/Marauder_Mounted_Axeman.cfg:36
-msgid "battleaxe"
-msgstr ""
+"Els cavalls són un bé molt escàs en la cultura dels vàndals, i a més és molt "
+"complicat portar-los en ràtzies a través de l'oceà. Tanmateix, qualsevol "
+"vàndal aprofitaria l'oportunitat de furtar un cavall durant alguna ràtzia, "
+"encara que només siga per al viatge de tornada. De tota, manera, tots els "
+"aspectes negatius d'anar muntat a cavall es passen per alt quan un vàndal "
+"mata un enemic per primera vegada amb un poderós cop de la seua destral des "
+"del cavall, particularment si el cavall era d'ell."
 
 #: Imperial_Era/units/Marauder_Pillager.cfg:5
 msgid "Pillager"
-msgstr ""
+msgstr "Saquejador"
 
 #: Imperial_Era/units/Marauder_Pillager.cfg:17
 msgid ""
@@ -1608,15 +1465,13 @@ msgid ""
 "Along with their longswords, they wield burning torches to incinerate their "
 "enemies."
 msgstr ""
-
-#: Imperial_Era/units/Marauder_Pillager.cfg:36
-#: Imperial_Era/units/Marauder_Scorcher.cfg:37
-msgid "torch"
-msgstr ""
+"Els saquejadors són més forts i experimentats que els guerrers normals. A "
+"més de les seues espases, porten unes torxes enceses que gasten per "
+"incinerar els seus enemics."
 
 #: Imperial_Era/units/Marauder_Raider.cfg:5
 msgid "Raider"
-msgstr ""
+msgstr "Incursor"
 
 #: Imperial_Era/units/Marauder_Raider.cfg:18
 msgid ""
@@ -1627,14 +1482,16 @@ msgid ""
 "in battle, for he can reach the front before the opponent and capture the "
 "good defensive terrain."
 msgstr ""
-
-#: Imperial_Era/units/Marauder_Raider.cfg:37
-msgid "net"
-msgstr ""
+"Només els millor exploradors reben el títol d'incursor, que denomina a qui "
+"pot destrossar les línies enemigues amb els seus atacs ràpids i temibles, i "
+"com a prova de la seua velocitat es diu que són capaços de capturar cavalls "
+"salvatges sense cap eina... i a peu. Aquesta mateixa velocitat és molt útil "
+"en batalla, perquè pot arribar al front molt abans que els seus enemics i "
+"ocupar bons terrenys defensius."
 
 #: Imperial_Era/units/Marauder_Sailor.cfg:5
 msgid "Sailor"
-msgstr ""
+msgstr "Mariner"
 
 #: Imperial_Era/units/Marauder_Sailor.cfg:18
 msgid ""
@@ -1644,10 +1501,15 @@ msgid ""
 "warfare. It takes immense skill for them to wield an axe in a boat as small "
 "as theirs."
 msgstr ""
+"Els pescadors vàndals passen tota sa vida amb les seues barques - fins i tot "
+"quan van per terra, porten les seues embarcacions a l'esquena. Ja saben tot "
+"el poden de marineria, però encara poden aprendre més de la guerra, ja que "
+"requereix una habilitat extraordinària empunyar una destral en un vaixell "
+"tant xicotet com el seu."
 
 #: Imperial_Era/units/Marauder_Scorcher.cfg:5
 msgid "Scorcher"
-msgstr ""
+msgstr "Incinerador"
 
 #: Imperial_Era/units/Marauder_Scorcher.cfg:18
 msgid ""
@@ -1659,10 +1521,18 @@ msgid ""
 "in battle is a constant source of tales throughtout the land, and even the "
 "most skilled warriors can not stand in their way for long."
 msgstr ""
+"Alguns dels més experimentats i temibles guerrers vàndals prefereixen no "
+"adoptar les responsabilitats de ser un senyor i s'estimen més ser els "
+"primers en desembarcar i entrar en batalla. Porten una torxa en batalla i, "
+"com a símbol del seu status en la societat dels vàndals, tenen el dret de "
+"cremar les primeres edificacions civilitzades durant les ràtzies. La seua "
+"força i fúria en combat donen peu a múltiples històries per tota la terra, i "
+"fins i tot els guerrers més experimentats troben difícil contenir-los molta "
+"estona."
 
 #: Imperial_Era/units/Marauder_Scout.cfg:5
 msgid "Scout"
-msgstr ""
+msgstr "Explorador"
 
 #: Imperial_Era/units/Marauder_Scout.cfg:17
 msgid ""
@@ -1673,10 +1543,17 @@ msgid ""
 "good defensive positions, and to run around looting villages so quickly the "
 "opponent's warriors cannot keep up."
 msgstr ""
+"Tots els xiquets vàndals reben una avaluació per part dels senyors del seu "
+"clan a l'edat de només vuit hiverns. Aquells que semblen més àgils i "
+"lleugers són seleccionats com a exploradors, els primers en entrar en "
+"qualsevol batalla i els últims en retirar-se. Els cabdills dels vàndals els "
+"solen emprar per evitar que l'enemic assolisca bones posicions defensives i "
+"per córrer saquejant les aldees enemigues tan ràpidament que cap guerrer "
+"enemic els puga acaçar."
 
 #: Imperial_Era/units/Marauder_Sea_Wolf.cfg:5
 msgid "Sea Wolf"
-msgstr ""
+msgstr "Llop de mar"
 
 #: Imperial_Era/units/Marauder_Sea_Wolf.cfg:19
 msgid ""
@@ -1686,10 +1563,16 @@ msgid ""
 "out onto the land, slay their victims, take their plunder, and retreat as "
 "quickly as they came."
 msgstr ""
+"En les aldees d'Arèndia es conten històries d'uns terribles saquejadors "
+"vàndals que, sota l'empar de la nit, arribaran amb els seus vaixells "
+"aprofitant els rius i només portaran foc i mort. Són els temibles llops de "
+"mar, que, amb els seus vaixells camuflats de negre, desembarcaran "
+"ràpidament, mataran les seues víctimes, prendran el botí i es retiraran tan "
+"apresa com van vindre."
 
 #: Imperial_Era/units/Marauder_Seeress.cfg:5
 msgid "female^Seeress"
-msgstr ""
+msgstr "Fetillera"
 
 #: Imperial_Era/units/Marauder_Seeress.cfg:19
 msgid ""
@@ -1700,10 +1583,17 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Com a conseqüència del seu pacte amb els elfs del gel i el seu intercanvi "
+"d'ostatges, algunes nobles vàndales han aprés l'art de la màgia d'aquestos "
+"elfs. No obstant això, la fetillera, després de tornar a casa, ha practicat "
+"les seues habilitats en batalla, arribant a tombar enemics amb un moviment "
+"de la seua mà.\n"
+"\n"
+"Notes especials:"
 
 #: Imperial_Era/units/Marauder_Shieldmaiden.cfg:5
 msgid "female^Shieldmaiden"
-msgstr ""
+msgstr "Guardiana"
 
 #: Imperial_Era/units/Marauder_Shieldmaiden.cfg:19
 msgid ""
@@ -1715,10 +1605,17 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Encara que el seu entrenament amb els elfs del gel els va ensenyar a emprar "
+"la màgia sense cap ajut material, algunes nobles vàndales prefereixen "
+"lluitar amb armes de debò. Per tant, aprofitant els seus coneixements de "
+"màgia, insuflen poder a les seues llances i fins i tot sense cap entrenament "
+"marcial poden superar als millors guerrers en el seu propi joc.\n"
+"\n"
+"Notes especials:"
 
 #: Imperial_Era/units/Marauder_Valkyrie.cfg:5
 msgid "female^Valkyrie"
-msgstr ""
+msgstr "Valquíria"
 
 #: Imperial_Era/units/Marauder_Valkyrie.cfg:20
 msgid ""
@@ -1734,6 +1631,17 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Nombroses històries circulen sobre les valquíries per Lavínia. Són, segons "
+"es diu, uns esperits de l'altre món que venen a reclamar ànimes per al seu "
+"exèrcit. Aquells que toquen amb les seues llances estan destinats a caure en "
+"batalla eixe mateix dia i a tornar a alçar-se per a lluitar pel bé en la "
+"batalla final que es lliurarà a la fi del temps. És una història intrigant, "
+"però no els serveix de consol a aquells legionaris que moren a mans de les "
+"valquíries, que no són més que unes nobles vàndales que han dominat el seu "
+"art i han pogut, fins i tot, donar-se ales de pardal - tan gran és el seu "
+"poder - per poder menejar-se millor pel camp de batalla.\n"
+"\n"
+"Notes especials:"
 
 #: Imperial_Era/units/Marauder_Warrior.cfg:17
 msgid ""
@@ -1744,10 +1652,16 @@ msgid ""
 "will live forever, drinking and feasting with the gods; it is this that "
 "gives them their fearlessness when fighting."
 msgstr ""
+"Els guerrers són la base de l'exèrcit vàndal. Són molt forts i més ràpids "
+"que la majoria de tropes per la seua armadura lleugera, cosa que els permet "
+"arribar al front abans que els seus enemics, i, una vegada aquestos fugen, "
+"acaçar-los i matar-los sense pietat. Els guerrers creuen que si moren en "
+"batalla, viuran per sempre, bevent i banquetejant amb els seus deus; és "
+"aquesta creença la que els fa combatre sense cap temor."
 
 #: Imperial_Era/units/Marauder_Woodsman.cfg:5
 msgid "Woodsman"
-msgstr ""
+msgstr "Forestal"
 
 #: Imperial_Era/units/Marauder_Woodsman.cfg:18
 msgid ""
@@ -1757,10 +1671,15 @@ msgid ""
 "markmanship with bow and pure strength is amazing. Many of them train by "
 "chopping down trees with a single blow."
 msgstr ""
+"Els forestals reben el respecte de tota la societat vàndala, i la seua caça "
+"i les seues habilitats forestals no tenen igual. A més, són evitats pels "
+"nombrosos enemics dels vàndals i molt se'ls tem - i amb una bona causa, ja "
+"que la seua punteria amb l'arc i la seua força bruta són impressionants. "
+"Molts d'ells s'entrenen tallant arbres amb un sol cop de la seua destral."
 
 #: Imperial_Era/units/Nemidian_Champion.cfg:5
 msgid "Champion"
-msgstr ""
+msgstr "Campió"
 
 #: Imperial_Era/units/Nemidian_Champion.cfg:33
 msgid ""
@@ -1772,15 +1691,17 @@ msgid ""
 "sun, the Lavinians believe - he could be mistaken for a Lavinian general, "
 "commanding his Legionnaires from horseback."
 msgstr ""
-
-#: Imperial_Era/units/Nemidian_Champion.cfg:54
-#: Imperial_Era/units/Nemidian_Claimant.cfg:53
-msgid "scimitar"
-msgstr ""
+"Un campió nemidià és un dels genets més hàbils tant de l'imperi com de "
+"Nemídia. Les seues càrregues amb la llança són temudes per tota la terra, a "
+"l'igual que la seua simitarra i les seues javelines. Ha adoptat la "
+"vestimenta habitual dels lavinians, fins i tot en els colors roig i daurat "
+"de les legions. Si no fora perquè la seua pell és negra - cremada pel sol, "
+"creuen els lavinians - podria ser confós amb un general lavinià que "
+"comandara els seus legionaris a cavall."
 
 #: Imperial_Era/units/Nemidian_Claimant.cfg:5
 msgid "Claimant"
-msgstr ""
+msgstr "Proclamador"
 
 #: Imperial_Era/units/Nemidian_Claimant.cfg:32
 msgid ""
@@ -1790,16 +1711,15 @@ msgid ""
 "addition, the Claimant now wields an additional weapon; a scimitar, which he "
 "uses when he does not wish to deal or recieve instant death."
 msgstr ""
+"Quan més hàbil és un genet nemidià, més ràpid pot fer córrer el seu cavall. "
+"El cavall d'un proclamador nemidià porta unes proteccions lleugeres, però "
+"encara així pot córrer més que el cavall d'un nou genet. A més, el "
+"proclamador empunya una arma addicional, una simitarra que pot usar quan no "
+"vol causar o rebre una morta instantània."
 
 #: Imperial_Era/units/Nemidian_Hippopotamus.cfg:5
 msgid "Hippopotamus"
-msgstr ""
-
-#: Imperial_Era/units/Nemidian_Hippopotamus.cfg:23
-#: Imperial_Era/units/Nemidian_River_Horse.cfg:22
-#: Imperial_Era/units/Nemidian_River_Calf.cfg:22
-msgid "head-butt"
-msgstr ""
+msgstr "Hipopòtam"
 
 #: Imperial_Era/units/Nemidian_Horseman.cfg:32
 msgid ""
@@ -1810,18 +1730,25 @@ msgid ""
 "only weapon is his spear, but his skill with it allows him to use it as a "
 "projectile, as well as a melee weapon."
 msgstr ""
+"La terra de Nemídia es governa autònomament, però té una forta aliança amb "
+"l'imperi lavinià, i freqüentment envia guerrers a ajudar en les seues "
+"batalles. El país té una gran fama pels seus reconeguts genets - tant que "
+"els lavinians, en lloc d'emprar cavalleria pròpia, prefereixen utilitzar la "
+"cavalleria nemidiana en batalla. L'única arma d'aquestos genets és la "
+"llança, però la seua habilitat amb li permet emprar-la tant com a projectil "
+"com com a arma de combat."
 
 #: Imperial_Era/units/Nemidian_River_Calf.cfg:5
 msgid "River Calf"
-msgstr ""
+msgstr "Cria de riu"
 
 #: Imperial_Era/units/Nemidian_River_Horse.cfg:5
 msgid "River Horse"
-msgstr ""
+msgstr "Cavall de riu"
 
 #: Imperial_Era/units/Seal.cfg:5
 msgid "Seal"
-msgstr ""
+msgstr "Cria de foca"
 
 #: Imperial_Era/units/Seal.cfg:26
 msgid ""
@@ -1830,10 +1757,14 @@ msgid ""
 "hunt, as it provides the Ice Elves with wider access to the bounty of the "
 "seas."
 msgstr ""
+"Les foques ensinistrades formen una part important de l'exèrcit, ja que "
+"permeten que aquestos elfs puguen controlar els mars. L'us d'aquestos aliats "
+"aquàtics també és beneficiós alhora de caçar, perquè dona als elfs del gel "
+"un millor accés a la riquesa dels mars."
 
 #: Imperial_Era/units/Sidhe_Ancestor.cfg:5
 msgid "Ancestor"
-msgstr ""
+msgstr "Avantpassat"
 
 #: Imperial_Era/units/Sidhe_Ancestor.cfg:23
 msgid ""
@@ -1842,21 +1773,15 @@ msgid ""
 "mortal realm, and wounds close as if they had never existed. Their voice can "
 "whisper in the wind the words that chill the hearts of their ennemies."
 msgstr ""
-
-#: Imperial_Era/units/Sidhe_Ancestor.cfg:27
-#: Imperial_Era/units/Sidhe_Forefather.cfg:28
-#: Imperial_Era/units/Sidhe_Warrior_Spirit.cfg:24
-msgid "ancient mace"
-msgstr ""
-
-#: Imperial_Era/units/Sidhe_Ancestor.cfg:42
-#: Imperial_Era/units/Sidhe_Forefather.cfg:43
-msgid "requiem"
-msgstr ""
+"Uns reverenciats guerrers d'antany vaguen pels boscos dels sidhe, només "
+"visibles per les seues brillants maces argentes. Només estan parcialment "
+"presents en el món mortal, i les seues ferides es tanquen com si mai "
+"hagueren existit. La seua veu pot xiuxiuejar al vent unes paraules que poden "
+"gelar els cors dels seus enemics."
 
 #: Imperial_Era/units/Sidhe_Forefather.cfg:5
 msgid "Forefather"
-msgstr ""
+msgstr "Ancestre"
 
 #: Imperial_Era/units/Sidhe_Forefather.cfg:24
 msgid ""
@@ -1864,10 +1789,13 @@ msgid ""
 "death chant, echoing through the trees, know that their silver maces are "
 "also near."
 msgstr ""
+"Els grans guerrers dels sidhe no han desaparegut, com molts podrien pensar. "
+"Quan sentes el seu cant de mort amb el seu particular eco entre els arbres, "
+"pots endevinar fàcilment que les seues espases argentes estan prop."
 
 #: Imperial_Era/units/Sidhe_Warrior_Spirit.cfg:5
 msgid "Warrior Spirit"
-msgstr ""
+msgstr "Esperit guerrer"
 
 #: Imperial_Era/units/Sidhe_Warrior_Spirit.cfg:20
 msgid ""
@@ -1875,20 +1803,25 @@ msgid ""
 "the forests of their former homes, seeking to perform the feats of arms they "
 "did in the past, and death is no obstacle..."
 msgstr ""
+"Els grans guerrers dels sidhe no han desaparegut, com molts podrien pensar. "
+"Vaguen pels boscos de ses antigues cases, buscant repetir les gestes "
+"guerreres que van realitzar en el passat, i la mort no és cap obstacle..."
 
 #: Imperial_Era/units/Wild_Elf_Bladespinner.cfg:5
 msgid "Bladespinner"
-msgstr ""
+msgstr "Revoltafulles"
 
 #: Imperial_Era/units/Wild_Elf_Bladespinner.cfg:19
 msgid ""
 "The better warriors of the sidhe are known as bladespinners. They can, it is "
 "said, cut a man in three different places before he will lift his weapon."
 msgstr ""
+"Els millors guerrers dels sidhe s'anomen els 'revoltafulles'. Poden, es diu, "
+"tallar un home per tres llocs diferents abans que alce la seua arma."
 
 #: Imperial_Era/units/Wild_Elf_Fury.cfg:5
 msgid "Fury"
-msgstr ""
+msgstr "Fúria"
 
 #: Imperial_Era/units/Wild_Elf_Fury.cfg:18
 msgid ""
@@ -1897,20 +1830,26 @@ msgid ""
 "as closely as they like, and their dagger has been felt in the heart of many "
 "a supposedly well-guarded mage."
 msgstr ""
+"Les fúries dels elfs salvatges no empunyen unes armes particularment "
+"poderoses, però són perillosos, no obstant això. La seua agilitat els permet "
+"sobrepassar enemics com volen, i la seua daga s'ha clavat en el cor d'algun "
+"suposadament ben defès mag."
 
 #: Imperial_Era/units/Wild_Elf_Herald.cfg:5
 msgid "Herald"
-msgstr ""
+msgstr "Herald"
 
 #: Imperial_Era/units/Wild_Elf_Herald.cfg:22
 msgid ""
 "The Heralds are sidhe who go out onto the battlefield, singing the warrior "
 "chants that drive the others onwards."
 msgstr ""
+"Els Heralds són aquells sidhe que es mouen pel camp de batalla cantant els "
+"cants marcials que animen la resta."
 
 #: Imperial_Era/units/Wild_Elf_Raindancer.cfg:5
 msgid "Raindancer"
-msgstr ""
+msgstr "Dansarí de la pluja"
 
 #: Imperial_Era/units/Wild_Elf_Raindancer.cfg:18
 msgid ""
@@ -1920,29 +1859,15 @@ msgid ""
 "young and brash noblemen are uninterested in study, and more likely to go "
 "practice their swordplay than their magic."
 msgstr ""
-
-#: Imperial_Era/units/Wild_Elf_Raindancer.cfg:37
-#: Imperial_Era/units/Wild_Elf_Warmage.cfg:38
-#: Imperial_Era/units/Wild_Elf_Stormlord.cfg:38
-#: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:41
-#: Imperial_Era/units/Wild_Elf_Tempest.cfg:37
-#: Imperial_Era/units/Wild_Elf_Windlasher.cfg:37
-msgid "lightning"
-msgstr ""
-
-#: Imperial_Era/units/Wild_Elf_Raindancer.cfg:38
-#: Imperial_Era/units/Wild_Elf_Warmage.cfg:39
-#: Imperial_Era/units/Wild_Elf_Stormlord.cfg:24
-#: Imperial_Era/units/Wild_Elf_Stormlord.cfg:39
-#: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:42
-#: Imperial_Era/units/Wild_Elf_Tempest.cfg:38
-#: Imperial_Era/units/Wild_Elf_Windlasher.cfg:38
-msgid "energy"
-msgstr ""
+"Els nobles dels sidhe són uns mags poderosos. Han concentrat els seus poders "
+"en cridar els llampecs d'un cel que, d'altra manera, estaria clar. Són "
+"precisament aquestes danses entre els llampecs les que els van donar el nom "
+"de dansarins de la pluja. Malauradament, els joves i violents nobles estan "
+"més interessats en l'esgrima que en l'estudi màgic."
 
 #: Imperial_Era/units/Wild_Elf_Shadowdancer.cfg:5
 msgid "Shadowdancer"
-msgstr ""
+msgstr "Dansarí de les ombres"
 
 #: Imperial_Era/units/Wild_Elf_Shadowdancer.cfg:19
 msgid ""
@@ -1950,10 +1875,13 @@ msgid ""
 "advised not to do so in his face, lest they wish to have their sword in "
 "their back."
 msgstr ""
+"Alguns potser menyspreen l'especialitat dels dansarins de les ombres, però "
+"és un bon consell que no els ho diguen a la cara, a no ser que vulguen "
+"tindre una espasa clavada en l'esquena."
 
 #: Imperial_Era/units/Wild_Elf_Stormlord.cfg:5
 msgid "Stormlord"
-msgstr ""
+msgstr "Senyor de la tempesta"
 
 #: Imperial_Era/units/Wild_Elf_Stormlord.cfg:19
 msgid ""
@@ -1962,14 +1890,14 @@ msgid ""
 "distrust them because of this, but they fear them even more. And if a sidhe "
 "fears someone..."
 msgstr ""
-
-#: Imperial_Era/units/Wild_Elf_Stormlord.cfg:23
-msgid "lightning staff"
-msgstr ""
+"Un senyor de la tempesta ha passat tota la seua vida estudiant màgia. Ha "
+"abandonat la pràctica amb les armes i la majoria d'actes físics per açò. "
+"Molts elfs salvatges desconfien d'ells per això, però encara els temen més. "
+"I si un sidhe tem algú..."
 
 #: Imperial_Era/units/Wild_Elf_Tempest.cfg:5
 msgid "Tempest"
-msgstr ""
+msgstr "Tempestat"
 
 #: Imperial_Era/units/Wild_Elf_Tempest.cfg:18
 msgid ""
@@ -1977,10 +1905,13 @@ msgid ""
 "They call down lightning with ease and use a magic whose raw destructive "
 "power is almost unequaled."
 msgstr ""
+"Els mags més majors, que els sidhe veuen com savis, reben el nom de "
+"tempestat. Poden cridar els llampecs amb facilitat i usen una màgia amb un "
+"poder de destrucció inigualable."
 
 #: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:5
 msgid "Thunderblade"
-msgstr ""
+msgstr "Espasa de llàmpecs"
 
 #: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:19
 msgid ""
@@ -1990,14 +1921,15 @@ msgid ""
 "be awarded a thunderblade, a special sword enchanted with a fragment of the "
 "sidhe lord's great weapon."
 msgstr ""
-
-#: Imperial_Era/units/Wild_Elf_Thunderblade.cfg:23
-msgid "thunderblade"
-msgstr ""
+"Quan va morir el primer senyor sidhe en batalla, els sidhe van recollir tots "
+"els trossos de la seua espada i els seus mags els van conservar com si d'un "
+"tresor es tractara. Si un sidhe demostra ser un gran guerrer i té la màgia "
+"dels nobles, pot rebre una espasa de llampecs, una espasa especial encantada "
+"amb un fragment de l'espasa d'aquell noble senyor."
 
 #: Imperial_Era/units/Wild_Elf_Tracker.cfg:5
 msgid "Tracker"
-msgstr ""
+msgstr "Rastrejador"
 
 #: Imperial_Era/units/Wild_Elf_Tracker.cfg:25
 msgid ""
@@ -2008,10 +1940,17 @@ msgid ""
 "shrub, giving it a poisonout tinge, but they would consider it cowardly to "
 "do this for their javelins as well."
 msgstr ""
+"Els rastrejadors dels elfs salvatges, assenyalats com uns dels millors "
+"exploradors coneguts, són hàbils tant en el combat cos a cos com a distància "
+"amb les seus llances curtes.\n"
+"\n"
+"Notes especials: La seua llança que utilitzen al combat cos a cos està "
+"coberta amb la substància d'una planta en concret; tanmateix, considerarien "
+"una covardia fer el mateix amb les seues javelines."
 
 #: Imperial_Era/units/Wild_Elf_Veiledblade.cfg:5
 msgid "Veiledblade"
-msgstr ""
+msgstr "Espasa secreta"
 
 #: Imperial_Era/units/Wild_Elf_Veiledblade.cfg:18
 msgid ""
@@ -2019,6 +1958,9 @@ msgid ""
 "through the enemy's defense, and stealthily hit an unexpecting foe, often "
 "mortally so."
 msgstr ""
+"No tots els sidhe prefereixen lluitar cara a cara. Els obscurs espases "
+"secretes poden travessar els defenses enemigues i atacar sense que ningú "
+"s'adone un enemic que no s'ho espere, normalment amb resultats mortals."
 
 #: Imperial_Era/units/Wild_Elf_Wanderer.cfg:23
 msgid ""
@@ -2027,10 +1969,14 @@ msgid ""
 "with short spears that they use quite ... convincingly, though their real "
 "usefulness is for running ahead."
 msgstr ""
+"Alguns dels sidhe tenen un temperament més solitari i prefereixen rastrejar "
+"i explorar abans que combatre. Aquesta gent, coneguda com caminants, van "
+"armats amb unes llances que usen d'una manera prou... convincent, diríem. "
+"Tanmateix, el seu millor rol en la batalla és caminar endavant de l'exèrcit. "
 
 #: Imperial_Era/units/Wild_Elf_Wardancer.cfg:5
 msgid "Wardancer"
-msgstr ""
+msgstr "Dansarí de guerra"
 
 #: Imperial_Era/units/Wild_Elf_Wardancer.cfg:20
 msgid ""
@@ -2038,10 +1984,14 @@ msgid ""
 "unbelievable, but he is an amateur compared to a mighty wardancer. For a man "
 "will be killed 3 times over before he touches the ground."
 msgstr ""
+"Els dansarins de guerra són unes llegendes entre els sidhe. L'habilitat d'un "
+"revoltafulles pot semblar increïble, però no és més que un amateur comparat "
+"amb els dansarins de guerra, ja que poden un matar un home fins a 3 vegades "
+"abans que toque terra."
 
 #: Imperial_Era/units/Wild_Elf_Warmage.cfg:5
 msgid "War Mage"
-msgstr ""
+msgstr "Mag de guerra"
 
 #: Imperial_Era/units/Wild_Elf_Warmage.cfg:19
 msgid ""
@@ -2050,6 +2000,11 @@ msgid ""
 "sword in hand. Their prowess with the sword are easily those of a warrior "
 "and their magic is a welcome ally."
 msgstr ""
+"Pocs sidhe poden passar molt de temps allunyats de la batalla. Els mags de "
+"guerra són nobles sidhe que, encara que s'han entrenat com mags, gasten la "
+"major part del seu temps amb una espasa en la mà. Les seues habilitats amb "
+"l'espasa són equivalents a les d'un guerrer, i la seua màgia sempre és una "
+"aliada benvinguda."
 
 #: Imperial_Era/units/Wild_Elf_Warrior.cfg:19
 msgid ""
@@ -2057,20 +2012,27 @@ msgid ""
 "fast, strong blows and avoiding them just as easily. Their only weakness is "
 "the frailty due to their distaste for armor."
 msgstr ""
+"Els guerrers sidhe, forts i àgils, són uns espadatxins mortífers, capaços de "
+"donar cops forts i ràpids i d'evitar-los al mateix temps amb la mateixa "
+"facilitat. Tanmateix, donat que no els agrada portar armadura, poden ser una "
+"miqueta fràgils, el seu únic punt feble."
 
 #: Imperial_Era/units/Wild_Elf_Warsinger.cfg:5
 msgid "Warsinger"
-msgstr ""
+msgstr "Cantor"
 
 #: Imperial_Era/units/Wild_Elf_Warsinger.cfg:23
 msgid ""
 "The Warsinger is a master of the songs of combat. A powerful warrior "
 "himself, he can drive his companions into battle frenzies."
 msgstr ""
+"El Cantor és un mestre de les cançons marcials. A més de ser un poderós "
+"guerrer per sí mateix, pot fer que els seus companys entren en un estat de "
+"fúria assassina."
 
 #: Imperial_Era/units/Wild_Elf_Whirlwind.cfg:5
 msgid "Whirlwind"
-msgstr ""
+msgstr "Huracà"
 
 #: Imperial_Era/units/Wild_Elf_Whirlwind.cfg:19
 msgid ""
@@ -2078,10 +2040,13 @@ msgid ""
 "he cannot face a sword-hacking man in direct combat, but he does not need "
 "to. His skills lie elsewhere."
 msgstr ""
+"Un huracà no es algú amb qui es dega barallar. És segur, no pot enfrontar-se "
+"a un espadatxí en combat directe, però no ho necessite. Les seues habilitats "
+"resideixen en altres coses."
 
 #: Imperial_Era/units/Wild_Elf_Wildblade.cfg:5
 msgid "Wildblade"
-msgstr ""
+msgstr "Fulla salvatge"
 
 #: Imperial_Era/units/Wild_Elf_Wildblade.cfg:18
 msgid ""
@@ -2090,10 +2055,14 @@ msgid ""
 "allows them to avoid direct combat, instead going unnoticed through the "
 "battlefront and killing the wounded."
 msgstr ""
+"Hi ha molts capaços de matar un fulla salvatge en combat, però els sidhe no "
+"ho consideren un problema. L'agilitat i velocitat d'aquestos guerrers els "
+"permet evitar el combat directe, preferint al seu torn menejar-se sense ser "
+"vists per darrere de les línies de batalla i matant els ferits."
 
 #: Imperial_Era/units/Wild_Elf_Windlasher.cfg:5
 msgid "Windlasher"
-msgstr ""
+msgstr "Ventador"
 
 #: Imperial_Era/units/Wild_Elf_Windlasher.cfg:18
 msgid ""
@@ -2101,10 +2070,14 @@ msgid ""
 "one. He must stop the training in arms and devote himself to the study of "
 "magic. Few choose this path, but it is a worthy one."
 msgstr ""
+"El sidhe que es dedique a seguir el camí dels estudis per ser un ventador "
+"trobarà que la seua és una vida difícil. Deu deixar de banda les pràctiques "
+"amb les armes i entregar-se a la màgia. Pocs trien aquest camí, però de ben "
+"segur que és profitós."
 
 #: Imperial_Era/units/Wild_Elf_Windrunner.cfg:5
 msgid "Windrunner"
-msgstr ""
+msgstr "Fill del vent"
 
 #: Imperial_Era/units/Wild_Elf_Windrunner.cfg:26
 msgid ""
@@ -2116,3 +2089,173 @@ msgid ""
 "shrub, giving it a poisonout tinge, but they would consider it cowardly to "
 "do this for their javelins as well."
 msgstr ""
+"Els fills del vent són els millors exploradors que el sidhe tenen al seu "
+"abast. La  seua velocitat és increïble, a l'igual que la seua habilitat amb "
+"les llances, siga en combat cos a cos o a distància. Això sí, potser moren "
+"prompte en combat directe.\n"
+"\n"
+"Notes especials: La seua llança que utilitzen al combat cos a cos està "
+"coberta amb la substància d'una planta en concret; tanmateix, considerarien "
+"una covardia fer el mateix amb les seues javelines."
+
+#~ msgid "sword"
+#~ msgstr "espasa"
+
+#~ msgid "blade"
+#~ msgstr "talla"
+
+#~ msgid "bow"
+#~ msgstr "arc"
+
+#~ msgid "pierce"
+#~ msgstr "perfora"
+
+#~ msgid "flail"
+#~ msgstr "flagel"
+
+#~ msgid "impact"
+#~ msgstr "impacta"
+
+#~ msgid "Staff"
+#~ msgstr "Bastó"
+
+#~ msgid "fireball"
+#~ msgstr "bola d foc"
+
+#~ msgid "fire"
+#~ msgstr "foc"
+
+#~ msgid "throwing knives"
+#~ msgstr "ganivets llancívols"
+
+#~ msgid "fire arrow"
+#~ msgstr "fletxa de foc"
+
+#~ msgid "staff"
+#~ msgstr "bastó"
+
+#~ msgid "fire ball"
+#~ msgstr "bola de foc"
+
+#~ msgid "mace"
+#~ msgstr "maça"
+
+#~ msgid "dagger"
+#~ msgstr "daga"
+
+#~ msgid "dragonstaff"
+#~ msgstr "eixordadora"
+
+#~ msgid "claws"
+#~ msgstr "garres"
+
+#~ msgid "axe"
+#~ msgstr "destral"
+
+#~ msgid "hammer"
+#~ msgstr "martell"
+
+#~ msgid "spear"
+#~ msgstr "llança"
+
+#~ msgid "javelin"
+#~ msgstr "javelina"
+
+#~ msgid "battle axe"
+#~ msgstr "destral de guerra"
+
+#~ msgid "hatchet"
+#~ msgstr "destral"
+
+#~ msgid "runic hammer"
+#~ msgstr "martell rúnic"
+
+#~ msgid "Lightning bolt"
+#~ msgstr "raig"
+
+#~ msgid "thunderstick"
+#~ msgstr "arcabús"
+
+#~ msgid "bite"
+#~ msgstr "mos"
+
+#~ msgid "ice pick"
+#~ msgstr "piolet"
+
+#~ msgid "glaive"
+#~ msgstr "llança"
+
+#~ msgid "azegiz"
+#~ msgstr "punyal"
+
+#~ msgid "wind"
+#~ msgstr "vent"
+
+#~ msgid "wand"
+#~ msgstr "bastó"
+
+#~ msgid "cold"
+#~ msgstr "fred"
+
+#~ msgid "horns"
+#~ msgstr "corns"
+
+#~ msgid "harpoon"
+#~ msgstr "arpó"
+
+#~ msgid "gladius"
+#~ msgstr "gladius"
+
+#~ msgid "ballista"
+#~ msgstr "balista"
+
+#~ msgid "pilum"
+#~ msgstr "pilum"
+
+#~ msgid "sling"
+#~ msgstr "fona"
+
+#~ msgid "shield"
+#~ msgstr "escut"
+
+#~ msgid "maul"
+#~ msgstr "maça"
+
+#~ msgid "fist"
+#~ msgstr "puny"
+
+#~ msgid "cold blast"
+#~ msgstr "colp de gelor"
+
+#~ msgid "battleaxe"
+#~ msgstr "destral de batalla"
+
+#~ msgid "torch"
+#~ msgstr "torxa"
+
+#~ msgid "net"
+#~ msgstr "xarxa"
+
+#~ msgid "scimitar"
+#~ msgstr "simitarra"
+
+#~ msgid "head-butt"
+#~ msgstr "cop"
+
+#~ msgid "ancient mace"
+#~ msgstr "maça ancestral"
+
+#~ msgid "requiem"
+#~ msgstr "rèquiem"
+
+#~ msgid "lightning"
+#~ msgstr "llàmpec"
+
+#~ msgid "energy"
+#~ msgstr "energia"
+
+#~ msgid "lightning staff"
+#~ msgstr "bastó de rajos"
+
+#~ msgid "thunderblade"
+#~ msgstr "espasa de llàmpecs"
